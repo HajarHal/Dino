@@ -4,6 +4,7 @@ WORKDIR /app/frontend
 COPY frontend/package.json frontend/package-lock.json ./
 RUN npm ci
 COPY frontend/ ./
+COPY copy/ /app/copy/
 RUN npm run build
 
 # Étape 2 : serveur Python
