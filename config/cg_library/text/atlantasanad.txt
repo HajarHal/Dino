@@ -1,0 +1,4336 @@
+
+
+=== Page 1 ===
+Assurance Automobile
+Référence MR-AUTO AS03/2021
+CONDITIONS GÉNÉRALES
+MULTIRISQUE 
+AUTOMOBILE
+AUTO+
+
+
+=== Page 2 ===
+
+
+=== Page 3 ===
+
+
+=== Page 4 ===
+www.atlantasanad.ma
+S O M M A I R E
+
+
+=== Page 5 ===
+PREAMBULE
+DEFINITIONS
+TITRE I - DISPOSITIONS GENERALES 
+CHAPITRE 1 - LE CONTENU DU CONTRAT
+Article 1 : Définition de l’Assuré
+Article 2 : Définition du véhicule assuré 
+Article 3 : Risques garantis
+Article 4 : Etendue géographique
+Article 5 : Protection des données à caractère personnel
+TITRE Il - LES RISQUES GARANTIS 
+CHAPITRE 1 - LA GARANTIE RESPONSABILITE CIVILE
+CHAPITRE 2 - LES GARANTIES DOMMAGES
+Article 6 : Dommages Tous Accidents (DTA) 
+Article 7 : Dommages Collision
+Article 8 : Vol 
+Article 9 : Incendie
+Article 10 : Bris de Glaces 
+Article 11 : Défense et Recours
+CHAPITRE 3 - LES GARANTIES COMPLEMENTAIRES AUX GARANTIES DOMMAGES
+Article 12 : Inondation 
+Article 13 : Perte Financière
+Article 14 : Rachat de la Vétusté 
+Article 15 : Valeur à Neuf
+Article 16 : Accessoires et Aménagements Professionnels 
+Article 17 : Bagages et Effets Personnels
+Article 18 : Panne Mécanique
+CHAPITRE 4 - LES GARANTIES DES DOMMAGES CAUSES AU CONDUCTEUR ET AUX PASSAGERS
+Article 19 : Protection du Conducteur 
+Article 20 : Protection des Passagers
+CHAPITRE  5 - LA GARANTIE OBLIGATOIRE CONTRE LES CONSEQUENCES DES EVENEMENTS 
+CATASTROPHIQUES
+Article 21 : Définition
+Article 22 : Garantie contre les conséquences des événements catastrophiques accordée au titre du contrat 
+d’assurance couvrant la responsabilité civile en raison des dommages corporels ou matériels causes a des tiers 
+par un véhicule terrestre à moteur ou par ses remorques ou ses semi-remorques, prévu au 2° de l’article 64-1 
+de la loi 17-99 portant code des assurances
+Article 23 : Garantie obligatoire contre les conséquences des événements catastrophiques accordée au titre du 
+contrat d’assurance garantissant les dommages aux biens, prévu au 1 ° de l’article 64-1 de la loi 17-99 portant 
+code des assurances
+Article 24 : Exclusions
+CHAPITRE 6 - LES EXCLUSIONS D’ASSURANCE COMMUNES
+Article 25 : Exclusions communes à l’ensemble des garanties autres que la garantie Responsabilité Civile
+TITRE lll - LA VIE DU CONTRAT
+CHAPITRE 1 - FORMATION, DATE D’EFFET, DUREE ET RESILIATION DU CONTRAT
+Article 26 : Formation, date d’effet et durée du contrat 
+Article 27 : Résiliation
+Article 28 : Suspension 
+Article 29 : Prescription
+CHAPITRE 2 - DECLARATION DES RISQUES PAR L’ASSURE
+Article 30 : Déclaration du risque 
+Article 31 : Fausse déclaration
+CHAPITRE 3 - PRIMES
+Article 32 : Défaut de paiement de prime 
+Article 33 : Mise en demeure
+Article 34 : Résiliation du contrat 
+Article 35 : Révision de la prime
+CHAPITRE 4 - DECLARATION ET REGLEMENT DES SINISTRES
+Article 36 : Obligations de l’Assuré en cas de sinistre 
+Article 37 : Limites des garanties et franchises  
+Article 38 : Règle Proportionnelle
+Article 39 : Procédure d’indemnisation
+Article 40 : Dispositions spéciales à la garantie Bris de Glaces 
+Article 41 : Dispositions spéciales à la garantie Défense et Recours
+Article 42 : Dispositions spéciales aux garanties Protection du Conducteur et Protection des Passagers
+Article 43 : Subrogation
+ANNEXES
+Annexe l : Conditions Générales Type « Responsabilité Civile Automobile » 
+Annexe ll : Barème des incapacités
+Annexe lll : Barème de calcul de la vétusté et de la Valeur Vénale
+08
+06
+06
+08
+08
+08
+08
+08
+08
+09
+09
+09
+10
+10
+11
+11
+11
+12
+12
+12
+13
+13
+13
+13
+20
+20
+21
+21
+21
+21
+21
+22
+22
+22
+22
+22
+23
+23
+23
+23
+23
+23
+24
+24
+24
+25
+16
+16
+26
+32
+34
+19
+17
+17
+18
+19
+09
+12
+20
+16
+26
+19
+17
+
+
+=== Page 6 ===
+6
+PREAMBULE
+Ce contrat a pour objet de garantir les risques 
+découlant de la propriété, de l’usage et/ou de la 
+garde du véhicule assuré. L’Assureur accorde, pour 
+ces risques, les garanties définies par les présentes 
+Conditions Générales et ses annexes, lorsqu’elles sont 
+mentionnées aux Conditions Particulières.
+Le présent contrat est régi par :
+•	
+Le Dahir n° 1-02-238 du 3 octobre 2002 portant 
+promulgation de la loi n° 17-99 portant code 
+des assurances telle qu’elle a été modifiée et 
+complétée ainsi que par tous les textes pris pour 
+son application ;
+•	
+Les Conditions Générales-type du contrat relatif 
+à l’assurance Responsabilité Civile Automobile 
+fixées par Arrêté du ministre des Finances et de 
+la privatisation n° 1053-06 du 28 Rabii Il 1427 (26 
+mai 2006) dont un exemplaire est annexé aux 
+Conditions Générales ;
+•	
+Les Conditions Générales qui suivent ;
+•	
+Les Conditions Particulières annexées au présent 
+contrat.
+Ce contrat est conclu entre :
+Le Souscripteur du contrat désigné aux Conditions 
+Particulières ; qui s’engage au paiement des primes 
+pour son propre compte en tant que propriétaire 
+du véhicule ou pour le compte de toute autre 
+personne désignée en tant qu’Assuré aux Conditions 
+Particulières ;
+Et
+L’Assureur AtlantaSanad, société anonyme ayant son 
+siège social à Casablanca, au 181 Boulevard d’Anfa, ci-
+après dénommée Assureur.
+Ce contrat prend effet à la date indiquée aux 
+Conditions Particulières.
+Les déclarations à la souscription ou au cours du 
+contrat du Souscripteur/Assuré servent de base 
+au présent contrat, lequel dès qu’il a pris existence, 
+devient incontestable.
+Le présent contrat est composé des présentes 
+Conditions Générales et des Conditions Particulières 
+ci-jointes.
+DEFINITIONS
+Il faut entendre par les termes qui suivent :
+•	
+Accessoire :  tout élément d’enjolivement (y 
+compris les peintures publicitaires), d’amélioration, 
+d’agrément ou de sécurité, fixé au véhicule et ne 
+figurant pas au catalogue    du   constructeur 
+comme   équipement    optionnel non essentiel    au 
+fonctionnement du véhicule assuré, à l’exclusion 
+des aménagements professionnels. L’accessoire 
+est :
+	-
+Soit livré par le constructeur, sans surcoût, en 
+même temps que le véhicule assuré ;
+	-
+Soit non livré par le constructeur et faisant 
+l’objet d’une facturation séparée, quelle que 
+soit sa date d’installation.
+•	
+Accident : tout évènement non intentionnel de la 
+part de l’Assuré, imprévisible et provenant d’une 
+cause extérieure, prévu par le contrat, qui entraîne 
+des dommages corporels ou matériels.
+•	
+Aménagements professionnels : éléments ou 
+parties du véhicule, fixés à celui-ci, destinés 
+à permettre ou faciliter l’exercice de l’activité 
+professionnelle (tels que caisse frigorifique, 
+rayonnages, taximètre, radiotéléphone. etc.).
+•	
+Assureur : AtlantaSanad, sise 181, Bd d’Anfa - 
+Casablanca.
+•	
+Avenant : accord additionnel entre l’Assureur 
+et l’Assuré modifiant ou complétant le présent 
+contrat d’assurance, dont il fait partie intégrante.
+•	
+Bénéficiaire : la personne, physique ou morale, 
+qui a droit à l’indemnité.
+•	
+Capital assuré : valeur déclarée au contrat et 
+constituant la limite d’engagement de l’Assureur.
+•	
+Capital assuré épuisable : plafond d’indemnisation 
+par période de couverture souscrite dans le 
+contrat qui s’épuise avec l’indemnisation de 
+chaque sinistre survenu dans la période de 
+couverture.
+•	
+Carte verte : carte internationale d’assurance 
+attestant l’extension de la garantie aux pays 
+indiqués aux Conditions Particulières.
+•	
+Constat amiable : document que doit remplir 
+l’Assuré en cas de sinistre matériel. Il doit 
+indiquer notamment les circonstances, le lieu, la 
+date et l’heure de l’accident ainsi que les autres 
+informations nécessaires à la gestion du sinistre.
+•	
+Contrat d’assurance : convention passée entre 
+le Souscripteur et l’Assureur pour la couverture 
+d’un risque et constatant leurs engagements 
+réciproques.
+•	
+Date d’effet : date à partir de laquelle le risque est 
+pris en charge par l’Assureur.
+•	
+Date d’échéance : date à laquelle est prévue la fin 
+du contrat d’assurance.
+•	
+Déchéance : la perte du droit, total ou partiel, à 
+indemnité au titre du sinistre suite au non-respect 
+par l’Assuré de l’un de ses engagements, sans que 
+cela n’entraîne la nullité du contrat. (Article 1 de la 
+loi 17-99 portant code des assurances).
+•	
+Déconfiture : situation d’un débiteur hors d’état 
+de payer ses créanciers.
+•	
+Dommages : dégâts matériels causés au véhicule 
+assuré ainsi que les dommages corporels causés 
+à l’Assuré ou à un Tiers.
+
+
+=== Page 7 ===
+7
+•	
+Durée du Contrat : durée des engagements 
+réciproques de l’Assureur et de l’Assuré dans le 
+cadre du contrat d’assurance.
+•	
+Durée Ferme : expiration pure et simple du 
+contrat d’assurance, à la fin de la période pour 
+laquelle il a été souscrit et ce sans préavis des 
+parties contractantes.
+•	
+Durée renouvelable par tacite reconduction : 
+	
+la durée est dite renouvelable par tacite 
+reconduction, lorsque le contrat arrive à son 
+échéance et se renouvelle automatiquement, 
+sauf dénonciation par l’une ou l’autre des parties 
+moyennant un préavis de trente (30) jours avant 
+l’échéance du contrat, sauf stipulation contraire 
+pour ce délai de préavis indiquée aux Conditions 
+Particulières.
+•	
+Echéance de prime : date à laquelle est exigible le 
+paiement d’une prime.
+•	
+Franchise : somme qui, dans le règlement d’un 
+sinistre, reste toujours à la charge de l’Assuré 
+et dont le montant est fixé aux Conditions 
+Particulières.
+•	
+Indemnité d’assurance : montant versé par 
+l’Assureur conformément aux dispositions du 
+contrat d’assurance, en réparation du préjudice 
+subi par l’Assuré.
+•	
+Invalidité permanente : déficit physiologique 
+résultant des blessures consécutives au sinistre.
+•	
+Personnes transportées à titre gratuit : tout 
+passager transporté sans rémunération, même s’il 
+est transporté par l’Assuré en vue de la recherche 
+d’une affaire commune, ou, si sans payer de 
+rétribution du transport proprement dite, il 
+participe aux frais de route.
+•	
+Perte totale :  le véhicule assuré est considéré en 
+perte totale :
+	-
+Lorsqu’à   dire   d’experts   le véhicule   est 
+réformé   techniquement (réforme technique) 
+ou économiquement (réforme économique) ;
+	-
+En cas de disparition du véhicule assuré suite 
+à un vol.
+•	
+Prime : somme que doit payer le Souscripteur 
+en contrepartie des garanties accordées par 
+l’Assureur.
+•	
+Réforme économique :  un véhicule est déclaré, 
+à la suite d’un accident de la circulation, 
+économiquement irréparable lorsque le montant 
+estimé des réparations est supérieur ou égal aux 
+2/3 de la Valeur Vénale du véhicule au jour du 
+sinistre. 
+•	
+Réforme technique : un véhicule est déclaré par 
+l’expert à la suite d’un accident de la circulation, 
+techniquement irréparable lorsque, en raison de la 
+gravité des dommages qu’il a subi à la suite d’un 
+accident, il ne pourrait pas, malgré les réparations, 
+être en état de circuler et/ou constituerait un 
+danger pour la sécurité routière.
+•	
+Sinistre : réalisation de l’évènement susceptible 
+d’entraîner la garantie, à condition qu’il soit 
+survenu pendant la période de validité du contrat, 
+c’est-à-dire dès sa prise d’effet jusqu’à sa date 
+d’échéance ou, le cas échéant, jusqu’à sa résiliation 
+ou sa suspension.
+•	
+Souscripteur : personne physique ou morale qui 
+contracte une assurance pour son compte ou le 
+compte d’autrui, et qui de ce fait s’engage envers 
+l’Assureur au paiement de la prime.
+•	
+Subrogation : substitution de l’Assureur dans les 
+droits et actions de l’Assuré, en contrepartie du 
+paiement de l’indemnité.
+•	
+Tiers : personne physique ou morale autre que 
+l’Assuré, le Souscripteur et le Propriétaire du 
+véhicule assuré et toute personne ayant avec leur 
+autorisation, la garde ou la conduite du véhicule 
+assuré.
+•	
+Valeur à dires d’expert : prix auquel le véhicule 
+peut être vendu sur le marché de l’occasion. Elle 
+est fixée par l’expert.
+•	
+Valeur à Neuf : c’est la valeur catalogue figurant 
+sur la facture d’achat (hors remises). 
+•	
+Valeur Vénale : c’est la valeur du véhicule au 
+moment du sinistre. Elle est déterminée selon le 
+barème de dépréciation (Annexe lll).
+•	
+Vétusté : dépréciation du véhicule ou des pièces 
+en raison de l’usure, l’âge ou l’état d’entretien du 
+véhicule. Elle est déterminée selon le barème de 
+dépréciation (Annexe lll) et vient en déduction de 
+l’indemnité définitive.
+
+
+=== Page 8 ===
+8
+TITRE I - DISPOSITIONS 
+GENERALES
+CHAPITRE 1 - LE CONTENU DU CONTRAT
+ARTICLE 1 : DEFINITION DE L’ASSURE
+Personne physique ou morale sur laquelle ou sur les 
+intérêts de laquelle repose l’assurance.
+•	
+Pour la garantie Responsabilité Civile : selon la 
+définition de l’article 1 des Conditions Générales-
+Type du contrat relatif à l’assurance Responsabilité 
+Civile Automobile ;
+•	
+Pour les garanties Dommages Tous Accidents 
+(DTA), Dommages Collision, Vol, Incendie, 
+Bris de Glaces, Inondation, Perte financière, 
+Rachat de Vétusté, Valeur à Neuf, Accessoires 
+et 
+Aménagements 
+Professionnels, 
+Bagages 
+et Effets Personnels, Panne Mécanique : le 
+propriétaire du véhicule ;
+•	
+Pour la garantie Défense et Recours :
+	-
+En ce qui concerne la défense pénale : le 
+Souscripteur, le Propriétaire du véhicule assuré 
+et toute personne ayant avec l’autorisation de 
+l’un ou de l’autre, la garde et/ou la conduite du 
+véhicule assuré à l’exception des garagistes 
+et personnes pratiquant habituellement le 
+courtage, la vente, la réparation, le dépannage 
+ou le contrôle du bon fonctionnement 
+des véhicules automobiles, ainsi que leurs 
+préposés en ce qui concerne les véhicules qui 
+leurs sont confiés en raison de leur fonction ;
+	-
+En ce qui concerne le recours : l’Assuré tel qu’il 
+est défini ci-dessus, ainsi que les conjoints, 
+ascendants directs ou alliés, descendants 
+du Souscripteur, du propriétaire du véhicule 
+assuré ou du conducteur autorisé lorsqu’ils 
+sont transportés dans le véhicule assuré ;
+•	
+Pour la garantie Protection du Conducteur : le 
+conducteur du véhicule assuré au moment de 
+l’accident ;
+•	
+Pour la garantie Protection des Passagers :  le 
+conducteur et les passagers transportés à titre 
+gratuit dans le véhicule assuré au moment de 
+l’accident.
+ARTICLE 2 : DEFINITION DU VEHICULE ASSURE
+L’Assureur garantit le véhicule terrestre à moteur 
+non lié à une voie ferrée, soumis à l’obligation légale 
+d’assurance et désigné aux Conditions Particulières 
+et, le cas échéant, ses remorques ou semi-remorques 
+désignées également aux Conditions Particulières.
+ARTICLE 3 : RISQUES GARANTIS
+L’Assureur   garantit   les   risques   ci-dessous 
+énumérés   lorsqu’ils   sont   expressément stipulés, 
+avec une valeur assurée, aux Conditions Particulières 
+du présent contrat :
+•	
+Responsabilité Civile Automobile ;
+•	
+Dommages Tous Accidents (DTA) ;
+•	
+Dommages Collision ;
+•	
+Vol ; 
+•	
+Incendie ;
+•	
+Bris de Glaces ;
+•	
+Défense et Recours ; 
+•	
+Inondation ;
+•	
+Perte Financière ;
+•	
+Rachat de la Vétusté ;
+•	
+Valeur à Neuf ;
+•	
+Accessoires et Aménagements Professionnels ;
+•	
+Bagages et Effets Personnels ;
+•	
+Panne Mécanique ; 
+•	
+Protection du Conducteur ; 
+•	
+Protection des Passagers.
+Dans le cas où une garantie souscrite comporte une 
+franchise, cette franchise restera obligatoirement à 
+la charge de l’Assuré et sera déduite de l’indemnité 
+définitive.
+ARTICLE 4 : ETENDUE GEOGRAPHIQUE
+Pour les garanties prévues à l’article 3 ci-dessus, 
+l’assurance produit ses effets au Maroc.
+Elle produit également ses effets pour l’ensemble des 
+garanties de l’article 3 ci-dessus, à l’exception des 
+garanties Vol et Panne Mécanique ; sauf si cela est 
+expressément spécifié aux Conditions Particulières et 
+moyennant surprime :
+•	
+Dans les pays adhérant à la convention-type inter 
+bureau régissant le système de la carte verte ;
+•	
+Dans les pays adhérant à la convention entre 
+les pays membres de la ligue des Etats arabes 
+relative à la circulation des véhicules automobiles 
+dans les pays arabes et à la carte internationale 
+arabe d’assurance pour les véhicules automobiles 
+(carte orange) signée à Tunis le 15 Rabii 11 1395 (26 
+avril 1975) et publiée par le Dahir n° 1-77-183 du 5 
+Chaoual 1397 (19 Septembre 1977) ;
+•	
+Dans les pays adhérant à une convention 
+bilatérale ou multilatérale relative à toute autre 
+carte dûment ratifiée et publiée par le Maroc.
+Pour la carte verte, la liste des Etats où l’assurance 
+produit ses effets, à l’exception de ceux qui sont 
+barrés, figure au verso de ladite carte.
+La garantie peut être étendue par accord des parties 
+à tout Etat désigné expressément dans les Conditions 
+Particulières.
+Par ailleurs, si l’Assuré déclare qu’il réside dans 
+l’une des provinces sahariennes désignées dans la 
+réglementation en vigueur, il doit produire à cet effet 
+les documents exigés par ladite règlementation pour 
+justifier sa résidence.
+ARTICLE 5 : PROTECTION DES DONNEES A 
+CARACTERE PERSONNEL
+Les données personnelles demandées par l’Assureur 
+ont 
+un 
+caractère 
+obligatoire 
+pour 
+obtenir 
+la 
+souscription du présent contrat et l’exécution de 
+l’ensemble des services qui y sont rattachés. Elles 
+sont utilisées exclusivement à cette fin par les 
+services de l’Assureur et les Tiers autorisés. La durée 
+de conservation de ces données est limitée à la durée 
+du contrat d’assurance et à la période postérieure 
+pendant laquelle leur conservation est nécessaire pour 
+permettre à l’Assureur de respecter ses obligations en 
+fonction des délais de prescription ou en application 
+d’autres dispositions légales.
+
+
+=== Page 9 ===
+9
+Par ailleurs, la communication des informations de 
+l’Assuré/Souscripteur est limitée aux communications 
+obligatoires en fonction des obligations légales et 
+réglementaires qui s’imposent à l’Assureur et aux Tiers 
+légalement autorisés à obtenir lesdites informations.
+L’Assureur garantit notamment le respect de la 
+loi n°09-08 relative à la protection des personnes 
+physiques à l’égard du traitement des données à 
+caractère personnel. Les données sont protégées 
+aussi bien sur support physique qu’électronique, de 
+telle sorte que leur accès soit impossible à des Tiers 
+non autorisés.
+L’Assureur s’assure que les personnes habilitées à 
+traiter les données personnelles connaissent leurs 
+obligations légales en matière de protection de ces 
+données et s’y tiennent.
+Les données à caractère personnel peuvent à 
+tout moment faire l’objet d’un droit d’accès, de 
+modification, de rectification et d’opposition auprès 
+du département Conformité joignable à l’adresse 
+suivante : conformite@atlantasanad.ma.
+De manière expresse, l’Assuré/Souscripteur autorise 
+l’Assureur à utiliser ses coordonnées à des fins de 
+prospections commerciales en vue de proposer 
+d’autres services d’assurance. Il peut s’opposer par 
+courrier à la réception de sollicitations commerciales.
+TITRE ll - LES RISQUES 
+GARANTIS
+CHAPITRE 1 - LA GARANTIE 
+RESPONSABILITE CIVILE
+La garantie Responsabilité Civile Automobile visée 
+à l’article 120 de la loi n° 17-99 portant Code des 
+Assurances est régie par les Conditions Générales-
+Type fixées par l’arrêté du ministre des Finances et de 
+la privatisation n° 1053-06 du 28 Rabii Il 1427 (26 Mai 
+2006) (Annexe I).
+CHAPITRE 2 - LES GARANTIES DES 
+DOMMAGES
+Les garanties définies dans le présent chapitre 
+sont accordées quand elles sont mentionnées aux 
+Conditions Particulières et à condition que la prime 
+correspondante soit payée par le Souscripteur, et 
+sous réserve :
+•	
+Des exclusions d’assurances stipulées dans le 
+Chapitre 6 ci-dessous ;
+•	
+Des exclusions relatives à chaque garantie et 
+extension citées ci-dessous ;
+•	
+Des limitations de garantie et des franchises fixées 
+aux Conditions Particulières. 
+ARTICLE 6 : DOMMAGES TOUS ACCIDENTS 
+(DTA)
+A. OBJET DE LA GARANTIE
+Lorsqu’elle 
+est 
+expressément 
+mentionnée 
+aux 
+Conditions Particulières, dans la limite du plafond qui 
+y est indiqué, moyennant prime et en application de 
+la franchise, cette garantie, souscrite en Valeur à Neuf, 
+indemnise les dommages subis par le véhicule assuré, 
+lorsque ces dommages sont dus :
+•	
+A un choc avec un corps fixe ou mobile ;
+•	
+A la collision avec un autre véhicule ;
+•	
+Au renversement du véhicule ;
+•	
+Aux dommages occasionnés par la chute d’objets 
+ou de substances sur le véhicule en stationnement.
+Cette garantie ainsi que ses extensions sont 
+accordées en capital assuré épuisable. Cette garantie 
+n’interviendra que pour les sinistres dont le coût est 
+supérieur au montant de la franchise précisée aux 
+Conditions Particulières, et seulement pour le surplus 
+au-delà de cette somme.
+B. EXCLUSIONS   SPECIFIQUES   A   LA   GARANTIE 
+DOMMAGES   TOUS   ACCIDENTS (DTA)
+Outre les exclusions prévues dans le Chapitre 6 et 
+sans préjudice aux dispositions la loi 110-14 et ses 
+textes d’application instituant le régime de couverture 
+des conséquences d’évènements catastrophiques, ne 
+sont pas assurés :
+•	
+Les 
+dommages 
+provenant 
+d’explosions 
+de 
+chaudières ou moteurs, d’incendie ;
+•	
+Les dommages provenant de l’action directe des 
+eaux ;
+•	
+Les dommages consécutifs à un Vol ou un 
+Incendie ;
+•	
+Les dommages de Bris des Glaces seuls non 
+consécutifs à un accident affectant d’autres 
+parties du véhicule assuré ;
+•	
+Les dommages causés au véhicule lorsqu’il est 
+utilisé à l’insu de son propriétaire ;
+•	
+Les dommages causés par le lavage du véhicule 
+assuré ;
+•	
+Les dommages subis par les organes du véhicule 
+lorsque ces dommages résultent exclusivement et 
+directement d’un défaut d’entretien ou d’usure ;
+•	
+Les dommages subis par les pneumatiques ;
+•	
+Les 
+dommages 
+résultant 
+directement 
+ou 
+indirectement de la négligence ou de la 
+malveillance de la part de l’Assuré ou de la non-
+exécution des actions et mesures nécessaires, à 
+titre préventif, pour empêcher la survenance du 
+dommage ou à titre conservatoire, pour éviter son 
+aggravation. A titre d’exemple, l’Assuré doit tenir 
+compte des voyants d’alerte et des messages 
+d’urgence du tableau de bord ;
+•	
+Les dommages consécutifs à des actes de 
+vandalisme individuels ou collectifs ;
+•	
+Les dommages consécutifs à la mise en fourrière 
+du véhicule depuis son enlèvement jusqu’à sa 
+restitution ;
+•	
+Les dommages consécutifs à des rayures, 
+ébréchures et toutes altérations du vernis et/ou 
+de la peinture n’ayant pas causé de dommages 
+à la tôle ;
+•	
+Les dommages subis par les vêtements, bagages 
+et effets personnels (sauf si cette garantie est 
+souscrite) et par les marchandises transportées 
+dans le véhicule assuré.
+
+
+=== Page 10 ===
+10
+ARTICLE 7 : DOMMAGES COLLISION
+A. OBJET DE LA GARANTIE
+Lorsqu’elle 
+est 
+expressément 
+mentionnée 
+aux 
+Conditions Particulières, dans la limite du plafond 
+qui y est indiqué, moyennant prime et en application 
+de la franchise, l’Assureur garantit les dommages 
+accidentels subis par le véhicule assuré, lorsque 
+ces dommages résultent d’une collision avec un 
+véhicule terrestre à moteur, non lié à une voie ferrée 
+appartenant à un Tiers identifié lorsque l’Assuré est 
+totalement ou partiellement responsable ou du heurt 
+d’un piéton identifié.
+La garantie Dommages Collision est une garantie 
+à capitaux limités dans les Conditions Particulières. 
+Lorsque les dommages sont supérieurs au capital 
+souscrit et la responsabilité du Tiers est partagée, 
+l’Assureur, en application des dispositions de l’article 
+47 du Code des assurances, use de son droit à la 
+subrogation pour récupérer, à concurrence du partage 
+de la responsabilité, l’indemnité payée et le surplus est 
+versé à l’Assuré.
+La garantie Dommages Collision ne s’applique que 
+sur présentation d’un constat amiable validé et signé 
+par les parties, ou d’un procès-verbal de police ou de 
+gendarmerie.
+Cette garantie ainsi que ses extensions sont accordées 
+en capital assuré épuisable.
+B. EXCLUSIONS SPECIFIQUES A LA GARANTIE 
+DOMMAGES COLLISION
+Outre les exclusions prévues dans le Chapitre 6 et 
+sans préjudice aux dispositions de la loi 110-14 et ses 
+textes d’application instituant le régime de couverture 
+des conséquences d’évènements catastrophiques, ne 
+sont pas assurés :
+•	
+Les dommages subis par les pneumatiques ;
+•	
+Les dommages consécutifs à un vol ;
+•	
+Les dommages consécutifs à la mise en fourrière 
+du véhicule depuis son enlèvement jusqu’à sa 
+restitution.
+ARTICLE 8 : VOL
+A. OBJET DE LA GARANTIE
+Lorsqu’elle 
+est 
+expressément 
+mentionnée 
+aux 
+Conditions Particulières, dans la limite du plafond qui 
+y est indiqué, moyennant prime et en application de 
+la franchise, est considéré comme Vol, la soustraction 
+frauduleuse ou la possession, par une personne, d’un 
+bien qui appartient à autrui, en vue de se l’approprier 
+contre le gré du propriétaire ; y compris suite à une 
+agression.
+ 
+L’Assureur garantit :
+•	
+La disparition du véhicule assuré ;
+•	
+Les détériorations subies par le véhicule s’il a 
+été retrouvé ainsi que le remboursement des 
+frais engagés, légitimement ou avec l’accord de 
+l’Assureur, pour la récupération du véhicule volé ;
+•	
+Les dommages consécutifs à une tentative de vol 
+qui est le commencement d’exécution d’un vol 
+interrompu par une cause indépendante de son 
+auteur.
+La tentative de vol est caractérisée par un faisceau 
+d’indices qui rendent vraisemblable l’intention du 
+voleur de voler le véhicule ; et non pas l’intérieur du 
+véhicule. Ces indices sont, notamment, constitués 
+par des traces matérielles relevées sur le véhicule, 
+non équivoques, tels que :
+•	
+Le forcement de la direction, des serrures, de 
+l’alarme ;
+•	
+La détérioration des contacts électriques et/ou 
+électroniques permettant la mise en marche du 
+véhicule ou de tout système de protection antivol 
+en phase de fonctionnement.
+Le vol et la tentative de vol doivent faire l’objet 
+d’une plainte déposée aux autorités de police ou de 
+gendarmerie et attestée par le récépissé délivré par 
+ces dernières. Il est bien précisé que la garantie n’est 
+acquise que si le véhicule assuré ait été déplacé du 
+lieu où il aurait été laissé en stationnement.
+Cette garantie ainsi que ses extensions sont accordées 
+en capital assuré épuisable.
+Par extension expressément stipulée aux Conditions 
+Particulières, peuvent aussi être garantis, moyennant 
+surprime, dans la limite du plafond et en application 
+de la franchise qui y est indiquée :
+Vol isolé de l’équipement audiovisuel
+L’Assureur s’engage moyennant surprime fixée aux 
+Conditions Particulières, dans la limite du plafond 
+qui y est indiqué et en application de la franchise, 
+à indemniser les dommages aux postes autoradio, 
+lecteurs numériques DVD et GPS montés en série 
+ou non, s’ils sont volés ou endommagés à l’occasion 
+d’un vol commis avec effraction. L’indemnité versée 
+tient compte de la valeur de remplacement au jour 
+du sinistre, déduction faite du montant de la vétusté.
+Elle demeure plafonnée au maximum indiqué aux 
+Conditions Particulières. Cette garantie ne pourra 
+s’appliquer qu’à la condition qu’il y ait effraction 
+du véhicule assuré et dépôt de plainte auprès des 
+autorités locales.
+Vol isolé des rétroviseurs et des optiques
+L’Assureur s’engage moyennant surprime fixée aux 
+Conditions Particulières, dans la limite du plafond 
+qui y est indiqué et en application de la franchise, à 
+indemniser le vol isolé des rétroviseurs extérieurs et 
+des optiques dans la limite du plafond indiqué aux 
+Conditions Particulières. On entend par rétroviseur, 
+un équipement comportant un miroir orientable. 
+Ce dispositif permet au conducteur du véhicule 
+d’observer l’environnement qu’il ne peut pas voir en 
+marche normale, c’est-à-dire derrière lui (rétroviseur 
+central) et sur les côtés (rétroviseurs extérieurs).
+Vol isolé des roues
+L’Assureur s’engage moyennant surprime fixée aux 
+Conditions Particulières, dans la limite du plafond 
+qui y est indiqué et en application de la franchise, 
+à indemniser le vol des roues du véhicule assuré y 
+compris la roue de secours dans la limite du plafond 
+indiqué dans les Conditions Particulières. On entend 
+par « roue », l’ensemble pneumatique et jante.
+
+
+=== Page 11 ===
+11
+Il reste entendu qu’en cas de couverture par l’une de 
+ces extensions de garanties, les dommages causés au 
+véhicule à la suite de ce type de vol sont également 
+couverts dans la limite du plafond indiqué aux 
+Conditions Particulières pour chaque extension de 
+garantie.
+B. EXCLUSIONS SPECIFIQUES A LA GARANTIE VOL
+Outre les exclusions prévues dans le Chapitre 6 et 
+sans préjudice aux dispositions de la loi 110-14 et ses 
+textes d’application instituant le régime de couverture 
+des conséquences d’évènements catastrophiques, ne 
+sont pas assurés :
+•	
+Le vol ou la tentative de vol du véhicule assuré 
+commis par les personnes habitant sous le toit 
+de l’Assuré, ou avec leur complicité, ou par une 
+personne ayant la qualité d’Assuré ;
+•	
+Le vol d’objets laissés à l’intérieur du véhicule 
+quand ces objets sont volés indépendamment du 
+véhicule sauf si cette garantie est souscrite ;
+•	
+Le vol séparé de tous appareillages ou pièces 
+sauf si l’extension de garantie est souscrite ;
+•	
+Le vol de la remorque ;
+•	
+Le vol du véhicule assuré survenu alors que les 
+clés du véhicule ont été laissées dans ce dernier ;
+•	
+Le vol par abus de confiance lorsque le véhicule 
+a été confié sciemment et volontairement par 
+son propriétaire à une tierce personne et cette 
+dernière ne le lui a pas rendu ;
+•	
+Le vol du véhicule assuré par la personne à qui il 
+a été prêté ou loué ; 
+•	
+Le vol des marchandises transportées dans le 
+véhicule assuré ;
+•	
+Le vol du véhicule lorsqu’au moment du sinistre, 
+le moteur est en marche avec ou sans les clés 
+sauf en cas d’agression ;
+•	
+Le vol consécutif à la mise en fourrière du véhicule 
+depuis son enlèvement jusqu’à sa restitution.
+ARTICLE 9 : INCENDIE
+A. OBJET DE LA GARANTIE
+Lorsqu’elle 
+est 
+expressément 
+mentionnée 
+aux 
+Conditions Particulières, dans la limite du plafond qui 
+y est indiqué, moyennant prime et en application de la 
+franchise, l’Assureur garantit les dommages subis par 
+le véhicule assuré, lorsque ces dommages résultent 
+d’un incendie, d’une explosion, d’une conflagration, 
+d’un embrasement, d’une combustion ou de la chute 
+de la foudre.
+Cette garantie ainsi que ses extensions sont accordées 
+en capital assuré épuisable.
+B. EXCLUSIONS SPECIFIQUES A LA GARANTIE 
+INCENDIE
+Outre les exclusions prévues dans le Chapitre 6 et 
+sans préjudice aux dispositions de la loi 110-14 et ses 
+textes d’application instituant le régime de couverture 
+des conséquences d’évènements catastrophiques, ne 
+sont pas assurés :
+•	
+Les dommages subis par le véhicule lorsque ces 
+dommages résultent de court­ circuit et incendie 
+limités aux appareils électriques et provenant de 
+leur seul fonctionnement sans prorogation du feu 
+aux autres organes ;
+•	
+Les 
+dommages 
+résultant 
+des 
+brûlures 
+occasionnées par les fumeurs ;
+•	
+Les dommages provoqués par la seule action 
+de la chaleur ou par le contact direct et 
+immédiat 
+d’une 
+substance 
+incandescente 
+s’il n’y a eu ni incendie, ni commencement 
+d’incendie 
+susceptible 
+de 
+dégénérer 
+en 
+incendie véritable.
+ARTICLE 10 : BRIS DE GLACES
+A. OBJET DE LA GARANTIE
+Lorsqu’elle 
+est 
+expressément 
+mentionnée 
+aux 
+Conditions Particulières, dans la limite du plafond 
+qui y est indiqué, moyennant prime et en application 
+de la franchise, l’Assureur garantit les dommages, 
+causés ou non par un accident, subis par les glaces 
+latérales, le pare-brise, la lunette arrière et le toit vitré 
+fixe ou ouvrant du véhicule assuré. L’Assureur garantit 
+également :
+•	
+Les frais de main d’œuvre engagés pour la 
+réparation ou le remplacement des biens assurés ;
+•	
+Les coûts des joints d’étanchéité, des kits de 
+collage et détecteurs de pluie ;
+•	
+Les bris résultant du vol ou de tentative de vol du 
+véhicule assuré et ses accessoires.
+Par extension expressément stipulée aux Conditions 
+Particulières, peut être garanti, moyennant surprime, 
+dans la limite du plafond et en application de la 
+franchise qui y est indiquée, le bris des glaces des 
+rétroviseurs extérieurs et des optiques.
+Cette garantie ainsi que ses extensions sont accordées 
+en capital assuré épuisable.
+B. EXCLUSIONS SPECIFIQUES A LA GARANTIE BRIS 
+DE GLACES
+Outre les exclusions prévues dans le Chapitre 6 et 
+sans préjudice aux dispositions de la loi 110-14 et ses 
+textes d’application instituant le régime de couverture 
+des conséquences d’évènements catastrophiques, ne 
+sont pas assurés :
+•	
+Les rayures et ébréchures n’ayant pas entrainé un 
+Bris de Glaces ;
+•	
+Les dommages consécutifs à une perte totale du 
+véhicule à dires d’expert. 
+ARTICLE 11 : DEFENSE ET RECOURS
+A. OBJET DE LA GARANTIE
+Lorsqu’elle 
+est 
+expressément 
+mentionnée 
+aux 
+Conditions Particulières, dans la limite du plafond qui 
+y est indiqué, moyennant prime et en application de la 
+franchise, l’Assureur s’engage à procéder à ses frais, à 
+toutes interventions amiables et à intenter, à ses frais, 
+toutes actions judiciaires tendant à :
+•	
+Assurer la défense de l’Assuré en cas de poursuites 
+pénales engagées au Maroc et fondées sur la 
+circulation ou l’utilisation du véhicule assuré ;
+•	
+Obtenir la réparation pécuniaire des dommages 
+non indemnisés par un Tiers responsable ou son 
+Assureur, subis par le véhicule assuré et par les 
+objets qu’il transporte, dans la mesure où ces 
+divers dommages résultent d’un accident causé 
+audit véhicule engageant la responsabilité d’un 
+Tiers identifié et sanctionné par un procès-
+
+
+=== Page 12 ===
+12
+verbal de la police ou de la gendarmerie établi 
+conformément aux dispositions des articles 291 
+et suivants du code de procédure pénale ou un 
+constat amiable établi par un constateur agréé 
+par la compagnie d’assurance ou l’assistance.
+Cette garantie ainsi que ses extensions sont accordées 
+en capital assuré épuisable.
+B. EXCLUSIONS SPECIFIQUES A LA GARANTIE 
+DEFENSE ET RECOURS
+Outre les exclusions prévues dans le Chapitre 6 et 
+sans préjudice aux dispositions de la loi 110-14 et ses 
+textes d’application instituant le régime de couverture 
+des conséquences d’évènements catastrophiques, ne 
+sont pas assurés :
+•	
+Le paiement des amendes et leurs décimes ;
+•	
+La défense de l’Assuré en cas de poursuites pour :
+	-
+Délit de fuite ;
+	-
+Défaut ou invalidité du permis ;
+	-
+Etat d’ivresse ou de consommation de 
+stupéfiants ;
+	-
+Infraction à l’obligation d’assurance.
+CHAPITRE 3 - LES GARANTIES 
+COMPLEMENTAIRES AUX GARANTIES 
+DOMMAGES
+ARTICLE 12 : INONDATION
+A. OBJET DE LA GARANTIE
+Lorsqu’elle 
+est 
+expressément 
+mentionnée 
+aux 
+Conditions Particulières, dans la limite du plafond qui 
+y est indiqué, moyennant surprime et en application 
+de la franchise, la garantie Dommages Tous Accidents 
+(DTA) peut être étendue à la garantie Inondation.
+La garantie Inondation a pour objet de prémunir 
+l’Assuré contre les dommages matériels directs subis 
+par son véhicule du fait d’inondation par :
+•	
+Les eaux de ruissellement ;
+•	
+L’engorgement et le refoulement des égouts ;
+•	
+Les marées et les raz-de-marée ;
+•	
+Le débordement des sources et des cours d’eau ;
+•	
+La mer et les autres plans d’eau naturels ou 
+artificiels ;
+•	
+Les masses de neige ou de glace en mouvement.
+B. EXCLUSIONS SPECIFIQUES A LA GARANTIE 
+INONDATION
+Outre les exclusions prévues dans le Chapitre 6 et sans 
+préjudice aux dispositions de la loi 110-14 et ses textes 
+d’application instituant le régime de couverture des 
+conséquences d’évènements catastrophiques, sont 
+également applicables les exclusions prévues par la 
+garantie Dommages Tous Accidents (DTA). Ne sont 
+également pas assurés :
+•	
+Les dommages provenant de l’action directe des 
+eaux pluviales ne provoquant pas de ruissellement 
+d’engorgement ou refoulement des égouts, des 
+marées, raz-de-marée, de débordements des 
+sources et de cours d’eau ;
+•	
+Les dommages causés suite à la non-fermeture 
+des portes, vitres, ou toit ouvrant du véhicule 
+assuré ;
+•	
+Les dommages provenant de la traversée 
+volontaire de cours d’eau d’un débit anormal ;
+•	
+Les dommages causés par le lavage du véhicule 
+assuré. 
+ARTICLE 13 : PERTE FINANCIERE
+A. OBJET DE LA GARANTIE
+Lorsqu’elle 
+est 
+expressément 
+mentionnée 
+aux 
+Conditions Particulières, dans la limite du plafond qui 
+y est indiqué, moyennant surprime et en application 
+de la franchise, l’Assureur s’engage à rembourser 
+à l’Assuré en cas de perte totale suite à un sinistre 
+couvert au titre des garanties Dommages Tous 
+Accidents (DTA), Vol ou Incendie, la différence, au jour 
+du sinistre, entre le montant du capital restant dû par 
+l’Assuré au titre du crédit contracté pour l’achat du 
+véhicule, d’une part, et le montant de l’indemnité due 
+au titre de ladite garantie et de la valeur de l’épave, 
+d’autre part.
+B. EXCLUSIONS SPECIFIQUES A LA GARANTIE 
+PERTE FINANCIERE
+Outre les exclusions prévues dans le Chapitre 6 et sans 
+préjudice aux dispositions de la loi 110-14 et ses textes 
+d’application instituant le régime de couverture des 
+conséquences d’évènements catastrophiques, sont 
+également applicables les exclusions prévues pour 
+chacune des garanties : Dommages Tous Accidents 
+(DTA), Vol et Incendie.
+Ne sont également pas assurés :
+•	
+Les échéances impayées de toutes natures ;
+•	
+Les intérêts de retard ;
+•	
+Les majorations mises à la charge de l’Assuré 
+par l’organisme de crédit du fait des échéances 
+échues impayées.
+ARTICLE 14 : RACHAT DE LA VETUSTE
+A. OBJET DE LA GARANTIE
+En cas de dommage partiel touchant l’une ou l’autre 
+des garanties Responsabilité Civile, Dommages 
+Collision, Vol ou Incendie, lorsqu’elle est expressément 
+mentionnée aux Conditions Particulières, dans la limite 
+du plafond qui y est indiqué, moyennant surprime et 
+en application de la franchise, l’Assureur indemnise le 
+montant de la vétusté restant à la charge de l’Assuré 
+déterminée au titre de ces garanties.
+Au titre de cette garantie et dans le cadre de la 
+garantie Responsabilité Civile, l’Assureur s’engage à 
+indemniser le montant de la vétusté appliquée par 
+l’Assureur adverse dans l’indemnisation de l’Assuré, en 
+tenant compte du taux de Responsabilité de l’Assuré. 
+Cette garantie n’intervient que lorsque l’Assuré n’est 
+pas responsable ou si sa responsabilité est partielle.
+B. EXCLUSIONS SPECIFIQUES A LA GARANTIE 
+RACHAT DE VETUSTE
+Outre les exclusions prévues dans le Chapitre 6 et 
+sans préjudice aux dispositions de la loi 110-14 et ses 
+textes d’application instituant le régime de couverture 
+des conséquences d’évènements catastrophiques, 
+sont également applicables les exclusions spécifiques 
+prévues pour chacune des garanties : Responsabilité 
+Civile, Dommages Collision, Vol et Incendie.
+
+
+=== Page 13 ===
+13
+Ne sont également pas assurés :
+•	
+La vétusté liée aux garanties complémentaires et 
+aux extensions de garantie suivantes :
+	-
+Bagages et Effets Personnels ;
+	-
+Accessoires et Aménagements Professionnels ;
+	-
+Vol des Rétroviseurs et des Optiques ;
+	-
+Vol des Equipements Audio ;
+	-
+Vol des Roues.
+•	
+La perte totale du véhicule assuré. 
+ARTICLE 15 : VALEUR A NEUF
+A. OBJET DE LA GARANTIE
+Lorsqu’elle 
+est 
+expressément 
+mentionnée 
+aux 
+Conditions Particulières, dans la limite du plafond qui 
+y est indiqué, moyennant surprime et en application 
+de la franchise, l’Assureur s’engage à indemniser la 
+Valeur à Neuf du véhicule assuré ne dépassant pas une 
+année à partir de sa date de mise en circulation en cas 
+de perte totale consécutive aux garanties Dommages 
+Tous Accidents (DTA), Vol et Incendie.
+B. EXCLUSIONS SPECIFIQUES A LA GARANTIE 
+VALEUR A NEUF
+Outre les exclusions prévues dans le Chapitre 6 et 
+sans préjudice aux dispositions de la loi 110-14 et ses 
+textes d’application instituant le régime de couverture 
+des conséquences d’évènements catastrophiques, 
+sont également applicables les exclusions spécifiques 
+prévues pour chacune des garanties : Dommages 
+Tous Accidents (DTA), Vol et Incendie.
+ARTICLE 16 : ACCESSOIRES ET AMENAGEMENTS 
+PROFESSIONNELS
+A. OBJET DE LA GARANTIE
+Lorsqu’elle 
+est 
+expressément 
+mentionnée 
+aux 
+Conditions Particulières, dans la limite du plafond qui 
+y est indiqué, moyennant surprime et en application 
+de la franchise, les garanties Incendie, Vol et 
+Dommages Tous Accidents (DTA) souscrites sont 
+étendues aux dommages subis par les Accessoires 
+et Aménagements Professionnels fixés au véhicule, 
+autres que ceux livrés par le constructeur.
+ 
+On entend par Accessoires et Aménagements 
+Professionnels les éléments ou parties du véhicule 
+assuré, fixés à celui-ci, destinés à permettre ou à 
+faciliter l’exercice de l’activité professionnelle de 
+l’Assuré.
+Cette garantie s’exerce à concurrence de la somme 
+indiquée aux Conditions Particulières à condition que 
+les Accessoires et Aménagements Professionnels 
+soient endommagés en même temps que le véhicule 
+assuré et dans les mêmes circonstances.
+Cette extension de garantie n’est applicable à la 
+garantie Vol qu’à condition du dépôt de plainte pour 
+vol justifié par un récépissé.
+B. EXCLUSIONS SPECIFIQUES A LA GARANTIE 
+ACCESSOIRES   ET AMENAGEMENTS 
+PROFESSIONNELS
+Outre les exclusions prévues dans le Chapitre 6 et 
+sans préjudice aux dispositions de la loi 110-14 et ses 
+textes d’application instituant le régime de couverture 
+des conséquences d’évènements catastrophiques, 
+sont également applicables les exclusions spécifiques 
+prévues pour chacune des garanties : Incendie, Vol, 
+Dommages Collision et Dommages Tous Accidents 
+(DTA). Ne sont également pas assurés :
+•	
+Le contenu privé des marchandises et l’outillage 
+professionnels transportés ou arrimés au véhicule 
+assuré ;
+•	
+Le vol des accessoires et aménagements commis 
+dans ce véhicule s’il est bâché ou non entièrement 
+clos ;
+•	
+Les aménagements fixés à l’extérieur du véhicule ;
+•	
+Le 
+vol 
+séparé 
+de 
+ces 
+Accessoires 
+et 
+Aménagements Professionnels.
+ARTICLE 17 : BAGAGES ET EFFETS PERSONNELS
+A. OBJET DE LA GARANTIE
+Lorsqu’elle 
+est 
+expressément 
+mentionnée 
+aux 
+Conditions Particulières, dans la limite du plafond qui y 
+est indiqué, moyennant surprime et en application de 
+la franchise, les garanties Incendie, Vol et Dommages 
+Tous Accidents (DTA) souscrites sont étendues aux 
+Bagages et Effets Personnels transportés dans le 
+véhicule assuré pour autant qu’ils soient endommagés 
+ou volés avec lui ou séparément suite à une effraction.
+Cette extension de garantie n’est applicable à la 
+garantie Vol qu’à condition du dépôt de plainte pour 
+vol justifié par un récépissé.
+B. EXCLUSIONS SPECIFIQUES A LA GARANTIE 
+BAGAGES ET EFFETS PERSONNELS
+Outre les exclusions prévues dans le Chapitre 6 et sans 
+préjudice aux dispositions de la loi 110-14 et ses textes 
+d’application instituant le régime de couverture des 
+conséquences   d’évènements   catastrophiques, sont 
+également   applicables   les exclusions spécifiques 
+prévues par chacune des garanties :  Incendie, Vol et 
+Dommages Tous Accidents (DTA). Ne sont également 
+pas assurés :
+•	
+Les bijoux, montres, pièces d’argenterie, métaux 
+et 
+objets 
+précieux, 
+objets 
+d’art, 
+tableaux, 
+tous objets de collection, espèces, valeurs, 
+fourrures, ainsi que les matériels et marchandises 
+professionnels ;
+•	
+Le 
+contenu 
+des 
+remorques, 
+matériels 
+professionnels, les coffres de toit et leurs 
+contenus ;
+•	
+En cas de vol, sont exclus également les matériels 
+audiovisuels, caméras, Smartphones, appareils 
+photographiques et informatiques.
+ARTICLE 18 : PANNE MECANIQUE
+On entend par :
+•	
+Panne : la constatation d’un dommage survenant 
+d’une manière fortuite, consécutif à un bris ou à 
+un mauvais fonctionnement des organes garantis, 
+par l’effet d’une cause interne, et qui ne trouve pas 
+son origine dans l’usure normale desdits organes.
+•	
+Prise en   charge :  décision matérialisée par un 
+numéro d’accord, par laquelle l’Assureur s’engage 
+au paiement de l’indemnité contractuelle due.
+•	
+Usure normale : elle est caractérisée par 
+rapprochement entre d’une part l’état constaté 
+
+
+=== Page 14 ===
+6
+14
+des pièces endommagées, leur kilométrage et 
+leur durée d’utilisation et d’autre part le potentiel 
+moyen de fonctionnement qui leur est usuellement 
+prêté. L’appréciation en sera au besoin faite à 
+dires d’expert.
+A. OBJET DE LA GARANTIE
+Lorsqu’elle 
+est 
+expressément 
+mentionnée 
+aux 
+Conditions Particulières, dans la limite du plafond qui 
+y est indiqué, moyennant prime et en application de la 
+franchise, la garantie Panne Mécanique couvre la prise 
+en charge du coût des réparations (main d’œuvre 
+et pièces de rechange), en vue de la remise en état 
+de fonctionnement du véhicule assuré en cas de 
+dommages survenant dans les conditions cumulatives 
+suivantes :
+•	
+De manière fortuite ;
+•	
+La suite ou au cours de l’utilisation normale 
+et appropriée du véhicule telle que résultant 
+des 
+prescriptions 
+d’utilisation 
+émanant 
+du 
+constructeur.
+Cette assurance n’a pas pour objet de :
+•	
+Permettre la remise en état du véhicule à la suite 
+d’un accident, ni à la suite de l’usure normale ou 
+de la reprise du véhicule par un professionnel de 
+l’automobile ;
+•	
+S’appliquer aux opérations d’entretiens, de 
+mises au point ou de réglage ;
+•	
+Garantir l’Assuré contre les défauts de série 
+ayant fait l’objet d’une campagne de rappel du 
+constructeur et les conséquences de ceux-ci ;
+•	
+Se 
+substituer 
+aux 
+responsabilités 
+civiles 
+professionnelles, contractuelles ou délictuelles 
+de l’Assuré.
+La garantie ne peut s’appliquer à aucun autre 
+préjudice ou dommage aux biens, aux personnes et 
+aux Tiers, consécutifs ou non à une Panne Mécanique 
+garantie.
+Cette garantie est destinée aux véhicules autres que 
+ceux dont les marques, usages et/ou caractéristiques 
+sont mentionnés ci-après :
+1.  Les marques suivantes :
+Bugatti, Maserati, Ferrari, Lamborghini, Aston Martin, 
+Rolls-Royce, Bentley, Buick, Chevrolet (fabriqué aux 
+USA) Cadillac, Excalibur, Lincoln, Lotus, Mercury, 
+MVS, Venturi, Maybach, Dodge.
+2. Les véhicules ci-après :
+•	
+Les véhicules dont la Valeur à Neuf est supérieure 
+à 450.000 Dirhams TTC ;
+•	
+Les véhicules de collection ;
+•	
+Les voiturettes ;
+•	
+Les véhicules cyclomoteurs à 2, 3 ou 4 roues ;
+•	
+Les véhicules à usage commercial Cl et C2.
+3. Les usages ci-après :
+•	
+Les véhicules destinés au Transport Public de 
+Voyageurs, y compris les taxis et véhicules de 
+transport sanitaire ;
+•	
+Les 
+véhicules 
+destinés 
+au 
+transport 
+de 
+marchandises ;
+•	
+Les véhicules destinés à l’apprentissage de la 
+conduite (auto-école) ;
+•	
+Les véhicules destinés à la location de courte 
+durée, ou ayant appartenus à des sociétés de 
+location ;
+•	
+Les véhicules destinés à des fins sportives et/
+ou de compétition, ainsi que leurs essais ; 
+ou encore, utilisés en tant que tels, même 
+exceptionnellement.
+B. ELEMENTS MECANIQUES GARANTIS
+La garantie s’applique exclusivement aux organes 
+suivants :
+1. Moteur (Pièces internes lubrifiées en mouvement)
+Attelage mobile, cylindre ou chemises, culasses 
+et joint de culasse, pompe à huile, distribution 
+(les conséquences des dommages ayant pour 
+origine la courroie de distribution sont couvertes 
+dans la mesure où l’échange de celle-ci a été 
+effectué lors des entretiens selon les normes du 
+constructeur. La courroie en elle-même demeure 
+exclue, turbocompresseur, ainsi que les dommages 
+mécaniques portant sur le bloc moteur et résultant 
+directement et exclusivement de l’avarie constatée).
+2. Boîte de vitesse   manuelle et automatique (Pièces 
+internes   lubrifiées   en mouvement)
+Eléments mobiles de la boîte (pignon, arbres, 
+paliers, roulements, synchros, circlips, fourchettes de 
+commande) ainsi que tous les dommages mécaniques 
+portant sur le carter et résultant directement et 
+exclusivement de l’avarie constatée.
+3. Pont/Transmission (Pièces internes lubrifiées en 
+mouvement)
+Eléments mobiles du pont (arbres, différentiels, 
+pignon, couronnes et roulements) ainsi que tous 
+les dommages mécaniques portant sur le carter et 
+résultant directement et exclusivement de l’avarie 
+constatée.
+4. Système électrique et électronique
+Démarreur, alternateur, allumeur, bloc d’allumage, 
+système électronique d’injection (sauf injecteurs), 
+débitmètre, calculateur, moteurs électriques si de 
+série : d’essuie-glace, de lève vitre de toit ouvrant, 
+fermeture centralisée des portes (réglages, télé 
+codage, reprogrammation et boîtier émetteur-clef 
+exclus), modules électroniques de gestion de : la 
+climatisation (recharge exclue) - l’ABS - du système 
+de navigation installé d’origine - la boite de vitesses 
+automatique , ABS : capteur et bloc hydraulique - du 
+régulateur de vitesses - de l’anti­ démarrage, combiné 
+du tableau de bord (ampoules exclues).
+5. Main   d’œuvre (Temps   barème   du   constructeur 
+affecte   uniquement   au remplacement des pièces 
+défectueuses garanties par ce contrat)
+Ne sont pas pris en charge : les petites fournitures, 
+les contrôles, les diagnostics, les essais routiers, 
+les fluides ainsi que tous les éléments rattachés à 
+l’entretien du véhicule.
+
+
+=== Page 15 ===
+715
+C. VALIDATION DE LA GARANTIE
+1. Durée et prise d’effet
+La garantie prend effet à la date indiquée aux 
+Conditions Particulières et prend fin à la date 
+d’expiration mentionnée aux Conditions Particulières.
+Cependant, la garantie prendra fin de plein droit avant 
+son terme :
+•	
+Lorsque le plafond de garantie est atteint ;
+•	
+En cas de déchéance de la garantie pour non-
+respect des prescriptions du constructeur sur 
+l’usage pour lequel le véhicule est conçu ou pour 
+non­ respect de la clause d’entretien ci-après. La 
+portion de prime afférente à la période pendant 
+laquelle le risque n’a pas couru est restituée à 
+l’Assuré si elle a été perçue d’avance.
+2. Entretien 
+L’Assuré devra :
+•	
+Faire 
+procéder 
+aux 
+opérations 
+d’entretien, 
+vérification   et réglage se révélant nécessaires 
+pour prévenir un dommage aux pièces garanties ;
+•	
+Pouvoir justifier de chaque entretien au moyen 
+du carnet d’entretien délivré par le constructeur, 
+complété et visé par le garagiste à chaque 
+entretien, ainsi que des factures correspondantes.
+Ces opérations seront à tout moment vérifiables par 
+l’Assureur.
+D. CONDITIONS DE SOUSCRIPTION
+Pour la souscription à la garantie Panne Mécanique, le 
+véhicule doit avoir effectué le contrôle technique 
+obligatoire, avoir été régulièrement entretenu et 
+révisé suivant les préconisations du dernier stade 
+de maintenance programmé par le constructeur en 
+termes de durée et/ou de kilométrage. Le véhicule 
+doit être immatriculé et réceptionné par type au 
+Maroc, être conforme à la notice descriptive du 
+modèle délivré par le constructeur et n’avoir pas subi 
+de transformation.
+E. ORGANES ET PIECES EXCLUS
+La garantie couvre la prise en charge du coût 
+des pièces (réparation ou remplacement) d’ordre 
+mécanique, électrique ou électronique reconnues 
+défectueuses ainsi que la main-d’œuvre y afférente 
+en vue de la remise en état de fonctionnement du 
+véhicule assuré à l’exclusion de :
+•	
+La carrosserie, les pare-chocs, la peinture, le 
+toit ouvrant mécanique, la capote manuelle et 
+ses commandes, les bâches, la sellerie et les 
+organes affectés à cette dernière, les éléments 
+d’ornement, les sièges ;
+•	
+Les dommages causés par la corrosion ; 
+•	
+Les revêtements intérieurs et extérieurs ; 
+•	
+La planche du tableau de bord ;
+•	
+Les pneumatiques, les jantes ;
+•	
+Les vitres, les lunettes, les rétroviseurs, les phares 
+et feux, les lampes et porte lampes ;
+•	
+Les disques, les tambours, les plaquettes et 
+garnitures de freins ;
+•	
+Les frais engagés pour la réparation des fuites 
+(huile, carburant, eau, gaz et/ou air) ;
+•	
+L’échappement catalyser ou non ; 
+•	
+Le disque et la butée d’embrayage ;
+•	
+Les amortisseurs, les sphères de suspensions ; 
+•	
+Les bougies et bougies de préchauffage ;
+•	
+Les injecteurs (au-delà de 100.000 Km) ;
+•	
+Les Durits, les courroies autres que les courroies 
+de distribution, les canalisations, les flexibles, les 
+câbles ;
+•	
+Les filtres, les réservoirs ;
+•	
+Les pédales, les leviers de vitesses et de frein à 
+main, la timonerie, les ceintures de sécurité, les 
+poignées ;
+•	
+La batterie, les fusibles, les ampoules, les faisceaux ;
+•	
+L’autoradio, 
+le 
+système 
+GPS, 
+l’installation 
+audiophone, 
+les 
+antennes 
+manuelles, 
+les 
+téléphones de voitures, les allume-cigares ;
+•	
+L’installation antivol (sauf si montée d’origine), 
+le système de verrouillage de direction et 
+les serrures mécaniques, les clefs et carte de 
+démarrage ;
+•	
+Les joints (sauf joint de culasse) ;
+•	
+L’huile, les carburants, les consommables, les 
+recharges ;
+•	
+L’installation au GPL ;
+•	
+Les travaux d’entretien, d’équilibrage des roues, 
+de réglages non occasionnés par une panne 
+garantie.
+F. DECHEANCE
+Sous peine de déchéance de garantie, lors d’un sinistre, 
+l’Assuré devra justifier à l’Assureur ou au gestionnaire 
+désigné par lui que le véhicule couvert a fait l’objet 
+au cours des 12 derniers mois d’un entretien effectué 
+par un professionnel de l’automobile et conforme aux 
+préconisations stipulées au carnet du constructeur en 
+termes d’âge et/ou de kilométrage.
+Pour ce faire, il adressera à l’Assureur ou au 
+gestionnaire qu’il aura désigné, copie de la facture 
+correspondante acquittée.
+Toute fausse déclaration sur la nature, les causes, 
+les circonstances ainsi que les conséquences du 
+sinistre priverait l’Assuré de tout droit à garantie pour 
+l’ensemble du sinistre en cause.
+G. EXCLUSIONS GENERALES 
+Ne sont pas garantis :
+•	
+Tout remplacement de pièce programmé par le 
+constructeur, celui-ci étant assimilé à l’entretien. 
+De même que tout remplacement, réparation de 
+pièces ou organes résultant d’une campagne de 
+rappel du constructeur ;
+•	
+Les frais annexes ou connexes consécutifs à une 
+panne tels que : immobilisation, privation de 
+jouissance, location, etc. ;
+•	
+De façon générale, sont exclues les pannes et 
+conséquences de pannes résultant de l’usure 
+normale, 
+celle-ci 
+étant 
+considérée 
+comme 
+entretien et restant de ce fait à la charge de 
+l’Assuré.
+Et sont également exclues les pannes et les 
+conséquences de pannes :
+•	
+Résultant d’un accident notamment de la route, 
+d’un vol ou d’un transport, d’un enlèvement 
+même par une autorité publique, d’une réquisition 
+
+
+=== Page 16 ===
+16
+ou plus généralement de tout évènement ayant 
+soustrait le véhicule garanti à la garde juridique 
+de l’Assuré ;
+•	
+Résultant d’un incendie, une explosion, un excès 
+de froid ou de chaleur, un dommage électrique, 
+et 
+plus 
+généralement 
+à 
+tout 
+évènement 
+relevant du contrat d’assurances dommages et 
+responsabilités civiles du véhicule ;
+•	
+Dont il est clairement démontré qu’elles sont la 
+conséquence d’un mauvais diagnostic ou d’une 
+mauvaise réparation antérieure ;
+•	
+Ayant pour origine un élément ou composant du 
+véhicule non garanti ; 
+•	
+Provoquées intentionnellement, par négligence 
+ou inexpérience de l’Assuré de la garantie, ou 
+par l’utilisation anormale du véhicule ou non 
+conforme à celle pour laquelle il a été conçu par 
+le constructeur, et notamment l’aggravation des 
+dommages par persistance d’utilisation ;
+•	
+Résultant d’éléments ou de composants du 
+véhicule non-conformes au catalogue d’origine 
+du constructeur ainsi que toute modification 
+apportée au véhicule d’origine ;
+•	
+Consécutives à des phénomènes naturels tels 
+que grêle, inondations, tempêtes, ouragans ou 
+autres cataclysmes ;
+•	
+Apparentes ou prévisibles avant la date d’effet de 
+la garantie ; 
+•	
+Dues à un défaut du véhicule ou de ses organes 
+déclaré par le constructeur ;
+•	
+Dues à une surcharge, même passagère, du 
+véhicule, ou son immobilisation prolongée ;
+•	
+Consécutives à des phénomènes naturels tels 
+que grêle, inondations, tempêtes, ouragans ou 
+autres cataclysmes ;
+•	
+Apparentes ou prévisibles avant la date d’effet de 
+la garantie ;
+•	
+Dues à un défaut du véhicule ou de ses organes 
+déclaré par le constructeur ; 
+•	
+Dues à une surcharge, même passagère, du 
+véhicule, ou son immobilisation prolongée.
+H. MISE EN OEUVRE DE LA GARANTIE-RÈGLEMENT
+En cas de Panne Mécanique, l’Assuré doit, sous peine 
+de déchéance de la garantie : 
+•	
+User de tous les moyens en son pouvoir pour en 
+limiter les conséquences ; 
+•	
+S’adresser à un réparateur professionnel parmi 
+ceux figurant sur la liste fixée par l’Assureur, ou 
+au concessionnaire ou agent de la marque ;
+•	
+Ne procéder   à   aucune   réparation   du véhicule 
+sans   l’accord   préalable   de l’Assureur.
+L’Assureur matérialise la prise en charge financière 
+du sinistre par une référence d’accord délivrée 
+immédiatement, sauf désignation d’expert.
+L’Assureur réglera le montant de la réparation dans la 
+limite de l’accord de prise en charge.
+En cas de contestation, l’Assuré sera en droit de 
+faire 
+expertiser 
+contradictoirement 
+le 
+véhicule, 
+conformément aux dispositions de l’article 39 ci-
+dessous.
+CHAPITRE 4 - LES GARANTIES DES 
+DOMMAGES CAUSES AU CONDUCTEUR 
+ET AUX PASSAGERS
+ARTICLE 19 : PROTECTION DU CONDUCTEUR
+A. OBJET DE LA GARANTIE
+Lorsqu’elle 
+est 
+expressément 
+mentionnée 
+aux 
+Conditions Particulières, dans la limite du plafond qui 
+y est indiqué, moyennant prime et en application de 
+la franchise, la garantie Protection du Conducteur 
+permet au conducteur d’être indemnisé pour ses 
+frais médicaux, pharmaceutiques et d’hospitalisation 
+ainsi que le versement d’un capital en cas de décès 
+ou d’invalidité à hauteur des montants prévus aux 
+Conditions Particulières.
+1. Le décès en relation directe avec l’accident 
+(immédiat ou survenu dans un délai d’un an à compter 
+du jour de l’accident)
+•	
+Le paiement du capital indiqué aux Conditions 
+Particulières aux ayants droit de la victime ou aux 
+personnes désignées à cet effet aux Conditions 
+Particulières, dans les trente (30) jours suivant la 
+remise des pièces justificatives.
+•	
+La prise en charge des frais funéraires dans la limite 
+du montant prévu aux Conditions Particulières.
+2. L’invalidité
+Dès consolidation, le paiement de l’indemnité prévue 
+aux Conditions Particulières, réductible dans la limite 
+du degré d’invalidité évaluée selon le barème annexé 
+aux présentes Conditions Générales (Annexe 1).
+La date de consolidation est la date où les lésions 
+se sont fixées et ont pris un caractère permanent 
+tel qu’un traitement n’est plus nécessaire, si ce n’est 
+pour éviter une aggravation et qu’il devient possible 
+d’apprécier un certain degré d’incapacité fonctionnelle 
+permanente réalisant un préjudice.
+3. Les frais médicaux
+Le 
+remboursement 
+des 
+frais 
+médicaux, 
+pharmaceutiques et d’hospitalisation, engagés suite 
+aux blessures occasionnées par l’accident, dans les 
+limites prévues aux Conditions Particulières.
+La garantie commence lorsque le conducteur prend 
+place dans le véhicule assuré et prend fin dès qu’il en 
+est descendu.
+ 
+B. EXCLUSIONS SPECIFIQUES A LA GARANTIE 
+PROTECTION DU CONDUCTEUR
+Outre les exclusions prévues dans le Chapitre 6 et 
+sans préjudice aux dispositions de l’article 18 de la loi 
+n° 17-99 portant code des assurances et à la loi 110-
+14 et ses textes d’application instituant le régime 
+de couverture des conséquences d’évènements 
+catastrophiques, ne sont pas assurés les accidents 
+subis par le conducteur assuré qui, intentionnellement 
+ou du fait de son suicide ou de sa tentative de suicide, 
+aurait causé ou provoqué l’évènement.
+ARTICLE 20 : PROTECTION DES PASSAGERS
+A. OBJET DE LA GARANTIE
+Lorsqu’elle 
+est 
+expressément 
+mentionnée 
+aux 
+
+
+=== Page 17 ===
+17
+Conditions Particulières, dans la limite du plafond qui 
+y est indiqué, moyennant surprime et en application 
+de la franchise, l’Assureur garantit le conducteur et les 
+passagers transportés à titre gratuit, contre tous les 
+accidents entraînant soit le décès, soit une infirmité 
+permanente et définitive, telles que définies dans 
+l’objet de la garantie Protection du Conducteur, dont 
+ils peuvent être victimes par le fait ou à l’occasion 
+de la circulation du véhicule assuré désigné aux 
+Conditions Particulières, alors qu’ils y ont pris place 
+comme passagers.
+La garantie commence lorsque le conducteur et les 
+passagers prennent place dans le véhicule assuré et 
+prend fin dès qu’ils en sont descendus.
+Si lors d’un accident, le nombre des personnes 
+transportées est supérieur au nombre de places 
+prévues par le constructeur, les indemnités seront 
+réduites proportionnellement.
+B. EXCLUSIONS SPECIFIQUES A LA GARANTIE 
+PROTECTION DES PASSAGERS
+Outre les exclusions prévues dans le Chapitre 6 
+et sans préjudice aux dispositions de l’article 18 de
+la loi n° 17-9 portant code des assurances et à la loi 
+110-14 et ses textes d’application instituant le régime 
+de couverture des conséquences d’évènements 
+catastrophiques, ne sont pas assurés les accidents 
+subis par le conducteur assuré qui, intentionnellement 
+ou du fait de son suicide ou de sa tentative de suicide, 
+aurait causé ou provoqué l’évènement.
+CHAPITRE - 5 LA GARANTIE OBLIGATOIRE 
+CONTRE 
+LES 
+CONSEQUENCES 
+DES 
+EVENEMENTS CATASTROPHIQUES
+ARTICLE 21 : DEFINITION
+On entend par évènement catastrophique, tel que 
+défini en vertu de l’article 3 de la loi 110-14 instituant le 
+régime de couverture des conséquences d’évènements 
+catastrophiques :
+Tout fait générateur de dommages directs survenus 
+au Maroc, ayant pour origine déterminante l’action 
+d’intensité anormale d’un agent naturel ou l’action 
+violente de l’Homme.
+L’action d’intensité anormale d’un agent naturel 
+constitue un évènement catastrophique dès lors que 
+les caractéristiques suivantes lui sont reconnues :
+•	
+Le fait générateur présente, par sa survenance, 
+la condition de soudaineté ou d’imprévisibilité 
+et lorsque le fait est prévisible, il faut que les 
+mesures habituelles prises n’ont pu empêcher sa 
+survenance ou n’ont pu être prises ;
+•	
+Ses effets dévastateurs sont d’une intensité grave 
+pour la collectivité.
+Les agents naturels pouvant constituer un évènement 
+catastrophique sont :
+•	
+Les crues ;
+•	
+Les inondations y compris le ruissellement, le 
+débordement des cours d’eau, la remontée de la 
+nappe phréatique, la rupture de barrages causée 
+par un phénomène naturel, les coulées de boue ;
+•	
+Les tremblements de terre ; 
+•	
+Les tsunamis.
+L’action violente de l’Homme est considérée comme 
+un évènement catastrophique dès lors qu’elle :
+•	
+Constitue un acte de terrorisme ; 
+ou
+•	
+Est la conséquence directe de la survenance 
+d’émeutes ou de mouvements populaires, lorsque 
+les effets sont d’une intensité grave pour la 
+collectivité.
+Les dommages provoqués directement par les 
+actions et mesures de secours, de sauvetage et 
+de sécurisation sont assimilés à ceux résultant de 
+l’évènement catastrophique lorsque lesdites actions 
+et mesures sont liées à cet évènement.
+ARTICLE 22 : GARANTIE CONTRE LES 
+CONSEQUENCES 
+DES 
+EVENEMENTS 
+CATASTROPHIQUES ACCORDEE AU TITRE 
+DU CONTRAT D’ASSURANCE COUVRANT LA 
+RESPONSABILITE CIVILE EN RAISON DES 
+DOMMAGES CORPORELS OU MATERIELS 
+CAUSES A DES TIERS PAR UN VEHICULE 
+TERRESTRE A MOTEUR OU PAR SES 
+REMORQUES OU SES SEMI-REMORQUES, 
+PREVU AU 2° DE L’ARTICLE 64-1 DE LA LOI 
+17-99 PORTANT CODE DES ASSURANCES.
+A. OBJET DE LA GARANTIE
+Conformément à l’article 64-3 de la loi 17-99, la 
+garantie contre les conséquences d’évènements 
+catastrophiques couvre ce qui suit :
+•	
+Les préjudices corporels subis par le conducteur 
+et toute personne transportée dans le véhicule 
+assuré, ainsi que les préjudices subis par leurs 
+ayants droit du fait de leur décès, lorsque lesdits 
+préjudices résultent directement d’un évènement 
+catastrophique frappant le véhicule assuré ;
+•	
+Les dommages occasionnés directement par un 
+évènement catastrophique au véhicule assuré ;
+•	
+Les préjudices corporels subis par le propriétaire 
+du véhicule, ses conjoints et ses enfants à charge, 
+ainsi que les préjudices subis par leurs ayants droit 
+du fait de leur décès, lorsque le propriétaire du 
+véhicule est une personne physique, à condition 
+que lesdits préjudices résultent directement d’un 
+évènement catastrophique.
+B. MISE EN ŒUVRE DE LA GARANTIE
+Cette garantie ne peut être mise en œuvre qu’après 
+publication au « Bulletin officiel » de l’arrêté du 
+chef du gouvernement déclarant la survenance de 
+l’évènement catastrophique.
+C. DECLARATION DU SINISTRE
+L’Assuré 
+est 
+tenu 
+d’aviser 
+l’Assureur 
+ou 
+son 
+représentant de la survenance de tout évènement de 
+nature à entraîner la garantie de ce dernier dès qu’il 
+en a eu connaissance et au plus tard dans les vingt 
+(20) jours de ladite survenance sauf lorsque ce délai 
+est prolongé par l’autorité gouvernementale chargée 
+des finances.
+
+
+=== Page 18 ===
+18
+L’Assuré peut aviser l’Assureur ou son représentant de 
+la survenance de l’évènement précité au-delà du délai 
+précité en cas d’impossibilité absolue d’y procéder, ou 
+en cas de motif légitime, de cas fortuit ou de force 
+majeure.
+La déclaration du sinistre visée au 1er alinéa ci-dessus 
+peut se faire par le propriétaire du véhicule ou par la 
+victime.
+ 
+D. VALEUR ASSUREE
+La valeur assurée de chaque véhicule est égale à la 
+Valeur Vénale du véhicule et le cas échéant la valeur de 
+ses remorques ou semi-remorques, sans qu’elle puisse 
+dépasser le plafond de la garantie fixé par l’arrêté (dont 
+extrait en annexe IV) du ministre de l’Économie, des 
+finances et de la réforme de l’administration n°4150-
+19 du 30 Rabii Il 1441 (27 décembre 2019) fixant les 
+primes ou cotisations relatives à la garantie contre 
+les conséquences d’évènements catastrophiques et 
+les taux de commissionnement pour la présentation 
+des opérations d’assurances au titre de cette garantie 
+ainsi que les plafonds des montants de la garantie et 
+des franchises.
+E. FRANCHISE
+La couverture au titre de cette garantie est accordée 
+pour chaque véhicule y compris ses remorques et 
+semi-remorques assurés, sous réserve de la franchise 
+fixée conformément aux dispositions de l’arrêté du 
+ministre de l’Économie, des finances et de la réforme 
+de l’administration n° 4150-19 précité.
+F. ETENDUE DE LA GARANTIE
+Toute clause du contrat ayant pour effet de 
+conditionner ou de réduire l’étendue de la présente 
+garantie ne lui est pas applicable sauf celles :
+•	
+Appliquée de plein droit ;
+•	
+Déterminant le ou les véhicules assurés ;
+•	
+Faisant partie des clauses fixées dans la présente 
+annexe.
+G. EVALUATION DES DOMMAGES
+L’indemnité due à la victime pour préjudice corporel 
+ou à ses ayants droit du fait de son décès ou  de 
+sa disparition, au titre de la présente garantie, est 
+déterminée conformément aux dispositions du dahir 
+portant loi n° 1-84-177 du 6 Moharrem 1405 (2 octobre 
+1984) relatif à l’indemnisation des victimes  des 
+accidents  causés par des véhicules terrestres à moteur 
+et ce, sans tenir compte de la part de responsabilité 
+de la victime, sous réserve des dispositions de l’article 
+17 de la loi n° 17-99 précitée.
+H. REDUCTION DE L’INDEMNISATION
+Les indemnités au titre de ladite garantie peuvent 
+faire l’objet de réduction selon les conditions et 
+modalités fixées par l’arrêté du ministre de l’Économie, 
+des finances et de la réforme de l’administration n° 
+3967-19 du 30 Rabii Il 1441 (27 décembre 2019) fixant 
+les plafonds globaux d’indemnisation au titre de 
+la garantie contre les conséquences d’évènements 
+catastrophiques, les conditions et modalités de 
+réduction de ladite indemnité et d’octroi d’une avance 
+sur indemnité. Et dans ce cas, l’octroi de l’avance 
+sur indemnité est effectué selon les conditions et 
+modalités fixées par ledit arrêté.
+ARTICLE 23 : GARANTIE OBLIGATOIRE CONTRE 
+LES 
+CONSEQUENCES 
+DES 
+EVENEMENTS 
+CATASTROPHIQUES ACCORDEE AU TITRE 
+DU CONTRAT D’ASSURANCE GARANTISSANT 
+LES DOMMAGES AUX BIENS PREVU AU 1° DE 
+L’ARTICLE 64-1 DE LA LOI 17-99 PORTANT 
+CODE DES ASSURANCES
+La 
+présente 
+garantie 
+est 
+accordée 
+lorsqu’une 
+garantie assujettie à l’obligation de couverture des 
+conséquences 
+des 
+évènements 
+catastrophiques 
+conformément à la loi 110-14 est mentionnée aux 
+Conditions Particulières.
+A. OBJET DE LA GARANTIE
+La garantie contre les conséquences des évènements 
+catastrophiques couvre les dommages occasionnés 
+directement par un évènement catastrophique aux 
+biens assurés au titre de ce contrat.
+B. MISE EN ŒUVRE DE LA GARANTIE
+Cette garantie ne peut être mise en œuvre qu’après 
+publication au « Bulletin officiel » de l’arrêté du 
+chef du gouvernement déclarant la survenance de 
+l’évènement catastrophique.
+ 
+C. DECLARATION DU SINISTRE
+L’Assuré 
+est 
+tenu 
+d’aviser 
+l’Assureur 
+ou 
+son 
+représentant de la survenance de tout évènement de 
+nature à entraîner la garantie de ce dernier dès qu’il 
+en a eu connaissance et au plus tard dans les vingt 
+(20) jours de ladite survenance sauf lorsque ce délai 
+est prolongé par l’autorité gouvernementale chargée 
+des finances. L’Assuré peut aviser l’Assureur ou son 
+représentant de la survenance de l’évènement précité 
+au-delà du délai précité en cas d’impossibilité absolue 
+d’y procéder, ou en cas de motif légitime, de cas 
+fortuit ou de force majeure.
+D. VALEUR ASSUREE ET FRANCHISE
+1. La valeur assurée
+La valeur assurée de chaque bien est égale à la valeur 
+maximale assurée de ce bien au titre des garanties 
+autres que la garantie contre les conséquences des 
+évènements catastrophiques  accordée en vertu du 
+même contrat et ce, sans dépasser le plafond fixé 
+par l’arrêté du ministre de l’économie, des finances 
+et de la réforme de l’administration n° 4150-lg du 
+30 Rabii Il 1441 (27 décembre 2019) fixant les primes 
+ou cotisations relatives à la garantie contre les 
+conséquences d’évènements catastrophiques et les 
+taux de commissionnement pour la présentation des 
+opérations d’assurances au titre de cette garantie 
+ainsi que les plafonds des montants de la garantie et 
+des franchises.
+2. Franchise
+La couverture au titre de cette garantie est accordée 
+pour chaque bien assuré, sous réserve de la franchise 
+fixée conformément aux dispositions de l’arrêté du 
+
+
+=== Page 19 ===
+19
+ministre de l’Économie, des finances et de la réforme 
+de l’administration n° 4150- 19 précité.
+Lorsque le contrat couvre plusieurs bâtiments ou 
+locaux, les plafonds et les franchises s’entendent par 
+bâtiment ou local et par évènement.
+Lorsque ledit contrat couvre plusieurs véhicules 
+terrestres à moteur ou remorques ou semi-remorques, 
+le plafond et la franchise s’entendent par véhicule ou 
+remorque ou semi-remorque.
+Lorsque ledit contrat couvre plusieurs autres biens, 
+le plafond et la franchise s’entendent par bien et par 
+évènement. Toutefois, le total des indemnités dues, 
+en vertu d’un même contrat d’assurance, au titre des 
+dommages aux biens se trouvant dans un même 
+bâtiment ou local ne peut dépasser l’un des plafonds 
+indiqués dans le deuxième tableau prévu à l’article 
+premier de l’arrêté du ministre de l’Économie, des 
+finances et de la réforme de l’administration n° 4150-
+19 précité, selon le cas. Le total des franchises 
+appliquées aux montants des dommages ne peut 
+également dépasser l’une des franchises fixées dans 
+le même tableau, selon le cas.
+E. ETENDUE DE LA GARANTIE
+Toute clause du contrat ayant pour effet de 
+conditionner ou de réduire l’étendue de la présente 
+garantie ne lui est pas applicable sauf celle :
+•	
+Appliquée de plein droit : Déterminant le bien 
+assuré :
+•	
+Faisant partie des clauses fixées dans la présente 
+annexe.
+F. REDUCTION DE L’INDEMNITE ET L’OCTROI DE 
+L’AVANCE SUR INDEMNITE
+Les indemnités au titre de ladite garantie peuvent 
+faire l’objet de réduction selon les conditions et 
+modalités fixées par l’arrêté du ministre de l’Économie, 
+des finances et de la réforme de l’administration n° 
+3967-19 du 30 Rabii Il 1441 (27 décembre 2019) fixant 
+les plafonds globaux d’indemnisation au titre de 
+la garantie contre les conséquences d’évènements 
+catastrophiques, les conditions et modalités de 
+réduction de ladite indemnité et d’octroi d’une avance 
+sur indemnité. Et dans ce cas, l’octroi de l’avance 
+sur indemnité est effectué selon les conditions et 
+modalités fixées par ledit arrêté.
+ARTICLE 24 : EXCLUSIONS
+Sans préjudice aux dispositions de l’article 18 de la loi 
+n° 17-99 précitée, sont exclus du champ d’application 
+du régime de couverture obligatoire contre les 
+conséquences des évènements catastrophiques, les 
+dommages ou préjudices occasionnes par :
+•	
+La guerre civile, la guerre étrangère ou les actes 
+d’hostilité assimilables, que la guerre soit ou non 
+déclarée ;
+•	
+L’utilisation   d’agents   ou   d’armes   chimiques, 
+biologiques, bactériologiques, radioactifs ou 
+nucléaires ;
+•	
+Un acte de cybercriminalité.
+CHAPITRE 6 - LES EXCLUSIONS D’ASSURANCE
+ARTICLE 25 : EXCLUSIONS COMMUNES À 
+L’ENSEMBLE DES GARANTIES AUTRES QUE 
+LA GARANTIES RESPONSABILITÉ CIVILE
+Sans préjudices aux dispositions de l’article 18 de la 
+loi n° 17-99 portant code des assurances et à la loi 
+110-14 et ses textes d’application instituant le régime 
+de couverture des conséquences d’évènements 
+catastrophiques, ne sont pas assurés pour l’ensemble 
+des garanties prévues par le présent contrat :
+•	
+Les dommages survenus au cours de rallyes, 
+épreuves, courses ou compétitions (ou leur 
+essais), lorsque l’Assuré y participe en qualité de 
+concurrent, d’organisateur ou de préposé de l’un 
+d’eux ;
+•	
+Les dommages subis par les marchandises et 
+objets transportés par le véhicule assuré ainsi 
+que les vols portant sur ces marchandises ou ces 
+objets ;
+•	
+Les dommages causés intentionnellement par 
+l’Assuré ou le propriétaire du véhicule assuré ainsi 
+que par toute personne ayant, avec l’autorisation 
+de l’un ou de l’autre, la garde ou la conduite 
+du véhicule assuré. Cette exclusion n’est pas 
+applicable lorsque les pertes et les dommages 
+sont causés par les personnes dont l’Assuré est 
+civilement responsable en vertu de l’article 85 du 
+dahir du 9 ramadan 1331 (12 août 1913) formant 
+code des obligations et des contrats, quelles que 
+soient la nature et la gravité des fautes de ces 
+personnes ;
+•	
+Les dommages causés au véhicule assuré lorsqu’il 
+transporte des matières inflammables, explosives, 
+corrosives ou comburantes. Toutefois, il n’est 
+pas tenu compte pour l’application de cette 
+exclusion, des transports d’huiles, d’essences 
+minérales ou de produits similaires ne dépassant 
+pas 100 kilogrammes ou 120 litres, en dehors 
+de l’approvisionnement de carburant liquide ou 
+gazeux nécessaire au moteur du véhicule assuré ;
+•	
+Les dommages résultant des effets directs 
+ou indirects d’explosions, de dégagement de 
+chaleur, d’irradiation provenant de transmutation 
+de noyaux d’atomes ou de la radioactivité ainsi 
+que des effets de radiation provoqués par 
+l’accélération artificielle de particules ;
+•	
+Les dommages causés au véhicule assuré résultant 
+du fonctionnement des bennes basculantes, 
+grues et autres appareils dont est muni le véhicule 
+assuré, lorsqu’il est immobilisé pour effectuer 
+des travaux, ainsi que les dommages causés au 
+véhicule assuré :
+	-
+Spécialement construit ou adapté pour des 
+travaux de chantier, de manutention ou de 
+nature industrielle ou forestière, à l’occasion 
+de son utilisation pour effectuer de tels 
+travaux ;
+	-
+Suite à un incendie ou d’explosions causées 
+au véhicule assuré spécialement construit ou 
+adapté pour pratiquer le camping ou servir 
+d’habitation, lorsqu’il est immobilisé hors de 
+la voie publique pour de tels usages ;
+
+
+=== Page 20 ===
+   
+20
+•	
+Les dommages résultant des opérations de 
+chargement ou de déchargement du véhicule 
+assuré ;
+•	
+Les amendes et leurs décimes ;
+•	
+Les dommages subis par le véhicule assuré 
+lorsqu’il est utilisé pour le transport à titre 
+onéreux, si le contrat n’est pas souscrit pour 
+l’assurance d’un véhicule déclaré pour une telle 
+utilisation ;
+•	
+Les dommages causés par les évènements 
+naturels : 	
+	
+	
+	
+	
+chute de la foudre, tremblement de terre, 
+éruption volcanique, tsunami, inondation, gel, 
+grêle, glissement ou affaissement de terrain, 
+ouragan, trombe, cyclone, tempête ;
+•	
+Les dommages occasionnés par le fait de 
+guerre étrangère ou civile, des engins de guerre, 
+des attentats individuels, des émeutes ou des 
+mouvements populaires, des actes de vandalisme 
+individuels ou collectifs et des actes de terrorisme 
+et de sabotage ;
+•	
+Les dommages causés au véhicule assuré 
+lorsqu’au moment du sinistre le conducteur n’est 
+pas titulaire d’un permis de conduire en état 
+de validité tel qu’exigé par la réglementation 
+en vigueur. Cette exclusion d’assurance ne 
+s’applique pas si le contrat concerne un véhicule 
+muni d’un dispositif de double commande (auto-
+école) lorsque le conducteur prend une leçon de 
+conduite, avec l’assistance d’un moniteur titulaire 
+d’un permis de conduire régulier, ou est en cours 
+d’examen ;
+•	
+Les dommages immatériels, tel que privation de 
+jouissance, manque à gagner et dépréciation, ainsi 
+que les frais de dépannage et de gardiennage 
+consécutifs à un évènement assuré ;
+•	
+Les dommages subis par le véhicule assuré, 
+lorsque le conducteur conduit sous l’emprise 
+de l’alcool ou de stupéfiants non prescrits 
+médicalement ;
+•	
+Les dommages consécutifs aux raz de marée sauf 
+lorsque la garantie complémentaire inondation 
+est couverte dans le cadre du présent Contrat ;
+•	
+Les dommages   causés   au véhicule   lorsqu’il 
+est   utilisé   à   l’insu   de   son propriétaire et sans 
+son autorisation ;
+•	
+Les dommages aux espèces monnayées, billets 
+de banque et autres papiers ayant valeur d’argent, 
+aux bijoux, fourrures, objets en métaux précieux, 
+pierres précieuses, perles et objets d’art ;
+•	
+Les dommages perte totale et/ou dommages 
+partiels subis par le véhicule assuré pendant son 
+transport par air ou par mer entre les pays non 
+visés à l’article 4 ci-dessus ;
+•	
+Les dommages partiels subis par le véhicule 
+assuré pendant son transport par mer entre les 
+pays visés à l’article 4 ci-dessus.
+TITRE lll - LA VIE DU CONTRAT
+CHAPITRE 1 - FORMATION, DATE D’EFFET, 
+DUREE ET RESILIATION DU CONTRAT
+ARTICLE 26 : FORMATION, DATE D’EFFET ET 
+DUREE DU CONTRAT
+Le présent contrat est parfait dès qu’il est signé par 
+les parties. L’Assureur peut en poursuivre, dès ce 
+moment, l’exécution mais l’assurance ne produit ses 
+effets qu’à compter de la date indiquée aux Conditions 
+Particulières. Les mêmes dispositions s’appliquent à 
+tout avenant au contrat.
+Le contrat est valable pour la durée indiquée 
+en 
+caractères 
+très 
+apparents 
+aux 
+Conditions 
+Particulières.
+Lorsque le contrat est souscrit pour une durée 
+ferme, sa durée s’étalera sur la période mentionnée 
+dans le contrat et cessera de plein droit et sans autre 
+avis à la date d’expiration indiquée aux Conditions 
+Particulières.
+L’Assureur et l’Assuré ont la faculté de se retirer à 
+l’expiration d’une (1) année à compter de la date d’effet 
+du contrat moyennant préavis de trente (30) jours.
+Lorsque la durée du contrat est supérieure à un (1) an, 
+elle doit être rappelée en caractères très apparents 
+par une mention figurant au-dessus de la signature 
+du Souscripteur.
+A défaut de cette mention, le Souscripteur peut, 
+nonobstant toute clause contraire, résilier le Contrat, 
+chaque année à la date anniversaire de sa prise 
+d’effet, moyennant un préavis de trente (30) jours.
+La faculté de résiliation ouverte à l’une ou à l’autre partie 
+en vertu de la présente section comporte restitution, par 
+l’Assureur, des   portions   de   primes   afférentes   à la 
+période pour laquelle les risques ne sont plus garantis.
+Au cas où la durée n’est pas mentionnée ou dans le 
+cas où elle n’est pas mentionnée en caractères très 
+apparents lorsque le présent contrat est souscrit 
+pour une durée supérieure à une (1) année, le contrat 
+est réputé souscrit pour une année. Dans ce dernier 
+cas, l’Assureur est tenu de restituer au Souscripteur 
+la portion de prime d’assurance qu’il a reçue en trop.
+Conformément à l’article 6 de la loi n° 17-99 portant 
+code des assurances, tel qu’il a été modifié et 
+complété, les dispositions des alinéas mentionnés ci-
+dessus du présent article s’appliquent également à la 
+garantie « Responsabilité Civile automobile ».
+Lorsque les parties conviennent de la prorogation 
+du contrat par tacite reconduction, cela doit être 
+spécifié dans les Conditions Particulières. Dans ce cas, 
+il se renouvellera automatiquement d’année en année 
+sauf dénonciation par l’une ou l’autre des parties 
+moyennant préavis de trente (30) jours.
+La durée de chacune des prorogations successives du 
+contrat par tacite reconduction ne peut, en aucun cas, 
+être supérieure à une année.
+
+
+=== Page 21 ===
+21
+Lorsque le contrat comporte une clause de tacite 
+reconduction, l’Assureur avise l’Assuré ou la personne 
+chargée du paiement de la prime, de la date d’échéance 
+et du montant de la somme dont il est redevable dans 
+un délai de 15 jours et ce avant chaque échéance de 
+prime. Dans le cas prévu à l’article 35 ci-dessous relatif 
+à la révision de la prime.
+ARTICLE 27 : RESILIATION
+Le contrat est résilié ou peut l’être, dans les cas ci-
+après, à la demande :
+A. DU SOUSCRIPTEUR
+•	
+Dans les cas prévus à l’article 26 ci-dessus ;
+•	
+En cas de disparition de circonstances aggravant 
+les risques assurés mentionnés aux Conditions 
+Particulières, si l’Assureur refuse de diminuer le 
+montant de la prime en conséquence (article 25 
+de la loi n° 17-99 précitée) ;
+•	
+En cas de résiliation après sinistre, par l’Assureur, 
+d’un autre contrat (article 26 de la loi n° 17-99 
+précitée) ;
+•	
+Dans les cas prévus à l’article 35 ci-dessous relatif 
+à la révision de la prime.
+B. DES CREANCIERS DE L’ASSURE PROPRIETAIRE 
+DU VEHICULE ASSURE
+En cas de déconfiture ou de liquidation judiciaire de 
+l’Assuré propriétaire du véhicule assuré (article 27 de 
+la loi n° 17-99 précitée).
+C. DES HERITIERS DE L’ASSURE PROPRIETAIRE DU 
+VEHICULE ASSURE
+En cas de décès de l’Assuré propriétaire du véhicule 
+assuré (article 28 de la loi n° 17- 99 précitée).
+D. DE L’ASSUREUR
+•	
+Dans les cas prévus à l’article 26 ci-dessus ;
+•	
+En cas de non-paiement d’une prime ou d’une 
+fraction de prime (article 21 de la loi n° 17-99 
+précitée) ;
+•	
+En cas d’aggravation des risques (article 24 de la 
+loi n° 17-99 précitée) ;
+•	
+Avant sinistre, en cas d’omission ou d’inexactitude 
+dans la déclaration des risques soit à la 
+souscription, soit en cours de contrat (article 31 
+de la loi n° 17-99 précitée) ;
+•	
+En cas de déconfiture ou de liquidation judiciaire 
+de l’Assuré propriétaire du véhicule assuré (article 
+27 de la loi n° 17-99 précitée) ;
+•	
+En cas de décès de l’Assuré propriétaire du 
+véhicule assuré (article 28 de la loi n° 17-99 
+précitée).
+E. DE PLEIN DROIT
+•	
+En cas de retrait de l’agrément de l’Assureur, le 
+contrat est résilié de plein droit dès le 20ème jour 
+à midi à compter de la publication de la décision 
+au Bulletin Officiel de l’Autorité de Contrôle des 
+Assurances et de la Prévoyance Sociale (ACAPS) 
+prononçant le retrait de l’agrément accordé à 
+l’Assureur (article 267 de la loi n° 17-99 précitée) ;
+•	
+En cas de disparition du risque assuré ou de 
+perte totale du véhicule assuré résultant d’un 
+évènement non prévu par le contrat (article 46 
+de la loi n° 17-99 portant Code des Assurances). 
+Ce cas de résiliation s’applique également à la 
+garantie Responsabilité Civile automobile ;
+•	
+En cas d’aliénation du véhicule assuré (article 29 
+de la loi n° 17-99 précitée) ;
+•	
+En cas de réquisition de la propriété du véhicule 
+assuré (article 33 de la loi n° 17- 99 précitée) ;
+•	
+En cas de liquidation judiciaire de l’Assureur 
+(article 27 de la loi n° 17-99 précitée).
+A l’exception des cas prévus aux articles 21 et 28 de 
+la loi n° 17-99 précitée, dans tous les cas de résiliation 
+au cours d’une période d’assurance, la portion de 
+prime afférente à la période pendant laquelle le risque 
+n’a pas couru n’est pas acquise à l’Assureur. Elle doit 
+être restituée, si elle a été perçue d’avance, dans les 
+conditions prévues par les articles 6, 24, 25, 26, 27, 29, 
+31, 33, 46 et 267 de la même loi.
+Dans tous les cas où le Souscripteur a la faculté de 
+demander la résiliation, il peut le faire à son choix soit 
+par une déclaration faite contre récépissé au siège 
+social de l’Assureur, soit par acte extrajudiciaire, soit 
+par lettre recommandée.
+Dans tous les cas où l’Assureur a la faculté de demander 
+la résiliation, il peut le faire, par lettre recommandée, au 
+dernier domicile du Souscripteur connu de l’Assureur.
+ARTICLE 28 : SUSPENSION
+Le contrat est suspendu ou peut l’être, dans les cas 
+ci-après :
+A. SUSPENSION PAR ACCORD DES PARTIES
+En cas de réquisition de la propriété du véhicule 
+assuré (article 33 de la loi n° 17- 99 précitée).
+B. SUSPENSION A L’INITIATIVE DE L’ASSUREUR
+En cas de non-paiement d’une prime ou d’une fraction 
+de prime (article 21 de la loi n° 17-99 précitée).
+C. SUSPENSION DE PLEIN DROIT
+En cas de réquisition de l’usage du véhicule assuré 
+(article 34 de la loi n° 17-99 précitée)
+ 
+ARTICLE 29 : PRESCRIPTION
+Toutes actions dérivant du présent contrat sont 
+prescrites par deux (2) ans à compter de l’évènement 
+qui y donne naissance dans les conditions fixées par 
+les articles 36, 37 et 38 de la loi n° 17-99 précitée.
+Cette période est de cinq (5) ans quand il s’agit des 
+risques prévus par les articles 19 et 20.
+CHAPITRE 2 - DECLARATION DES RISQUES 
+PAR L’ASSURE
+ARTICLE 30 : DECLARATION DU RISQUE
+A la souscription du contrat, l’Assuré doit déclarer 
+exactement à l’Assureur toutes les circonstances connues 
+de lui qui sont de nature à faire apprécier par l’Assureur 
+les risques qu’il prend en charge et notamment :
+•	
+Pour les risques Dommages au Véhicule assuré, 
+Perte financière et Rachat de Vétusté : la Valeur 
+à Neuf du véhicule assuré ;
+•	
+Pour les risques Vol et Incendie : la Valeur Vénale 
+du véhicule ;
+
+
+=== Page 22 ===
+22
+•	
+Pour le risque protection du conducteur et 
+protection des passagers : toute autre assurance 
+couvrant les mêmes risques.
+En cours de contrat, l’Assuré doit déclarer à l’Assureur les 
+circonstances spécifiées dans les Conditions Particulières 
+qui ont pour conséquence d’aggraver les risques. Cette 
+déclaration doit être faite par lettre recommandée 
+préalablement à l’aggravation des risques si celle-ci 
+résulte du fait de l’Assuré et dans un délai de huit (8) 
+jours à partir du moment où il a eu connaissance de 
+ladite aggravation si les risques sont aggravés sans le fait 
+de l’Assuré. Dans l’un et l’autre cas, l’Assureur a la faculté 
+soit de résilier le contrat, soit de proposer un nouveau 
+taux de prime. Si l’Assureur opte pour la résiliation, celle-
+ci prend effet le 1Oème jour de la notification de l’avis de 
+résiliation par lettre recommandée. Si l’Assuré ne donne 
+pas de suite à la proposition de l’Assureur ou s’il refuse 
+expressément le nouveau taux dans le délai de trente 
+(30) jours à compter de la notification de la proposition, 
+l’Assureur peut résilier le Contrat au terme de ce délai, à 
+condition d’avoir informé l’Assuré de cette faculté, en la 
+faisant figurer en caractères apparents dans la lettre de 
+proposition.
+Toutefois, l’Assureur ne peut plus se prévaloir de 
+l’aggravation des risques quand, après en avoir été 
+informé de quelque manière que ce soit, il a manifesté 
+son consentement au maintien de l’assurance, 
+spécialement en continuant à recevoir les primes ou 
+en payant, après un sinistre, une indemnité.
+ARTICLE 31 : FAUSSE DECLARATION
+Le présent contrat est nul en cas de réticence ou de 
+fausse déclaration intentionnelle de la part de l’Assuré 
+quand cette réticence ou cette fausse déclaration 
+changent l’objet du risque ou en diminue l’opinion pour 
+l’Assureur, alors même que le risque omis ou dénaturé 
+par l’Assuré a été sans influence sur le sinistre.
+Les primes payées demeurent alors acquises à 
+l’Assureur ; qui a le droit au paiement de toutes les 
+primes échues à titre de dommages et intérêts.
+L’omission ou la déclaration inexacte de la part 
+de l’Assuré dont la mauvaise foi n’est pas établie 
+n’entraîne pas la nullité de l’assurance.
+Si ladite omission ou déclaration inexacte est 
+constatée avant tout sinistre, l’Assureur a le droit, soit 
+de maintenir le contrat moyennant une augmentation 
+de prime acceptée par l’Assuré, soit de résilier le 
+contrat dix (10) jours après notification adressée à 
+l’Assuré par lettre recommandée.
+Dans le cas où la constatation n’a lieu qu’après 
+sinistre, l’indemnité est réduite en proportion du 
+taux des primes payées par rapport au taux des 
+primes qui auraient été dues si les risques avaient 
+été complètement et exactement déclarés.
+ 
+Si les risques garantis par le contrat sont ou viennent 
+à être couverts par d’autres contrats d’assurances, 
+l’Assuré doit en faire immédiatement la déclaration à 
+l’Assureur.
+CHAPITRE 3 - PRIMES
+ARTICLE 32 : DEFAUT DE PAIEMENT DE PRIME
+Sauf clause contraire spécifiée aux Conditions 
+Particulières, la prime est payable au domicile de 
+l’Assureur ou du mandataire désigné par lui à cet effet 
+aux Conditions Particulières.
+A défaut de paiement d’une prime ou d’une fraction 
+de prime dans les dix (10) jours de son échéance 
+et indépendamment du droit pour l’Assureur de 
+poursuivre l’exécution du contrat en justice, celui-ci 
+peut suspendre la garantie vingt (20) jours après la 
+mise en demeure de l’Assuré.
+Au cas où la prime annuelle a été fractionnée, la 
+suspension de la garantie, intervenue en cas de non-
+paiement de l’une des fractions de prime, produit ses 
+effets jusqu’à l’expiration de la période restante de 
+l’année d’assurance. La prime ou fraction de prime est, 
+dans tous les cas, portable après la mise en demeure 
+de l’Assuré.
+L’Assureur a le droit de résilier le contrat dix (10) 
+jours après l’expiration du délai de vingt (20) jours 
+mentionné ci-dessus.
+Le contrat non résilié reprend pour l’avenir ses effets 
+à midi du lendemain du jour où ont été payées à 
+l’Assureur ou au mandataire désigné par lui les primes 
+arriérées, ou en cas de fractionnement de la prime 
+annuelle, les fractions de prime ayant fait l’objet de la 
+mise en demeure et celles venues à échéance pendant 
+la période de suspension ainsi que, éventuellement, 
+les frais de poursuite et de recouvrement.
+Lorsque la mise en demeure est adressée en dehors 
+du Maroc, le délai de vingt (20) jours mentionné au 
+deuxième alinéa est doublé.
+ARTICLE 33 : MISE EN DEMEURE
+La mise en demeure prévue à l’article 32 ci-dessus 
+résulte de l’envoi d’une lettre recommandée adressée 
+à l’Assuré ou à la personne chargée du paiement de 
+la prime à leur dernier domicile connu de l’Assureur. 
+Si ce domicile est situé en dehors du Maroc, la lettre 
+recommandée est accompagnée d’une demande 
+d’avis de réception. Cette lettre, dont les frais 
+d’établissement et d’envoi incombent à l’Assureur, 
+doit indiquer expressément qu’elle est envoyée à titre 
+de mise en demeure, rappeler le montant et la date 
+d’échéance de la prime et reproduire l’article 21 de la 
+loi n° 17-99 précitée.
+ARTICLE 34 : RESILIATION DU CONTRAT
+La résiliation du contrat, intervenue en application de 
+l’article 32 ne prend effet que si la prime ou fraction 
+de prime n’a pas été payée avant l’expiration du délai 
+de dix (10) jours prévu à l’article 32 ci-dessus.
+La résiliation, qui doit être notifiée à l’Assuré par lettre 
+recommandée, prend effet à l’expiration du 30ème jour 
+de la date d’envoi de la lettre de mise en demeure 
+prévue par l’article 32 ci-dessus. Toutefois, lorsque la 
+lettre de mise en demeure est adressée en dehors du 
+Maroc, la résiliation ne prend effet qu’à l’expiration du 
+50ème jour de la date d’envoi de ladite lettre.
+
+
+=== Page 23 ===
+23
+ARTICLE 35 : REVISION DE LA PRIME
+Lorsque le contrat est à tacite reconduction, l’Assureur 
+doit aviser le Souscripteur par lettre recommandée 
+soixante (60) jours au moins avant l’échéance en cas 
+de modification de prime.
+Le Souscripteur peut alors résilier le contrat par lettre 
+recommandée adressée à l’Assureur trente (30) jours 
+au moins avant cette échéance.
+Si le Souscripteur n’utilise pas la faculté de résiliation 
+ci-dessus, il est réputé avoir accepté le nouveau 
+montant de prime proposé par l’Assureur.
+CHAPITRE 4 - DECLARATION ET REGLEMENT 
+DES SINISTRES
+ARTICLE 36 : OBLIGATIONS DE L’ASSURE EN 
+CAS DE SINISTRE
+Sous peine de déchéance, l’Assuré doit, sauf cas 
+fortuit ou de force majeure, déclarer à l’Assureur ou 
+à l’intermédiaire d’assurance mandaté à cet effet, 
+dans les cinq (5) jours de sa survenance, tout sinistre 
+de nature à entraîner la garantie du présent contrat 
+conformément à l’article 20 de la loi n° 17-99 portant 
+code des assurances.
+En ce qui concerne la garantie Vol, le délai de 
+déclaration est fixé à quarante-huit (48) heures.
+La 
+déclaration 
+de 
+sinistre 
+à 
+l’Assureur 
+ou 
+à 
+l’intermédiaire d’assurance mandaté à cet effet doit 
+être faite par écrit ou verbalement et contre récépissé.
+L’Assuré doit en outre :
+•	
+Indiquer le numéro de police, la date, jour et 
+heure, la nature et les circonstances du sinistre, 
+les noms et adresses du conducteur du véhicule 
+assuré, ainsi que le cas échéant, le conducteur du 
+véhicule adverse et le nom de l’Assureur couvrant 
+la Responsabilité Civile de la partie adverse. 
+Toutes les conditions de déclaration de sinistre 
+mentionnées dans les paragraphes précédents 
+demeurent valables pour les accidents survenus 
+à l’étranger, sauf en ce qui concerne le délai de 
+déclaration qui est porté de cinq (5) à vingt (20) 
+jours ;
+•	
+Transmettre à l’Assureur, dans le plus bref délai, 
+tous avis, lettres, convocations, assignations, 
+actes extrajudiciaires et pièces de procédure qui 
+seraient adressés, remis ou signifiés à lui-même ou 
+à ses préposés concernant un sinistre susceptible 
+de faire jouer la garantie Défense et Recours ;
+•	
+En cas de Vol ou de Tentative de Vol du véhicule 
+assuré, déposer immédiatement une plainte 
+auprès des autorités de police, faire opposition 
+auprès du centre d’immatriculation (service des 
+mines) par lettre recommandée avec accusé 
+de réception ; informer l’Assureur de tout avis 
+ou de tout renseignement en rapport avec le 
+déroulement de l’enquête ;
+•	
+Au titre des garanties Protection du Conducteur 
+et Protection des Passagers, le Souscripteur doit 
+transmettre à l’Assureur le certificat médical initial 
+du médecin appelé à donner les premiers soins.
+ARTICLE 37 : LIMITES DES GARANTIES ET 
+FRANCHISES
+Outre les conditions de franchise prévues aux 
+présentes Conditions Générales, les montants de la 
+limite de garantie et des franchises sont fixés, le cas 
+échéant, aux Conditions Particulières, pour chaque 
+risque.
+Quand il est clairement spécifié aux Conditions 
+Particulières, le montant de la franchise ne peut être 
+inférieur au minimum indiqué.
+ARTICLE 38 : REGLE PROPORTIONNELLE
+Si, au jour du sinistre, la valeur déclarée par l’Assuré 
+et mentionnée aux Conditions Particulières (Valeur 
+à Neuf ou Valeur Vénale) est inférieure à la valeur 
+réelle du véhicule (Valeur à Neuf figurant sur la 
+facture d’achat ou la Valeur Vénale à dires d’expert), 
+l’Assureur appliquera la règle proportionnelle telle que 
+stipulée à l’article 43 de la loi n° 17-99 portant code 
+des assurances.
+ARTICLE 39 : PROCEDURE D’INDEMNISATION
+A. EXPERTISE
+L’évaluation des dommages est faite par l’expert de 
+l’Assureur. En cas de contestation des conclusions de 
+l’expert de l’Assureur par l’Assuré, un deuxième expert 
+est désigné d’un commun accord entre les parties, 
+qui doit évaluer les dommages subis par le véhicule 
+assuré. Les frais de la deuxième expertise seront 
+supportés à parts égales par les deux parties. A défaut 
+d’accord sur le choix du 2ème expert, il est procédé à la 
+nomination de ce dernier par le président du tribunal 
+compétent. Cette nomination s’effectue sur simple 
+requête signée par l’Assureur et par l’Assuré.
+B. 
+DETERMINATION 
+ 
+ 
+ET 
+REGLEMENT 
+DES 
+INDEMNITES
+L’évaluation 
+des 
+dommages 
+dans 
+toutes 
+les 
+procédures d’indemnisation désignées ci-dessous est 
+faite par expertise conformément aux dispositions 
+de l’alinéa (A.) ci­ dessus. Outre la procédure de 
+l’indemnisation décrite au paragraphe (1.) ci-dessous, 
+qui reste toujours acquise à l’Assuré, ce dernier pourra 
+sur accord préalable de l’Assureur, choisir une des 
+procédures d’indemnisation décrites au paragraphe 
+(2.) ci­ dessous.
+1. Procédure d’indemnisation après réparation et 
+présentation des factures
+a. Cas d’un sinistre total
+Lorsque le véhicule est complètement détruit ou hors 
+d’usage (réforme technique) ou économiquement 
+irréparable (réforme économique),  le montant de 
+l’indemnité est égal à la Valeur Vénale du véhicule au 
+jour du sinistre ; déduction faite de  la franchise  prévue 
+aux  Conditions  Particulières et, le cas échéant, de la 
+valeur résiduelle du véhicule (valeur  de  l’épave) ; sans 
+pouvoir toutefois dépasser la valeur assurée prévue 
+aux Conditions Particulières.
+b. Cas d’un sinistre partiel
+En cas de dommages partiels, l’indemnité est égale 
+au coût de réparation ou de remplacement des pièces 
+
+
+=== Page 24 ===
+24
+détériorées, déduction faite de la vétusté et de la 
+franchise prévue aux Conditions Particulières, mais 
+sans pouvoir dépasser la valeur assurée prévue aux 
+Conditions Particulières.
+ 
+Toutefois, si la garantie Dommages Tous Accidents 
+(DTA) est souscrite ou si l’Assuré a souscrit à la 
+garantie Rachat de la vétusté, les dommages seront 
+estimés sur la base d’une Valeur à Neuf ; égale à la 
+valeur de reconstitution ou de remplacement au 
+prix du neuf au jour du sinistre. Le montant total de 
+l’indemnité ainsi déterminé ne peut dépasser la Valeur 
+Vénale du véhicule au jour du sinistre.
+ 
+Après contrôle des réparations par l’expert de 
+l’Assureur et présentation de la facture de réparation, 
+l’expert établit son rapport et le transmet à l’Assureur. 
+Ce dernier établit la quittance et le chèque de 
+l’indemnité à remettre à l’Assuré dans un délai 
+maximum de cinq (5) jours. L’indemnité est calculée 
+vétusté déduite le cas échéant.
+En ce qui concerne la garantie Vol, le règlement ne 
+peut être exigé par l’Assuré qu’après un délai de 
+trente (30) jours à dater de la déclaration de sinistre. 
+Si le véhicule volé est retrouvé avant le paiement de 
+l’indemnité, l’Assuré doit le reprendre et l’Assureur 
+est tenu seulement à concurrence des dommages et 
+frais garantis. Si le véhicule volé est récupéré après 
+paiement de l’indemnité, l’Assuré, dans les trente (30) 
+jours suivant la date où il a eu connaissance de cette 
+récupération, a la faculté d’en reprendre possession 
+moyennant remboursement de l’indemnité, sous 
+déduction du montant des dommages et frais garantis.
+ 
+L’indemnisation maximale due en cas de sinistre 
+touchant la garantie Perte Financière cumulée avec 
+celle relative à la garantie Dommages Tous Accidents 
+(DTA) ne doit en aucun cas dépasser la Valeur à Neuf 
+du véhicule assuré.
+ 
+En cas de sinistre touchant les garanties Bagages et 
+Effets Personnels et Accessoires et Aménagements 
+Professionnels, l’Assuré doit prouver leur existence 
+par tous les moyens (photos, facture d’achat. etc.).
+ 
+2. Procédure d’indemnisation avec prise en charge du 
+coût des réparations, directement par l’Assureur
+L’Assureur prend en charge le coût des réparations, 
+vétusté déduite le cas échéant, dans la limite du plafond 
+et franchise spécifiés aux Conditions Particulières. Le 
+montant desdites vétusté et franchise reste à la charge 
+de l’Assuré. Le montant des réparations à la charge de 
+l’Assureur est réglé directement au garagiste.
+ 
+3. Indemnisation des sinistres survenus à l’étranger
+Les sinistres survenus à l’étranger seront indemnisés 
+au Maroc et en Dirhams. Si les réparations ont été 
+effectuées à l’étranger, l’Assuré devra présenter le 
+rapport d’expertise et la facture des réparations 
+qui seront soumis à l’expert de l’Assureur pour 
+appréciation et évaluation du montant de l’indemnité.
+ 
+En cas de contestation de l’appréciation faite par 
+l’expert de l’Assureur, les dispositions de l’article 
+39 ci-dessus relatives à l’expertise d’arbitrage sont 
+applicables.
+4. Véhicule acheté à crédit
+Si le véhicule objet de la présente assurance a été 
+acheté à crédit, le règlement des indemnités dues par 
+l’Assureur à l’Assuré en cas de sinistre total ne pourra 
+être effectué sans l’autorisation écrite de l’organisme 
+de crédit ou la présentation de la main levée. En tout 
+état de cause, et jusqu’au remboursement intégral 
+du montant du crédit, la présente assurance vaudra 
+transport et délégation en faveur de l’organisme 
+de crédit de toute somme qui pourrait être due par 
+l’Assureur à l’Assuré en cas de sinistre total.
+ARTICLE 40 : DISPOSITIONS SPECIALES A LA 
+GARANTIE BRIS DE GLACES
+Les glaces du véhicule sont assurées dans la limite 
+de la valeur assurée au jour de la souscription avec 
+abrogation de la règle proportionnelle de capitaux 
+visée à l’article 43 de la loi n° 17-99 portant code des 
+assurances.
+ARTICLE 41 : DISPOSITIONS SPECIALES A LA 
+GARANTIE DEFENSE ET RECOURS
+L’Assureur dirige les opérations de Défense et Recours.
+ 
+En ce qui concerne l’exercice des recours, l’Assuré 
+doit donner à l’Assureur les pouvoirs nécessaires et 
+lui fournir les documents servant à fixer le montant 
+des demandes, notamment les factures de réparation 
+acquittées. L’Assureur s’interdit de transiger avec les 
+Tiers responsables sauf autorisation de l’Assuré qui, 
+alors, fixe lui-même le montant de la transaction.
+En cas de désaccord entre l’Assureur et l’Assuré, soit 
+sur l’opportunité d’engager ou de poursuivre une 
+action judiciaire, soit sur le montant du préjudice, le 
+différend est soumis à deux arbitres désignés l’un par 
+l’Assureur, l’autre par l’Assuré.
+A défaut d’entente entre ces arbitres, ils sont 
+départagés par un troisième arbitre, désigné par 
+eux, ou à défaut d’accord sur cette désignation, par 
+le président du tribunal compétent du domicile de 
+l’Assuré ; chaque partie supporte les frais et honoraires 
+de son arbitre et la moitié de ceux du Tiers arbitre.
+Si, contrairement à l’avis des arbitres, l’Assuré exerce 
+une action judiciaire et obtient, de ce fait, une solution 
+plus favorable que celle proposée par les arbitres, 
+l’Assureur rembourse à l’Assuré les frais exposés pour 
+l’exercice de cette action.
+ARTICLE 42 : DISPOSITIONS SPECIALES AUX 
+GARANTIES PROTECTION DU CONDUCTEUR 
+ET PROTECTION DES PASSAGERS
+A. EXPERTISE MEDICALE
+L’Assureur se réserve le droit, toutes les fois qu’il le 
+juge utile, de faire examiner la victime par un médecin 
+de son choix.
+ 
+L’indemnité due est réglée, au vu du rapport de ce 
+médecin fixant les conséquences définitives de 
+l’accident ou du rapport établi par les médecins 
+experts en cas de contestation d’ordre médical.
+En cas de contestation d’ordre médical, les deux 
+parties doivent désigner chacune un médecin expert. 
+Si ces médecins experts ne sont pas d’accord, ils 
+
+
+=== Page 25 ===
+25
+feront appel à un troisième pour les départager.
+Faute par l’une des parties de nommer son expert ou 
+par les deux experts de s’entendre sur le choix d’un 
+troisième, la désignation est effectuée, à la demande 
+de la partie la plus diligente, par le Président du 
+Tribunal compétent.
+Chaque partie supporte les frais honoraires de son 
+médecin ; ceux du troisième médecin sont payés à 
+parts égales.
+B. INDEMNITÉS
+1. En cas de décès
+Concernant la garantie Protection du Conducteur : 
+l’indemnité, octroyée aux bénéficiaires désignés aux 
+Conditions Particulières ou à défaut aux ayants droit 
+du conducteur, est égale au capital fixé aux Conditions 
+Particulières.
+Concernant la garantie Protection des Passagers :
+•	
+Pour les victimes dont l’âge est compris entre 16 
+et 70 ans, l’indemnité est égale au capital fixé aux 
+Conditions Particulières ;
+•	
+Pour les victimes dont l’âge est inférieur à 5 
+ans ou supérieur à 70 ans, l’Assureur règlera 
+exclusivement un montant forfaitaire de 5 000 
+DH au titre des frais d’inhumation ;
+•	
+Pour les victimes dont l’âge est compris entre 5 
+et 16 ans, l’indemnité est égale au capital fixé aux 
+Conditions Particulières réduit de moitié.
+2. En cas d’Incapacité Physique Permanente (IPP)
+Quand cette garantie est mentionnée dans les 
+Conditions Particulières, l’IPP est fixée par le médecin 
+expert suivant le barème des incapacités annexé aux 
+présentes Conditions Générales.
+L’indemnité est égale au produit du taux d’IPP par le 
+capital assuré figurant aux Conditions Particulières.
+Exemple de calcul d’indemnité   en cas d’IPP :
+•	
+Capital assuré = 30 000 DH
+•	
+IPP = 15%
+•	
+Indemnité = 30 000 X 15% = 4 500 DH
+L’indemnité en cas d’IPP sera réduite de moitié pour 
+les enfants âgés de moins de 5 ans.
+Au cas où les conséquences d’un accident seraient 
+aggravées par une maladie ou une infirmité antérieure 
+ou postérieure à l’accident mais indépendante de 
+celui-ci, l’Assureur n’indemnisera la victime, en cas 
+de décès ou d’IPP, que dans la mesure où l’accident 
+aurait frappé une personne bien portante et valide, 
+sans tenir compte de l’intervention aggravante de 
+cette maladie ou de cette infirmité.
+3. Frais médicaux et d’hospitalisation
+L’Assureur remboursera, en cas d’accident garanti et 
+sur remise des pièces justificatives, les frais médicaux, 
+chirurgicaux, pharmaceutiques et d’hospitalisation, 
+à concurrence, par sinistre, de la somme fixée aux 
+Conditions Particulières.
+Les frais de prothèse et d’orthopédie sont compris 
+dans les frais médicaux, à concurrence de 20% de 
+la somme prévue pour cette garantie sur remise des 
+pièces justificatives.
+Les frais de cure sont exclus. Sont seuls pris en charge 
+les frais de traitement dispensés par des praticiens 
+munis des diplômes exigés par les Pouvoirs publics.
+Le remboursement ne viendra éventuellement qu’en 
+complément des indemnités ou des prestations de 
+même nature, garanties pour le même risque par un 
+organisme de sécurité sociale ou tout autre régime de 
+prévoyance, sans que l’Assuré puisse recevoir, au total, 
+un montant supérieur à celui de ses débours réels 
+ou à celui éventuellement prévu par des dispositions 
+législatives ou réglementaires.
+C. REGLEMENT DES INDEMNITÉS
+Les indemnités sont payables au Maroc au siège de 
+l’Assureur et dans la monnaie ayant cours en ce pays.
+En cas de décès, le capital est versé aux bénéficiaires 
+désignés aux Conditions Particulières ou à défaut aux 
+héritiers de la victime, dans les trente (30) jours qui 
+suivent la production des pièces justificatives, tant du 
+décès par accident que de la qualité des héritiers.
+En cas d’infirmité, le capital est versé à la victime ou à 
+ses représentants légaux dans les trente (30) jours qui 
+suivent la détermination du taux d’incapacité par le ou 
+les médecin(s) expert(s).
+En cas de décès résultant d’un accident garanti 
+par le présent contrat, le capital assuré est dû non 
+seulement quand le décès a été immédiat, mais 
+encore lorsqu’il s’est produit dans les douze mois qui 
+suivent l’accident. Dans ce cas, le capital assuré est 
+versé sous déduction des indemnités pour infirmité 
+que l’Assureur peut avoir déjà payé.
+ARTICLE 43 : SUBROGATION
+L’Assureur, qui a payé l’indemnité d’assurance, est 
+subrogé jusqu’à concurrence de cette indemnité, dans 
+les droits et actions de l’Assuré contre les Tiers qui, 
+par leur fait, ont causé le dommage ayant donné lieu 
+à la garantie de l’Assureur.
+L’Assureur peut être déchargé, en tout ou en partie 
+de sa garantie envers l’Assuré, quand la subrogation 
+ne peut plus, par le fait de l’Assuré, s’opérer en faveur 
+de l’Assureur.
+Par 
+dérogation 
+aux 
+dispositions 
+précédentes, 
+l’Assureur n’a aucun recours contre les conjoints, 
+ascendants, descendants, alliés en ligne directe, 
+préposés, employés, ouvriers ou domestiques, et 
+généralement toute personne vivant habituellement 
+au foyer de l’Assuré, sauf le cas de malveillance par 
+une de ces personnes.
+Pour ce qui est des garanties Protection du Conducteur 
+et Protection des Passagers, la subrogation ne 
+concerne que les prestations à caractère indemnitaire.
+
+
+=== Page 26 ===
+26
+ANNEXES
+ANNEXE I
+CONDITIONS GENERALES-TYPE
+« RESPONSABILITE CIVILE 
+AUTOMOBI LE »
+Le contrat d’assurance « Responsabilité Civile 
+Automobile », dont les Conditions Générales-Type 
+figurent ci-après, est régi par la loi n° 17-99 portant 
+code des assurances et les textes pris pour son 
+application.
+CHAPITRE 1 - OBJET ET ETENDUE DE LA 
+GARANTIE
+ARTICLE 1 : DEFINITIONS
+On entend par :
+•	
+Souscripteur : la personne morale ou physique, 
+ainsi dénommée aux Conditions Particulières du 
+contrat. 
+•	
+Assuré : le Souscripteur du contrat, le propriétaire 
+du véhicule assuré et toute personne ayant, avec 
+l’autorisation de l’un ou de l’autre, la garde ou la 
+conduite du véhicule assuré, à l’exception des 
+garagistes et personnes pratiquant habituellement 
+le courtage, la vente, la réparation, le dépannage 
+ou le contrôle du bon fonctionnement des 
+véhicules automobiles, ainsi que leurs préposés, 
+en ce qui concerne les véhicules qui leur sont 
+confiés en raison de leur fonction.
+•	
+Véhicule assuré : le véhicule terrestre à moteur 
+non lié à une voie ferrée, désigné aux Conditions 
+Particulières et, le cas échéant, ses remorques 
+ou semi-remorques désignées également aux 
+Conditions Particulières.
+•	
+Personnes transportées à titre gratuit : tout 
+passager transporté sans rémunération, même s’il 
+est transporté par l’Assuré en vue de la recherche 
+d’une affaire commune, ou si sans payer de 
+rétribution du transport proprement dite, il 
+participe aux frais de route.
+ARTICLE 2 : OBJET DE LA GARANTIE
+Sous réserve des exclusions d’assurance stipulés aux 
+articles 4, 6 et 7 ci-dessous ainsi que des limitations 
+de garantie  prévues à  l’article 8 ci-après,  l’entreprise 
+d’assurances et de réassurance, ci-après dénommée « 
+l’Assureur » garantit la Responsabilité Civile de l’Assuré 
+à raison des dommages corporels ou matériels, 
+à la personne ou aux biens des Tiers, résultant des 
+accidents, incendies ou explosions causés par le 
+véhicule assuré ou  provenant du fait des engins, 
+accessoires et produits servant  à  son utilisation, des 
+objets et substances qu’il transporte ainsi que de la 
+chute de ces engins, accessoires, produits, objets ou 
+substances.
+La garantie s’applique aux accidents causés par le 
+véhicule assuré :
+•	
+Soit qu’il remorque occasionnellement un véhicule 
+en panne ;
+•	
+Soit qu’il soit remorqué lui-même par un autre 
+véhicule.
+Si le véhicule assuré est un véhicule de dépannage, la 
+garantie s’applique lorsqu’il remorque ou transporte 
+d’autres véhicules et lors d’opérations de dépannage 
+par ledit véhicule. La garantie couvre les conséquences 
+pécuniaires de la responsabilité civile pouvant être 
+encourue du fait d’accident occasionné par l’ouverture 
+d’une portière par toute personne en vue de prendre 
+place dans le véhicule assuré ou ayant pris place dans 
+ledit véhicule.
+ARTICLE 3 : ETENDUE GEOGRAPHIQUE
+L’assurance produit ses effets au Maroc et dans les pays 
+adhérents à la convention­ type inter bureau régissant 
+le système de la carte verte ou à la convention entre les 
+pays membres de la ligue des Etats Arabes relative à 
+la circulation des véhicules automobiles dans les pays 
+arabes et à la carte internationale arabe d’assurance 
+pour les véhicules automobiles (carte orange) signé 
+à Tunis le 15 Rabii Il 1395 (26 avril 1975) et publié par 
+le dahir n° 1-77-183 du 5 Chaoual 1397 (19 septembre 
+1977), ou à une convention bilatérale ou multilatérale 
+relative à tout autre carte dûment ratifiée  et publiée 
+par le Maroc.
+Pour la carte verte, la liste des Etats où l’assurance 
+produit ses effets figure aux Conditions Particulières. 
+La garantie peut être étendue par accord des parties 
+à tout état désigné expressément aux Conditions 
+Particulières.
+CHAPITRE 2 - EXCLUSIONS D’ASSURANCE 
+ET LIMITATION DE GARANTIE
+ARTICLE 4 : EXCLUSIONS GENERALES
+Le présent contrat n’assure pas :
+•	
+Les dommages survenus en cours de rallyes, 
+épreuves, courses ou compétitions (ou leurs 
+essais), lorsque l’Assuré y participe en qualité de 
+concurrent, d’organisateur ou de proposé de l’un 
+d’eux ;
+•	
+Les dommages causés par le véhicule assuré 
+lorsqu’il transporte des matières inflammables, 
+explosives, corrosives ou comburantes. Toutefois, 
+il n’est pas tenu compte pour l’application de cette 
+exclusion, des transports d’huiles, d’essences 
+minérales ou de produits similaires ne dépassant 
+pas 500 kilogrammes ou 600 litres, y compris 
+l’approvisionnement de carburant liquide ou 
+gazeux nécessaire au moteur du véhicule assuré ;
+•	
+Les dommages subis par les marchandises et 
+objets transportés par le véhicule assuré ainsi que 
+les vols portant sur ces marchandises ou objets ;
+•	
+Les dommages causés intentionnellement par 
+le Souscripteur du contrat ou le propriétaire du 
+véhicule assuré, ainsi que par toute personne 
+ayant, avec l’autorisation de l’un ou de l’autre, 
+la garde ou la conduite du véhicule assuré. 
+Toutefois,  l’Assureur  reste  garant  des  pertes 
+et  dommages  causés  par  les personnes dont 
+l’Assuré est civilement  responsable en vertu de 
+l’article 85 du dahir du 9 ramadan 1331 (12 août 
+1913) formant  code des obligations  et des 
+contrats, quelles que soient la nature et la gravité 
+des fautes de ces personnes ; 
+
+
+=== Page 27 ===
+27
+•	
+Les  dommages   résultant   des   effets   directs 
+ou   indirects   d’explosions,   de dégagements  de 
+chaleur,  d’irradiation  provenant  de  transmutation 
+de  noyaux d’atomes ou de la radioactivité 
+ainsi que des effets de radiation provoqués par 
+l’accélération artificielle des particules ;
+•	
+Les dommages occasionnés par des faits de 
+guerre étrangère ou civile, des émeutes ou des 
+mouvements populaires ;
+•	
+Sous réserve des dispositions   du 3ème alinéa de 
+l’article 2 ci-dessus, les dommages résultant des 
+opérations de chargement ou de déchargement 
+du véhicule assuré ;
+•	
+Les amendes et leurs décimes ;
+•	
+Les dommages causés par le véhicule assuré 
+lorsqu’il est utilisé pour le transport à titre 
+onéreux, si le contrat n’est pas souscrit pour 
+l’assurance d’un véhicule déclaré pour une telle 
+utilisation ;
+•	
+Les dommages causés par le véhicule assuré, 
+lorsqu’il est confié par l’Assuré à des garagistes 
+et 
+personnes 
+pratiquant 
+habituellement 
+le 
+courtage, la vente, la réparation, le dépannage ou 
+le contrôle du bon fonctionnement des véhicules 
+automobiles, en raison de leur fonction ;
+•	
+Les dommages résultant du fonctionnement de 
+bennes basculantes, grues et autres appareils 
+dont est muni le véhicule assuré, lorsqu’il est 
+immobilisé pour effectuer des travaux, ainsi que 
+les dommages matériels : 
+	-
+Causés par le véhicule assuré spécialement 
+construit ou adapté pour des travaux de 
+chantier, de manutention ou de nature 
+industrielle ou forestière, à l’occasion de son 
+utilisation pour effectuer de tels travaux ;
+	-
+Résultant d’incendie ou d’explosions causés 
+par le véhicule assuré spécialement construit 
+ou adapté pour pratiquer le camping ou 
+servir d’habitation, lorsqu’il est immobilisé 
+hors de la voie publique pour de tels usages ;
+•	
+Les dommages causés aux personnes ci-après :
+	-
+Le Souscripteur du contrat, le propriétaire 
+du véhicule assuré et toute personne ayant, 
+avec leur autorisation, la garde ou la conduite 
+du véhicule assuré ;
+	-
+Le conducteur du véhicule assuré ;
+	-
+Lorsqu’ils sont transportés dans le véhicule 
+assuré, les représentants légaux de la 
+personne morale propriétaire du véhicule 
+assuré ;
+	-
+Pendant 
+leur 
+service, 
+les 
+salariés 
+ou 
+proposés de l’Assuré ou du conducteur dont 
+la responsabilité est engagée du fait de 
+l’accident.
+ARTICLE 5 : EXCLUSIONS RACHETABLES
+La garantie peut être étendue par accord des parties, 
+expressément stipulé aux Conditions Particulières, 
+aux risques exclus en vertu de l’article 4 points 1, 2, 3, 
+5, 6, 7 et 11.
+ARTICLE 6 : EXCLUSIONS CONCERNANT LES 
+PERSONNES TRANSPORTEES
+La garantie de la responsabilité de l’Assuré, à l’égard 
+des personnes transportées dans le véhicule assuré, 
+autres que celles exclues en vertu du paragraphe 
+1) de l’article 4 ci­ dessus, afférente aux dommages 
+corporels causés à ces personnes n’a d’effet :
+•	
+En ce qui concerne les véhicules destinés au 
+transport public de personnes, que lorsque 
+les passagers sont transportés à l’intérieur de 
+véhicules équipés d’une carrosserie aménagée 
+pour le transport des voyageurs ;
+•	
+En ce qui concerne les voitures de place (taxis 
+ou véhicules de grande remise), que lorsque le 
+nombre des personnes transportées ne dépasse 
+pas celui prévu par l’autorisation de transport ;
+•	
+En ce qui concerne, les autres véhicules de 
+transport de voyageurs, à l’exception du transport 
+urbain, que lorsque le nombre de personnes 
+transportées ne dépasse celui figurant dans les 
+conditions particulières ni de dix pour cent (10%) 
+ni de cinq (5) personnes. Les enfants de moins de 
+dix (10) ans ne sont comptées que pour moitié ;
+•	
+En ce qui concerne les véhicules de tourisme, que 
+lorsque le nombre des personnes transportées 
+ne dépasse pas, de plus de cinquante pour cent 
+(50%) celui des places prévues par le constructeur 
+ou à défaut, le nombre de places homologué par 
+le ministère chargé des transports, les enfants de 
+moins de dix (10) ans n’étant comptes que pour 
+moitié ;
+•	
+En ce qui concerne les véhicules destinés au 
+transport de marchandises, qu’à condition :
+	-
+Que les passagers soient transportés soit à 
+l’intérieur de la cabine, soit sur un plateau 
+muni de ridelles, soit l’intérieur d’une 
+carrosserie fermée ;
+	-
+Que le nombre des personnes transportées 
+n’excède ni huit (8) personnes au total ni cinq 
+(5) personnes hors de la cabine, les enfants 
+de moins de dix (10) ans n’étant comptés que 
+pour moitié ;
+•	
+En ce qui concerne les tracteurs non destinés au 
+transport de marchandises, les triporteurs et les 
+véhicules deux roues avec side-car, que lorsque le 
+nombre des personnes transportées ne dépasse 
+pas celui des places prévues par le constructeur. 
+Toutefois, la présence dans un side-car d’un 
+enfant de moins de cinq (5) ans accompagnés 
+d’un adulte n’implique pas dépassement ;
+•	
+En ce qui concerne les véhicules à deux roues, 
+que lorsqu’ils ne transportent pas plus d’un seul 
+passager en sus du conducteur, quel que soit 
+l’âge dudit passager ;
+•	
+En ce qui concerne les remorques ou semi-
+remorques entrant dans la définition du véhicule 
+assuré, qu’à   la double condition   qu’elles soient 
+construites   en vue d’effectuer des transports de 
+personnes et que les passagers soient transportés 
+à l’intérieur de la remorque ou semi-remorque.
+ARTICLE 7 : EXCLUSION CONCERNANT LE 
+PERMIS DE CONDUIRE
+Sous réserve des dispositions du 2ème alinéa du point 4 
+de l’article 4 ci-dessus, il n’y a pas assurance lorsque, 
+au moment du sinistre, le conducteur du véhicule 
+assuré n’est pas titulaire d’un permis de conduire en 
+cours de validité exigé par la réglementation pour la 
+conduite du véhicule assuré.
+
+
+=== Page 28 ===
+28
+L’exclusion d’assurance ne s’applique pas si le contrat 
+concerne un véhicule muni d’un dispositif de double 
+commande (auto-école) lorsque le conducteur 
+prend une leçon de conduite, avec l’assistance d’un 
+moniteur titulaire d’un permis de conduire régulier, ou 
+est en cours d’examen.
+ARTICLE 8 : LIMITES DE GARANTIE
+Dans le respect des dispositions de l’article 123 de la 
+loi n 17-99 précitée, le montant de la garantie peut 
+être fixé aux Conditions Particulières.
+Sont couverts par l’Assureur et à sa charge exclusive, 
+en sus de la somme garantie, les intérêts, les frais 
+de procédure ou autres et honoraires, même si 
+l’indemnité allouée à la victime ou à ses ayants droit 
+est supérieure à la somme garantie ; toutefois, les 
+intérêts afférents à la partie de l’indemnité ainsi mise 
+à la charge de l’Assuré insuffisamment garanti, sont 
+supportés par ce dernier.
+En cas d’attribution de rente viagère allouée aux Tiers, 
+aux voyageurs transportés ou à leurs ayants droit, la 
+limite des charges de l’Assureur est calculée d’après la 
+valeur en capital de la rente allouée au jour de l’accord 
+ou de la décision de justice ; cette valeur est calculée 
+d’après le tarif de la caisse nationale de retraites et 
+d’assurance instituée par le dahir n° 1-59-301 du 24 
+Rabii 11 1379 (27 octobre 1959) relatif à la constitution 
+de rente à capital aliéné.
+CHAPITE 3 - FORMATION, DATE D’EFFET, 
+DUREE ET RESILIATION DU CONTRAT
+ARTICLE 9 : FORMATION, DATE D’EFFET ET 
+DUREE
+Le présent contrat est parfait dès qu’il est signé par 
+les parties ; l’Assureur peut en poursuivre, dès ce 
+moment, l’exécution, mais l’assurance ne produit ses 
+effets qu’à compter de la date indiquée aux Conditions 
+Particulières. Les mêmes dispositions s’appliquent à 
+tout avenant au contrat.
+Ces dispositions ne font pas obstacle à ce que, 
+même avant la délivrance du contrat ou de l’avenant, 
+l’Assureur et l’Assuré ne soient engagés, l’un à l’égard 
+de l’autre, par la remise d’une note de couverture.
+Le contrat est conclu pour la durée fixée aux Conditions 
+Particulières. Toutefois, chacune des parties a le droit 
+de se retirer à l’expiration d’une période de trois cent 
+soixante-cinq (365) jours à compter de la date d’effet 
+du contrat, sous réserve d’en informer l’autre partie, 
+dans les formes prévues à l’article 10 ci-dessous, avec 
+un préavis de trente (30) jours.
+Lorsque la durée du contrat est supérieure à un an, 
+elle doit être rédigée en caractères très apparents et 
+rappelés également en caractères très apparents par 
+une mention figurant au-dessus de la signature du 
+Souscripteur.
+A défaut de cette mention, le Souscripteur peut, 
+nonobstant toute clause contraire, résilier le contrat, 
+sans indemnité, chaque année à la date anniversaire 
+de sa prise d’effet, moyennant un préavis de trente 
+(30) jours.
+A défaut de mention de durée ou lorsque celle-ci 
+n’est pas mentionnée en caractères très apparents, le 
+contrat est réputé souscrit pour une année.
+Lorsque les parties conviennent de la prorogation du 
+contrat par tacite reconduction, elle doit être spécifiée 
+dans les Conditions Particulières.
+La durée de chacune des prorogations successives du 
+contrat par tacite reconduction ne peut, en aucun cas, 
+être supérieure à une année.
+Lorsque le contrat est à tacite reconduction, les 
+Conditions 
+Particulières 
+doivent 
+comporter 
+la 
+stipulation prévue à l’article 7 de l’arrêté du ministre 
+des Finances et de la privatisation n° 2240-04 du 14 
+Kaada 1425 (27 décembre 2004) relatif au contrat 
+d’assurance.
+ARTICLE 10 : RESILIATION
+Le contrat est résilié ou peut l’être, dans les cas ci-
+après :
+Résiliation à la demande du Souscripteur :
+•	
+Dans les cas prévus à l’article 9 ci-dessus ;
+•	
+En cas de disparition de circonstances aggravant 
+les risques assurés mentionnés aux Conditions 
+Particulières, si l’Assureur refuse de diminuer le 
+montant de la prime en conséquence (article 25 
+de la loi n° 17-99 précitée) ;
+•	
+En cas de résiliation après sinistre, par l’Assureur, 
+d’un autre contrat (article 26 de la loi n° 17-99 
+précitée).
+Résiliation à la demande des créanciers de l’Assuré 
+propriétaire du véhicule assuré :
+•	
+En cas de déconfiture ou de liquidation judiciaire 
+de l’Assuré propriétaire du véhicule assuré (article 
+27 de la loi n° 17-99 précitée).
+Résiliation à la demande des héritiers de l’Assuré 
+propriétaire du véhicule assuré :
+•	
+En cas de décès de l’Assuré propriétaire du 
+véhicule assuré (article 28 de la loi n° 17-99 
+précitée)
+Résiliation à la demande de l’Assureur :
+•	
+Dans les cas prévus à l’article 9 ci-dessus ;
+•	
+En cas de non-paiement d’une prime ou d’une 
+fraction de prime (article 21 de la loi n° 17-99 
+précitée) ;
+•	
+En cas d’aggravation des risques (article 24 de la 
+loi n° 17-99 précitée) ;
+•	
+Avant sinistre, en cas d’omission ou d’inexactitude 
+dans la déclaration des risques soit à la 
+souscription, soit en cours de contrat (article 31 
+de la loi n° 17-99 précitée)
+•	
+En cas de déconfiture ou de liquidation judiciaire 
+de l’Assuré propriétaire du véhicule assuré (article 
+27 de la loi n° 17-99 précitée) ;
+•	
+En cas de décès de l’Assuré propriétaire du 
+
+
+=== Page 29 ===
+29
+véhicule assuré (article 28 de la loi n° 17-99 
+précitée).
+Résiliation de plein droit :
+•	
+En cas de retrait de l’agrément de l’Assureur 
+afférent à la catégorie d’assurance responsabilité 
+civile automobile, le contrat est résilié de plein droit 
+dès le 20ème jour à midi, à compter de la publication 
+de l’arrêté portant retrait d’agrément au Bulletin 
+officiel conformément à l’article 267 de la loi n° 17-
+99 précitée ;
+•	
+En cas de perte totale du véhicule assuré (article 
+46 de la loi n° 17-99 précitée) ; 
+•	
+En cas d’aliénation du véhicule assuré (article 29 
+de la loi n° 17-99 précitée) ;
+•	
+En cas de réquisition de la propriété du véhicule 
+assuré (article 33 de la loi n° 17- 99 précitée) ;
+•	
+En cas de liquidation judiciaire de l’Assureur 
+(article 27 de la loi n° 17-99 précitée).
+A l’exception des cas prévus aux articles 21 et 28 de la 
+loi n° 17-99 précitée, dans tous les cas de résiliation au 
+cours d’une période d’assurance, la portion de prime 
+ou cotisation afférente la période pendant laquelle le 
+risque n’a pas couru n’est pas acquise à l’Assureur. Elle 
+doit être restituée, si elle a été perçue d’avance, dans 
+les conditions prévues par les articles 24, 25, 26, 27, 
+29, 31, 33, 46 et 267 de la même loi.
+Dans tous les cas où le Souscripteur a la faculté de 
+demander la résiliation, il peut le faire à son choix, soit 
+par une déclaration faite contre récépissé au siège 
+social de l’Assureur, soit par acte extrajudiciaire, soit 
+par lettre recommandée, soit par tout autre moyen 
+indiqué dans les Conditions Particulières.
+Dans tous les cas où l’Assureur a la faculté de 
+demander la résiliation, il peut le faire, par lettre 
+recommandée, au dernier domicile du Souscripteur 
+connu de l’Assureur.
+ARTICLE 11 : SUSPENSION
+Le Contrat est suspendu ou peut l’être, dans les cas 
+ci-après :
+Suspension par accord des parties :
+•	
+En cas de réquisition de la propriété du véhicule 
+assuré (article 33 de la loi n° 17-99 précitée).
+Suspension à l’initiative de l’Assureur :
+•	
+En cas de non-paiement d’une prime ou d’une 
+fraction de prime (article 21 dela loi n°17-99 
+précitée).
+Suspension de plein droit :
+•	
+En cas de réquisition de l’usage du véhicule assuré 
+(article 34 de la loi n° 17-99 précitée).
+ARTICLE 12 : TRANSFERT DE PROPRIETE DU 
+VEHICULE ASSURE
+En cas d’aliénation du véhicule assuré, et seulement 
+en ce qui concerne le véhicule aliéné, le contrat 
+d’assurance est résilié de plein droit à la date 
+d’immatriculation du véhicule au nom du nouveau 
+propriétaire et s’il s’agit d’un véhicule non soumis à 
+immatriculation, la résiliation prend effet huit (8) jours 
+après le jour de la cession.
+Dans ce cas, l’Assureur doit rembourser à l’Assuré la 
+portion de prime ou cotisation afférente à la période 
+pendant laquelle le risque n’a pas couru.
+L’Assuré et l’Assureur peuvent convenir par avenant, 
+avant la vente du véhicule, du transfert de la garantie 
+sur un autre véhicule appartenant à l’Assuré.
+L’assurance demeure en vigueur pour les autres 
+véhicules garantis par le Contrat et restés en 
+possession de l’Assuré.
+CHAPITRE 4 - DECLARATIONS DES RISQUES 
+PAR L’ASSURE
+ARTICLE 13
+A la souscription du contrat, l’Assuré doit déclarer 
+exactement à l’Assureur toutes les circonstances 
+connues de lui qui sont de nature à faire apprécier par 
+l’Assureur les risques qu’il prend en charge.
+En cours de contrat, l’Assuré doit déclarer à l’Assureur 
+les circonstances spécifiées dans les Conditions 
+Particulières qui ont pour conséquence d’aggraver les 
+risques.
+ 
+Cette 
+déclaration 
+doit 
+être 
+faite 
+par 
+lettre 
+recommandée préalablement à l’aggravation des 
+risques si celle-ci résulte du fait de l’Assuré et dans un 
+délai de huit (8) jours à partir du moment où il a eu 
+connaissance de ladite aggravation si les risques sont 
+aggravés sans le fait de l’Assuré.
+Dans l’un et l’autre cas, l’Assureur a la faculté soit de 
+résilier le contrat, soit de proposer un nouveau taux 
+de prime. Si l’Assureur opte pour la résiliation, celle-ci 
+prend effet le 10ème jour de la notification de l’avis de 
+résiliation par lettre recommandée.
+Si l’Assuré ne donne pas de suite à la proposition de 
+l’Assureur ou s’il refuse expressément le nouveau taux 
+dans le délai de trente (30) jours à compter de la 
+notification de la proposition, l’Assureur peut résilier 
+le contrat au terme de ce délai, à condition d’avoir 
+informé l’Assuré de cette faculté, en la faisant figurer 
+en caractères apparents dans la lettre de proposition.
+Toutefois, l’Assureur ne peut plus se prévaloir de 
+l’aggravation des risques quand, après en avoir été 
+informé de quelque manière que ce soit, il a manifesté 
+son consentement au maintien de l’assurance, 
+spécialement en continuant à recevoir les primes ou 
+en payant après un sinistre une indemnité.
+ARTICLE 14
+Le présent contrat est nul en cas de réticence ou de 
+fausse déclaration intentionnelle de la part de l’Assuré 
+quand cette réticence ou cette fausse déclaration 
+change l’objet du risque ou en diminue l’opinion pour 
+l’Assureur, alors même que le risque omis ou dénaturé 
+par l’Assuré a été sans influence sur le sinistre.
+
+
+=== Page 30 ===
+30
+Les primes payées demeurent alors acquises à 
+l’Assureur, qui a le droit au paiement de toutes les 
+primes échues à titre de dommages et intérêts.
+L’omission ou la déclaration inexacte de la part 
+de l’Assuré dont la mauvaise foi n’est pas établie 
+n’entraîne pas la nullité de l’assurance.
+Si ladite omission ou déclaration inexacte est 
+constatée avant tout sinistre, l’Assureur a le droit, soit 
+de maintenir le contrat moyennant une augmentation 
+de prime acceptée par l’Assuré, soit de résilier le 
+contrat dix (10) jours après notification adressée à 
+l’Assuré par lettre recommandée.
+Si les risques garantis par le contrat sont ou viennent 
+à être couverts par d’autres contrats d’assurances, 
+l’Assuré doit en faire immédiatement la déclaration à 
+l’Assureur.
+CHAPITRE 5 - PRIMES
+ARTICLE 15
+Sauf clause contraire spécifiée aux Conditions 
+Particulières, la prime est payable au domicile de 
+l’Assureur ou du mandataire désigné par lui à cet effet.
+A défaut de paiement d’une prime ou d’une fraction 
+de prime dans les dix (10) jours de son échéance 
+et indépendamment du droit pour l’Assureur de 
+poursuivre l’exécution du contrat en justice, celui-
+ci peut suspendre la garantie vingt (20) jours 
+après la mise en demeure de l’Assuré. Au cas où la 
+prime annuelle a été fractionnée, la suspension de 
+la garantie, intervenue en cas de non-paiement 
+de l’une des fractions de prime, produit ses effets 
+jusqu’à l’expiration de la période restante de l’année 
+d’assurance. La prime ou fraction de prime est, dans 
+tous les cas, portable après la mise en demeure de 
+l’Assuré.
+L’Assureur a le droit de résilier le contrat dix (10) 
+jours après l’expiration du délai de vingt (20) jours 
+mentionné ci-dessus.
+Le contrat non résilié reprend pour l’avenir ses effets 
+à midi du lendemain du jour où ont été payés à 
+l’Assureur ou au mandataire désigné par lui la prime 
+arriérée, ou en cas de fractionnement de la prime 
+annuelle, les fractions de prime ayant fait l’objet de la 
+mise en demeure et celles venues à échéance pendant 
+la période de suspension ainsi que, éventuellement, 
+les frais de poursuite et de recouvrement.
+ 
+Lorsque la mise en demeure est adressée en dehors 
+du Maroc, le délai de vingt (20) jours mentionné au 
+deuxième alinéa est doublé.
+ARTICLE 16
+La mise en demeure prévue à l’article 15 ci-dessus 
+résulte de l’envoi d’une lettre recommandée adressée 
+à l’Assuré ou à la personne chargée du paiement de 
+la prime à leur dernier domicile connu de l’Assureur. 
+Si ce domicile est situé en dehors du Maroc, la lettre 
+recommandée est accompagnée d’une demande 
+d’avis de réception. Cette lettre, dont les frais 
+d’établissement et d’envoi incombent à l’Assureur, 
+doit indiquer expressément qu’elle est envoyée à titre 
+de mise en demeure, rappeler le montant et la date 
+d’échéance de la prime et reproduire l’article 21 de la 
+loi n° 17-99 précitée.
+ARTICLE 17
+La résiliation du contrat, intervenue en application du 
+3e alinéa de l’article 15 ci-dessus ne prend effet que 
+si la prime ou fraction de prime n’a pas été payée 
+avant l’expiration du délai de dix (10) jours prévu au 
+3e alinéa de l’article 15 ci-dessus.
+La résiliation, qui doit être notifiée à l’Assuré par lettre 
+recommandée, prend effet à l’expiration du 30ème jour 
+de la date d’envoi de la lettre de mise en demeure 
+prévue par l’article 15 ci-dessus. Toutefois, lorsque la 
+lettre de mise en demeure est adressée en dehors du 
+Maroc, la résiliation ne prend effet qu’à l’expiration du 
+50ème jour de la date d’envoi de ladite lettre.
+ARTICLE 18 : REVISION DE LA PRIME
+Lorsque le contrat est à tacite reconduction, l’Assureur 
+doit aviser le Souscripteur par lettre recommandée 
+soixante (60) jours au moins avant l’échéance en cas 
+de modification de prime.
+Le Souscripteur peut alors résilier le contrat par lettre 
+recommandée adressée à l’Assureur trente (30) jours 
+au moins avant cette échéance.
+Si le Souscripteur n’utilise pas la faculté de résiliation 
+ci-dessus, il est réputé avoir accepté le nouveau 
+montant de prime proposé par l’Assureur.
+ARTICLE 19 : REDUCTION OU MAJORATION DE 
+LA PRIME
+Pour la détermination de la prime, l’Assureur doit tenir 
+compte des antécédents de sinistralité de l’Assuré en 
+multipliant la prime de base, calculée indépendamment 
+de ces antécédents, par un coefficient de réduction-
+majoration fixé comme suit :
+•	
+0,90 
+si 
+l’Assuré 
+n’a 
+causé 
+aucun 
+sinistre 
+engageant ou susceptible d’engager totalement 
+ou partiellement sa responsabilité durant une 
+période d’assurance de vingt-quatre (24) mois 
+consécutifs précédant la souscription ou le 
+renouvellement du Contrat. Pour la détermination 
+de la période d’assurance de vingt-quatre (24) 
+mois consécutifs susvisée, il est toléré une seule 
+interruption d’assurance ne dépassant pas trente 
+(30) jours ;
+•	
+Si l’Assuré a causé un ou plusieurs sinistres 
+engageant ou susceptible d’engager totalement 
+ou partiellement sa responsabilité durant la 
+période d’assurance de douze (12) mois précédant 
+la souscription ou le renouvellement du Contrat, 
+ce coefficient, qui ne peut excéder 2,50, s’obtient 
+en ajoutant à un (1) pour chacun de ces sinistres ;
+	-
+0,15 
+pour 
+l’usage 
+Transport 
+Public 
+de 
+Voyageurs (TPV) ou 0,20 pour les autres 
+usages si le sinistre est matériel ;
+
+
+=== Page 31 ===
+31
+	-
+0,20 pour l’usage TPV ou 0,30 pour les autres 
+usages si le sinistre est corporel, ou matériel 
+et corporel à la fois ;
+•	
+Dans les autres cas le coefficient de réduction - 
+majoration est égal à un (1).
+Lorsque l’Assuré est garanti pour plusieurs véhicules, 
+le coefficient de réduction­ majoration est déterminé 
+et appliqué séparément véhicule par véhicule.
+Dans le cas où l’Assuré apporte la preuve que sa 
+responsabilité est entièrement et définitivement 
+dégagée, l’Assureur est tenu de restituer la portion 
+de prime correspondant à la différence entre la prime 
+perçue et celle qu’aurait payé l’Assuré en étant non 
+responsable du sinistre considéré.
+CHAPITRE 6 - DECLARATION ET REGLEMENT 
+DES SINISTRES
+ARTICLE 20 : OBLIGATIONS DE L’ASSURE EN 
+CAS DE SINISTRE
+Sous peine de déchéance, l’Assuré doit, sauf cas 
+fortuit ou de force majeure, déclarer à l’Assureur dès 
+qu’il en a eu connaissance et au plus tard dans les cinq 
+(5) jours de sa survenance, tout sinistre de nature à 
+entraîner la garantie de ce dernier.
+La déclaration du sinistre doit être faite par écrit ou 
+verbalement et contre récépissé :
+•	
+Soit au siège social de l’Assureur ;
+•	
+Soit à l’agence d’assurances dont dépend le 
+contrat ;
+•	
+Soit au bureau direct de l’Assureur dont dépend 
+le contrat ;
+•	
+Soit 
+auprès 
+de 
+l’intermédiaire 
+d’assurances 
+mandaté à cet effet.
+L’Assuré doit en outre :
+•	
+Indiquer à l’Assureur les numéros de la police et de 
+l’attestation d’assurance, la date, jour et heure, la 
+nature et les circonstances du sinistre, ses causes 
+et conséquences connues ou présumées, le nom, 
+l’adresse et le numéro du permis de conduire du 
+conducteur au moment du sinistre, et si possible, 
+les noms et adresses des victimes et des témoins ;
+•	
+Transmettre à l’Assureur, dans le plus bref délai, 
+tous avis, lettres, convocations, assignations, 
+actes extrajudiciaires et pièces de procédure qui 
+seraient adressés, remis ou signifiés à lui-même ou 
+à ses préposés concernant un sinistre susceptible 
+d’engager une responsabilité couverte par la 
+garantie.
+ARTICLE 21 : PROCEDURE, TRANSACTION
+En cas d’action judiciaire mettant en cause la 
+responsabilité civile de l’Assuré, l’Assureur a la faculté :
+•	
+D’assumer la défense de l’Assuré devant toutes 
+juridictions autres que pénales, de diriger le 
+procès et d’exercer les voies de recours ;
+•	
+De diriger la défense de l’Assuré, à moins que 
+ce dernier ne s’y oppose, devant les juridictions 
+pénales ou de s’y associer et d’exercer les voies 
+de recours limitées aux intérêts civils.
+Aucune reconnaissance de responsabilité, aucune 
+transaction, intervenues en dehors de l’Assureur, ne 
+sont opposables à ce dernier. L’aveu de la matérialité 
+d’un fait ne peut être assimilé à la reconnaissance 
+d’une responsabilité.
+N’est pas considéré comme commencement de 
+transaction ni acceptation de responsabilité, à 
+condition qu’il ne donne lieu à aucun engagement, 
+tout acte d’humanité envers la victime, tels que soins 
+médicaux et pharmaceutiques donnés à un blessé 
+au moment de l’accident ou son transport soit à son 
+domicile, soit à l’hôpital.
+ARTICLE 22 : SUBROGATION
+L’Assureur qui a payé l’indemnité d’assurance est 
+subrogé jusqu’à concurrence de cette indemnité, dans 
+les droits et actions de l’Assuré contre les Tiers qui, 
+par leur fait, ont causé le dommage ayant donné lieu 
+à la garantie de l’Assureur.
+L’Assureur peut être déchargé, en tout ou en partie 
+de sa garantie envers l’Assuré, quand la subrogation 
+ne peut plus, par le fait de l’Assuré, s’opérer en faveur 
+de l’Assureur.
+Par 
+dérogation 
+aux 
+dispositions 
+précédentes, 
+l’Assureur n’a aucun recours contre les conjoints, 
+ascendants, descendants, alliés en ligne directe, 
+préposés, employés, ouvriers ou domestiques, et 
+généralement toute personne vivant habituellement 
+au foyer de l’Assuré, sauf le cas de malveillance 
+commise par une de ces personnes.
+CHAPITRE 7 - PRESCRIPTION
+ARTICLE 23
+Toutes actions dérivant du présent contrat sont 
+prescrites par deux ans à compter de l’évènement qui 
+y donne naissance dans les conditions fixées par les 
+articles 36 et 38 de la loi n° 17-99 précitée.
+
+
+=== Page 32 ===
+32
+TETE
+Perte totale des deux yeux
+100%
+Aliénation mentale incurable et totale
+100%
+Perte d'un œil
+30%
+Perte de la vision d'un œil
+25%
+Surdité incurable et totale
+40%
+Surdité incurable d'une oreille.
+15%
+Perte de substance osseuse du crâne dans toute son épaisseur :
+- Surface d'au moins 6 centimètres carrés
+40%
+- Surface de 3 à 6 centimètres carrés
+20%
+- Surface inférieure à 3 centimètres carrés
+10%
+Ablation totale de la mâchoire inférieure
+60%
+Ablation partielle de la mâchoire inférieure, branche montante en totalité ou 
+moitié du corps du maxillaire
+35%
+MEMBRES
+Infirmités portant sur deux membres
+Perte des deux bras ou des deux mains
+100%
+Perte des deux jambes ou des deux pieds
+100%
+Perte d’un bras ou d’une main et d’une jambe ou d’un pied
+100%
+Membres supérieurs
+Droite
+Gauche
+Perte d'un bras ou d'une main
+60%
+50%
+Fracture non consolidée du bras (Pseudarthrose constituée)
+30%
+25%
+Perte du mouvement de l'épaule (Ankylose totale)
+35%
+25%
+Ankylose
+- En position favorable 15 degrés autour de l'angle droit du coude
+25%
+20%
+- En position défavorable
+40%
+35%
+Paralysie totale du membre supérieur (Lésions incurables des nerfs)
+60%
+50%
+Paralysie complète du nerf circonflexe
+20%
+15%
+Paralysie complète du nerf médian
+- Au bras
+45%
+35%
+- A la main
+20%
+15%
+Paralysie complète du nerf radial
+- A la main
+20%
+15%
+- A l'avant-bras
+30%
+25%
+- A la gouttière de torsion
+40%
+35%
+Paralysie complète du nerf cubital
+30%
+25%
+Ankylose du poignet en position favorable (dans la rectitude et en pronation)
+20%
+15%
+Ankylose du poignet en position défavorable (flexion ou extension forcée ou 
+en supination)
+30%
+25%
+Perte totale du pouce
+20%
+15%
+Perte partielle du pouce (phalange unguéale)
+8%
+5%
+Ankylose totale du pouce
+15%
+12%
+Amputation totale de l'index
+15%
+10%
+Amputation partielle de l'index
+8%
+5%
+Amputation simultanée du pouce et de l'index
+35%
+25%
+ANNEXE II
+BAREME DES INCAPACITES
+
+
+=== Page 33 ===
+33
+L’ankylose des doigts (autres que le pouce) et des orteils (autres que le gros orteil) ne donne droit qu’à 50% des 
+indemnités prévues pour l’amputation du doigt ou de l’orteil concerné. Les infirmités non énumérées ci-dessus 
+seront indemnisées en proportion de leur gravité comparée à celle des cas énumérés.
+S’il est médicalement reconnu que l’Assuré est gaucher, ce dernier bénéficiera pour le membre supérieur gauche, 
+des indemnités prévues ci-dessus pour le membre supérieur droit et inversement.
+Amputation du pouce et d'un doigt autre que l'index
+25%
+20%
+Amputation de deux doigts autres que le pouce et l'index
+15%
+10%
+Amputation de trois doigts autres que le pouce et l'index
+20%
+15%
+Amputation de quatre doigts, y compris le pouce
+45%
+40%
+Amputation de quatre doigts, le pouce étant conservé
+40%
+35%
+Amputation d'un doigt autre que le pouce et l'index
+8%
+5%
+Membres inférieurs
+Amputation de la cuisse (moitié supérieure)
+60%
+Amputation de la cuisse (moitié inférieure) et de la jambe
+50%
+Perte totale du pied
+- Désarticulation tibio-tarsienne
+45%
+- Désarticulation sous-ostragalienne
+40%
+Perte partielle du pied
+- Désarticulation médio-tarsienne
+35%
+- Désarticulation tarsio-métatarsienne
+35%
+Ankylose de la hanche
+- En position défavorable
+45%
+- En rectitude
+35%
+Ankylose du genou
+- En position défavorable
+25%
+- En rectitude
+15%
+Perte de substance osseuse étendue de la cuisse ou des deux os de la jambe, 
+état incurable
+50%
+Perte de substance osseuse étendue de la rotule avec gros écartement des 
+fragments et gêne considérable des mouvements d’extension de la jambe sur 
+la cuisse
+40%
+Perte de substance osseuse de la rotule avec conservation des mouvements
+20%
+Raccourcissement d’au moins 5 centimètres d’un membre inférieur
+30%
+Raccourcissement d'un membre inférieur de 3 à 5 centimètres
+15%
+Raccourcissement de 1à 3 centimètres
+5%
+Paralysie totale d'un membre inférieur (lésion incurable des nerfs)
+60%
+Paralysie complète du nerf sciatique poplité externe
+30%
+Paralysie complète du nerf sciatique poplité Interne
+20%
+Paralysie complète des deux nerfs (sciatique poplité externe et interne)
+40%
+Amputation totale de tous les orteils
+20%
+Amputation du gros orteil
+8%
+Ankylose du gros orteil
+5%
+Amputation de deux orteils
+4%
+Amputation d'un orteil
+2%
+
+
+=== Page 34 ===
+34
+ANNEXE III
+BAREME DE CALCUL DE LA VETUSTE ET DE LA VALEUR VENALE
+1. VALEUR VENALE : METHODE DE CALCUL
+a. MATRICE DE CALCUL DE LA VALEUR VENALE
+Catégorie
+de Véhicule
+Puissance
+Fiscale
+1ère Année
+2ème Année
+3ème Année
+4ème Année
+5ème Année
+Diesel
+Essence
+Diesel
+Essence
+Diesel
+Essence
+Diesel
+Essence
+Diesel
+Essence
+VH Personne Physique
+ou
+VH Société Non Utilitaire
+PF < 7 CV
+20%
+20%
+15%
+15%
+10%
+10%
+10%
+10%
+10%
+10%
+VH Location
+ou
+VH Société Utilitaire
+25%
+25%
+20%
+20%
+15%
+15%
+10%
+10%
+10%
+10%
+VH Personne Physique
+ou
+VH Société Non Utilitaire 8 CV < PF 
+< 12 CV
+25%
+25%
+20%
+20%
+15%
+15%
+10%
+10%
+10%
+10%
+VH Location
+ou
+VH Société Utilitaire
+30%
+30%
+25%
+25%
+20%
+20%
+15%
+10%
+10%
+10%
+VH Personne Physique
+ou
+VH Société Non Utilitaire
+PF > 12 CV
+27%
+30%
+20%
+25%
+15%
+20%
+10%
+10%
+10%
+10%
+VH Location
+ou
+VH Société Utilitaire
+32%
+32%
+25%
+25%
+20%
+20%
+15%
+15%
+10%
+10%
+Bus et Camions
+35%
+40%
+30%
+35%
+25%
+30%
+20%
+25%
+15%
+20%
+•	
+Au bout de la 5ème année, les coefficients annuels restent fixes jusqu’à la 10ème année.
+•	
+A partir de la 11ème année, le coefficient passe à 5%.
+•	
+Abattement non applicable pour les engins de chantier et agricoles.
+ 
+b. COEFFICIENTS CORRECTIFS
+β : Coefficient d’abattement qui dépend de l’état du véhicule qui peut être négatif ou positif. A justifier par un 
+historique disponible et dûment présenté.
+•	
++15% si le véhicule justifie d’un entretien régulier entretenu chez le concessionnaire depuis sa mise en circulation 
+jusqu’au jour du sinistre.
+•	
++10% si le véhicule est entretenu les 5 premières années chez le concessionnaire puis chez un réseau extérieur 
+(type SPEEDY, MIDAS, POINT-S etc.) jusqu’au sinistre.
+•	
++5% si le véhicule est entretenu principalement chez le réseau extérieur.
+λ : Coefficient qui permet d’ajuster la  Valeur Vénale en fonction du kilométrage moyen annuel  parcouru, et ce, selon 
+le référentiel ci-après :
+REFERENTIEL FIXE POUR LES KILOMETRAGES ANNUELS MOYENS EN FONCTION DE LA PUISSANCE FISCALE 
+ET DU TYPE D’USAGE DES VEHICULES
+Puissance Fiscale
+Carburant
+Kilométrage Moyen Annuel
+Coefficient λ
+Petite Cylindrée : PF ≤ 8 CV
+Diesel
+Essence
+30 000
+20 000
+0,5% / 1000 Km en plus ou 
+en moins de la moyenne 
+du référentiel. Par exemple : 
+Pour 10 000 Km de plus, 
+la Valeur
+Vénale est minorée de 5%.
+Moyenne Cylindrée :
+8 CV > PF ≤ 12 CV
+Diesel
+Essence
+40 000
+30 000
+Grande Cylindrée :
+PF > 12 CV
+Diesel
+Essence
+60 000
+50 000
+Autocars
+ 
+140 000
+Bus Urbains
+Autocars de Tourisme Transport de 
+Personnel
+ 
+60 000
+Camions
+Diesel
+Essence 
+70 000
+60 000
+
+
+=== Page 35 ===
+35
+c. REMARQUES IMPORTANTES
+•	
+La Valeur à Neuf est le prix d’achat du véhicule justifié par la facture d’achat déduction faite des frais 
+d’immatriculation.
+•	
+La Taxe de luxe est incluse dans la base de calcul.
+•	
+La Taxe sur la Valeur Ajoutée est considérée ou non selon réglementation en vigueur.
+•	
+Si le véhicule est sinistré lors de sa première année, la Valeur Vénale est calculée au prorata des mois depuis la 
+mise en circulation avec un minimum d’abattement de 5%.
+ 
+2. VETUSTE : NOTIONS & METHODOLOGIE DE TRAITEMENT
+a. VETUSTE SUR PIECES DE CARROSSERIE
+La liste des pièces d’usure inclut pneus, disques et plaquettes de freins, batteries, roulements et moyeux, courroies, 
+liquides, lampes.
+d. EN CAS DE PIECES NEUVES ADAPTABLES
+Vétusté des pièces de rechanges adaptables (Pièces neuves acquises hors concessionnaires) = 50% des taux 
+prévus dans les tableaux précédents. 
+ 
+ABATTEMENT VETUSTE /ANNEE POUR LES PIECES NEUVES
+Année 1
+Année 2
+Année 3
+Année 4
+Année 5
+Année 6
+Plafond
+VH Personne Physique
+ou
+VH Société Non Utilitaire
+0%
+5%
+10%
+15%
+20%
+25%
+50%
+VH Location
+ou
+VH Société Utilitaire
+ou
+Bus, Autocar, Camion
+10%
+20%
+30%
+40%
+50%
+50%
+50%
+ 
+ABATTEMENT VETUSTE /ANNEE POUR LES PIECES NEUVES
+Année 1
+Année 2
+Année 3
+Année 4
+Année 5
+Année 6
+Plafond
+VH Personne Physique
+ou
+VH Société Non Utilitaire
+5%
+10%
+15%
+20%
+25%
+30%
+60%
+VH Location
+ou
+VH Société Utilitaire
+ou
+Bus, Autocar, Camion
+10%
+20%
+30%
+40%
+50%
+50%
+60%
+ 
+ABATTEMENT VETUSTE /ANNEE POUR LES PIECES NEUVES
+Année 1
+Année 2
+Année 3
+Année 4
+Plafond
+VH Personne Physique
+ou
+VH Société Non Utilitaire
+15%
+30%
+45%
+60%
+60%
+VH Location
+ou
+VH Société Utilitaire
+ou
+Bus, Autocar, Camion
+25%
+50%
+70%
+70%
+70%
+b. VETUSTE SUR PIECES DE MECANIQUE ET PIECES ELECTRIQUES
+c . VETUSTE SUR PIECES D’USURE
+
+
+=== Page 36 ===
+
+
+=== Page 37 ===
+
+
+=== Page 38 ===
+
+
+=== Page 39 ===
+
+
+=== Page 40 ===
+AtlantaSanad Entreprise régie par la loi N°17-99 
+portant code des Assurances.
+181, Bd. d’Anfa - Casablanca
+Tél. : 05 22 95 78 00 / 05 22 95 76 76
+Fax : 05 22 36 04 36 / 05 22 36 98 12
+www.atlantasanad.ma 

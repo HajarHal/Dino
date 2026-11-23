@@ -1,0 +1,179 @@
+# Conditions Générales AXA Assurance Maroc, assurance automobile : pdf/axa_maroc.pdf.
+# Chaque texte est un EXTRAIT MOT POUR MOT du PDF (« … » relie deux morceaux) ; tests/test_coverage.py le vérifie.
+
+source:
+  pdf: axa_maroc.pdf
+  document: Conditions Générales Assurance Automobile
+
+guarantees:
+  RC:
+    title: Responsabilité Civile Automobile
+    ref: Partie I (Conditions Générales-Type)
+    plain: "GARANTIE « RESPONSABILITE CIVILE AUTOMOBILE»"
+
+  DEFENSE_RECOURS:
+    title: Défense et Recours
+    ref: Art. 4 et 47
+    plain: "Nous nous engageons à défendre l’assuré à l’amiable vis-à-vis d’un tiers, ou devant les tribunaux à la suite d’un accident de la circulation impliquant le véhicule assuré"
+    covers:
+      - {code: cov.DEFENSE_PENALE, text: "Défendre les personnes assurées définies à l’article 4.1 paragraphe a) en cas de poursuites fondées sur la circulation ou l’utilisation du véhicule assuré"}
+      - {code: cov.RECOURS_TIERS, text: "Obtenir la réparation pécuniaire des dommages subis par les personnes visées à l’article 4.1 paragraphes a) et b)"}
+    conditions:
+      - "En cas d’accident sanctionné par un procès-verbal, l’action judiciaire n’est initiée qu’après réception du récépissé du procès-verbal remis par les services de police ou de gendarmerie"
+
+  GLASS:
+    title: Bris de Glaces
+    ref: Art. 6
+    plain: "Les bris causés ou non par un accident subis par"
+    covers:
+      - "Le pare-brise"
+      - "La lunette arrière"
+      - "Les glaces latérales"
+      - "Les glaces du toit ouvrant"
+      - "Les dommages sont garantis que le véhicule soit en mouvement ou à l’arrêt"
+    not_covered:
+      - "le bris de glaces des feux avant et arrière, les glaces de protection des phares, les blocs optiques intégrés à la carrosserie et les miroirs de rétroviseurs (assurés au titre de la garantie Accessoires extérieurs lorsqu’elle est acquise)"
+      - "Les glaces fixes ou mobiles du toit panoramique (assurés au titre de la garantie Toit panoramique lorsqu’elle est acquise)"
+
+  PANORAMIC_ROOF:
+    title: Toit panoramique
+    ref: Art. 7
+    plain: "Les bris causés par un événement fortuit, subis par les glaces du toit panoramique et ses mécanismes de fonctionnement"
+
+  EXTERIOR_ACCESSORIES:
+    title: Accessoires extérieurs
+    ref: Art. 18
+    plain: "Nous garantissons les dommages accidentels suivants"
+    covers:
+      - "Le bris de glaces des feux avant et arrière du véhicule assuré, les glaces de protection des phares, les blocs optiques intégrés à la carrosserie et les miroirs de rétroviseurs"
+      - {code: cov.ROUE_SECOURS, text: "des roues et des roues de secours dans la limite d’un plafond de garantie de trois mille (3 000) dirhams par sinistre et par année d’assurance, ainsi que le vol isolé des rétroviseurs latéraux"}
+    cases: [glass, theft]
+    parts: [headlights, mirrors, wheels]
+    part_notes:
+      wheels: "Le vol tel que défini à l’article 9.1 des roues et des roues de secours dans la limite d’un plafond de garantie de trois mille (3 000) dirhams par sinistre"
+
+  FIRE:
+    title: Incendie
+    ref: Art. 8
+    plain: "Nous garantissons les dommages subis par le véhicule assuré lorsque ces dommages résultent de façon directe"
+    covers:
+      - "D’une conflagration ou embrasement"
+      - "D’une explosion"
+      - "De la chute de la foudre"
+    not_covered:
+      - "Les dommages résultant des brûlures occasionnées par les fumeurs"
+      - "L’explosion d’un airbag"
+      - "Les dommages causés par l’explosion des pneumatiques et les dommages au véhicule en résultant"
+    conditions:
+      - "La mise en jeu de cette garantie est subordonnée à la remise par l’assuré d’un procès-verbal d’intervention des sapeurs-pompiers, de la police ou de la gendarmerie"
+    part_notes:
+      wheels: "Les dommages causés par une explosion ou un incendie aux pneumatiques sauf si les dommages causés aux pneumatiques sont la conséquence d’un incendie affectant d’autres parties du véhicule"
+
+  THEFT:
+    title: Vol
+    ref: Art. 9 et 52
+    plain: "Nous garantissons le véhicule assuré contre les dommages résultant de sa disparition ou de sa détérioration à la suite d’un vol ou d’une tentative de vol"
+    not_covered:
+      - "Les dommages subis lorsqu’au moment du sinistre, le moteur est en marche avec ou sans les clefs laissées dans le véhicule assuré"
+      - "Le vol du véhicule assuré par la personne à qui il a été prêté ou loué"
+      - "l’escroquerie ou l’abus de confiance tels que définis aux articles 540 et 547 du code pénal"
+      - "les vols des éléments situés à l’extérieur de l’habitacle et rentrant dans la définition du véhicule assuré tels que les roues (pneumatiques et jantes), roues de secours, les rétroviseurs extérieurs ou l’antenne radio"
+    conditions:
+      - "Le vol et la tentative de vol ne sont toutefois garantis que lorsque sont établis des indices sérieux confirmant l’intention du voleur de dérober le véhicule assuré"
+
+  COLLISION:
+    title: Dommages collision
+    ref: Art. 13
+    plain: "Nous garantissons les dommages accidentels subis par le véhicule assuré directement consécutifs à une collision avec"
+    covers:
+      - "Un véhicule terrestre à moteur appartenant à un tiers identifié"
+      - "Un piéton ou un cycliste identifié"
+    not_covered:
+      - "les dommages causés aux roues, sauf si ces dommages sont la conséquence d’un accident affectant d’autres parties du véhicule"
+      - {code: ex.RAYURE_SANS_BRIS, text: "les rayures isolées sans déformation"}
+    conditions:
+      - {codes: [cond.CONSTAT_SIGNE, cond.PV_POLICE], text: "La preuve matérielle de la collision doit être établie au moyen d’un constat à l’amiable ou d’un procès-verbal de police ou de gendarmerie"}
+      - "n’est pas considéré comme véhicule identifié celui qui est en état de fuite"
+    parts_note: "Un véhicule terrestre à moteur appartenant à un tiers identifié"
+
+  ALL_ACCIDENTS:
+    title: Dommages tous accidents
+    ref: Art. 14
+    plain: "Nous garantissons les dommages accidentels subis par le véhicule assuré en cas de"
+    covers:
+      - "Collision avec un autre véhicule terrestre à moteur"
+      - "Choc entre le véhicule assuré et un corps fixe ou mobile"
+      - "Renversement sans collision préalable"
+      - "Dommages occasionnés par la chute d’objets ou de substances sur le véhicule en stationnement"
+    not_covered:
+      - {code: ex.RAYURE_SANS_BRIS, text: "Les rayures isolées sans déformation"}
+      - "Les dommages causés aux pneumatiques, sauf si ces dommages sont la conséquence d’un accident affectant d’autres parties du véhicule"
+      - "Les dommages consécutifs à la mise en fourrière du véhicule depuis son enlèvement jusqu’à sa restitution"
+      - "Les dommages causés aux glaces non concomitants à d’autres dommages subis par le véhicule assuré"
+    part_notes:
+      wheels: "Les dommages causés aux pneumatiques, sauf si ces dommages sont la conséquence d’un accident affectant d’autres parties du véhicule"
+
+  DEPRECIATION_BUYBACK:
+    title: Rachat de vétusté
+    ref: Art. 17
+    plain: "nous indemnisons le montant de la vétusté calculée sur la base du barème figurant à l’article 49 et devant rester à la charge de l’assuré au titre de ces garanties"
+    covers:
+      - {code: cov.VETUSTE_REMBOURSEE, text: "Lorsqu’il s’agit d’un sinistre où la responsabilité de l’assuré est entièrement dégagée ou partiellement engagée, nous indemnisons le montant de la vétusté appliquée par la compagnie dans l’indemnisation de l’assuré"}
+
+  PERSONAL_INJURY:
+    title: Protection Familiale, Conducteur et Passagers
+    ref: Art. 24 et 48
+    plain: "Cette garantie a pour objet de protéger les personnes assurées définies ci-après, lorsqu’elles sont victimes d’un accident corporel impliquant le véhicule assuré"
+    covers:
+      - "Le propriétaire, le souscripteur et les tiers transportés dans le véhicule assuré à titre gratuit"
+
+  DRIVER_PROTECTION:
+    title: Individuelle accidents conducteur habituel
+    ref: Art. 25 et 48
+    plain: "Nous garantissons l’assuré défini ci-dessus lorsqu’il est victime d’un accident corporel impliquant le véhicule assuré"
+    conditions:
+      - "On entend par « assuré » le conducteur habituel ainsi désigné aux conditions particulières"
+      - "Cette garantie est accordée au conducteur habituel dont l’âge est inférieur à 65 ans au moment de la souscription ou du renouvellement du contrat"
+
+deadlines:
+  - {code: DECLARATION_SINISTRE, title: Déclarer un sinistre, value: cinq (5) jours, ref: Art. 44, text: "déclarer à l’Assureur/Assisteur dès qu’il a eu connaissance, et au plus tard dans les cinq (5) jours de sa survenance, tout sinistre de nature à entraîner notre garantie"}
+  - {code: DECLARATION_VOL, title: Déclarer un vol, value: vingt-quatre (24) heures, ref: Art. 44, text: "en ce qui concerne le vol ou la tentative de vol du véhicule assuré, ledit délai de déclaration est réduit à vingt-quatre (24) heures"}
+  - {code: PRESCRIPTION, title: Agir en justice, value: deux (2) ans, ref: Art. 38, text: "Toutes actions dérivant du présent contrat sont prescrites par deux (2) ans à compter de la date de survenance de l’événement qui y donne naissance"}
+
+claim_steps:
+  ref: Art. 44
+  items:
+    - {code: step.DECLARER, text: "La déclaration de sinistre doit être faite par écrit ou par déclaration verbale contre récépissé"}
+
+fault:
+  at_fault:
+    - {code: PREMIUM_UP, ref: "Partie I", text: "ce coefficient, qui ne peut excéder 2,5, s’obtient en ajoutant à un (1) pour chacun de ces sinistres"}
+    - {code: PREMIUM_UP, ref: "Partie I", text: "0,20 pour les autres usages si le sinistre est matériel"}
+    - {code: PREMIUM_UP, ref: "Partie I", text: "0,30 pour les autres usages si le sinistre est corporel"}
+  not_at_fault:
+    - {code: RECOURS, ref: Art. 4, text: "ainsi que des dommages non indemnisés par une autre assurance"}
+    - {code: VETUSTE_PAID, ref: Art. 17, text: "Lorsqu’il s’agit d’un sinistre où la responsabilité de l’assuré est entièrement dégagée ou partiellement engagée, nous indemnisons le montant de la vétusté appliquée par la compagnie dans l’indemnisation de l’assuré"}
+  needs:
+    - {codes: [cond.CONSTAT_SIGNE, cond.PV_POLICE], ref: Art. 13, text: "La preuve matérielle de la collision doit être établie au moyen d’un constat à l’amiable ou d’un procès-verbal de police ou de gendarmerie"}
+
+compensation:
+  - {title: Paiement, ref: Art. 52, text: "Ce règlement doit avoir lieu à compter de la date à laquelle la décision de justice est devenue définitive ou dans les trente (30) jours suivant la date de l’accord amiable"}
+  - {title: Vol, ref: Art. 52, text: "En ce qui concerne le risque Vol, le règlement ne peut être exigé par l’assuré qu’après un délai de trente (30) jours à dater de la déclaration du sinistre"}
+
+common_exclusions:
+  ref: Art. 30
+  items:
+    - {code: ex.ALCOOL, text: "Les dommages subis par le véhicule assuré lorsque, au moment du sinistre, le conducteur est en état d’ivresse ou sous l’emprise d’une drogue ou d’un stupéfiant non prescrit par une autorité médicale compétente"}
+    - {code: ex.PERMIS_INVALIDE, text: "Les dommages survenus lorsqu’au moment du sinistre le conducteur du véhicule assuré n’a pas l’âge requis, ou n’est pas titulaire du permis de conduire en état de validité"}
+
+# Bonus-malus (Partie I, Conditions Générales-Type RC) : chaque valeur doit figurer dans un des extraits (test).
+bonus_malus:
+  material_fault_increase: 0.20
+  bodily_fault_increase: 0.30
+  max_coefficient: 2.5
+  needs_review: true
+  ref: "Partie I"
+  texts:
+    - "ce coefficient, qui ne peut excéder 2,5, s’obtient en ajoutant à un (1) pour chacun de ces sinistres"
+    - "0,20 pour les autres usages si le sinistre est matériel"
+    - "0,30 pour les autres usages si le sinistre est corporel"

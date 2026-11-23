@@ -1,0 +1,234 @@
+# Conditions Générales Sanlam « Assur'Auto Plus » (version 03/2026) : pdf/sanlam_maroc.pdf.
+# Chaque texte est un EXTRAIT MOT POUR MOT du PDF (« … » relie deux morceaux) ; tests/test_coverage.py le vérifie.
+# ref : page du document.
+
+source:
+  pdf: sanlam_maroc.pdf
+  document: Conditions Générales Assur'Auto Plus
+  version: 03/2026
+  product: Assur'Auto Plus
+
+guarantees:
+  RC:
+    title: Responsabilité civile automobile
+    ref: p. 14
+    plain: "L’Assureur couvre la responsabilité civile susceptible d’être engagée, par l’assuré, en raison des dommages corporels ou matériels causés à des tiers par le véhicule assuré"
+    conditions:
+      - {code: note.REGIE_PAR_ARRETE, text: "est régie par les conditions générales- types fixées par l’arrêté du ministre des finances et de la privatisation n° 1053-06"}
+      - {code: note.REGIE_PAR_ARRETE, text: "Lesdites conditions générales-types font partie intégrante du présent contrat"}
+
+  DEFENSE_RECOURS:
+    title: Défense et Recours
+    ref: p. 14
+    plain: "l’Assureur s’engage à procéder à ses frais, à toutes interventions amiables et à intenter à ses frais, toutes actions judiciaires"
+    covers:
+      - {code: cov.DEFENSE_PENALE, text: "Pourvoir à la défense des intérêts de l’assuré en cas de poursuites fondées sur la circulation ou l’utilisation du véhicule assuré"}
+      - {code: cov.RECOURS_TIERS, text: "Obtenir la réparation pécuniaire des dommages subis par l’assuré ainsi que des dommages non indemnisés par une autre assurance"}
+    not_covered:
+      - "L’engagement de caution et le dépôt de cautionnement"
+      - {code: ex.AMENDES, text: "Le paiement des amendes et leurs décimes"}
+    conditions:
+      - {code: cond.TIERS_IDENTIFIE, text: "dans la mesure où ces divers dommages résultent d’un accident causé au véhicule, engageant la responsabilité d’un tiers identifié"}
+      - "L’Assureur s’interdit de transiger avec les tiers responsables sauf autorisation de l’assuré"
+
+  PERSONAL_INJURY:
+    title: Protection du Conducteur et des Passagers
+    ref: p. 14 et 15
+    plain: "L’Assureur garantit les dommages corporels en cas d’accident dont pourraient être victimes, l’assuré"
+    covers:
+      - "Le conducteur habituel mentionné aux Conditions Particulières"
+      - "Les occupants du véhicule à raison de leur transport à titre gratuit à l’intérieur du véhicule assuré"
+    conditions:
+      - "Il est à préciser que le capital assuré en invalidité n’est dû que lorsque le taux d’IPP est égal à 100%"
+      - "Lorsque le taux d’IPP est inférieur à 100%, l’indemnité est égale au capital assuré multiplié par le taux d’IPP définitif"
+
+  DRIVER_PROTECTION:
+    title: Protection du Conducteur
+    ref: p. 15
+    plain: "L’Assureur garantit les dommages corporels en cas d’accident dont pourraient être victime, le conducteur habituel mentionné aux Conditions Particulières"
+    conditions:
+      - "les montants garantis pour chacun des risques « Décès » et « Invalidité Totale et Définitive » et en « Remboursement des frais médicaux, pharmaceutiques et hospitalisation », sont fixés aux Conditions Particulières"
+      - "La souscription de la garantie Protection du Conducteur et des Passagers n’est pas cumulable avec la garantie Protection du Conducteur"
+
+  ALL_RISKS:
+    title: Dommages Tous Risques
+    ref: p. 16
+    plain: "L’Assureur garantit dans les limites indiquées aux Conditions Particulières, les dommages accidentels subis par le véhicule assuré"
+    covers:
+      - "D’une collision avec un autre véhicule, d’un choc avec un corps fixe, d’un choc avec un corps mobile, du renversement du véhicule avec ou sans collision"
+      - "Incendie (couverts dans les conditions prévues par la garantie « Incendie »)"
+      - "Vol (couverts dans les conditions prévues par la garantie « Vol »)"
+      - "Bris des Glaces (couverts dans les conditions prévues par la garantie « Bris des Glaces »)"
+    part_notes:
+      wheels: "Les dommages causés aux pneumatiques, sauf si ces dommages sont la consé- quence directe d’un accident affectant d’autres parties du véhicule"
+    parts: [front_bumper, bodywork, headlights, mirrors, wheels, engine_mechanics, rear_bumper, windshield, side_windows, rear_window]
+    cases: [police, theft, fire, glass]
+
+  ALL_ACCIDENTS:
+    title: Dommages au véhicule
+    ref: p. 16 et 17
+    plain: "L’Assureur garantit dans la limite indiquée aux Conditions Particulières, les dommages accidentels subis par le véhicule assuré"
+    covers:
+      - "D’une collision avec un autre véhicule"
+      - "D’un choc avec un corps fixe ou mobile"
+      - "Du renversement du véhicule sans collision préalable"
+      - "Des dommages occasionnés par la chute d’objets ou de substances sur le véhicule en stationnement"
+    not_covered:
+      - "Les dommages causés aux pneumatiques, sauf si ces dommages sont la consé- quence directe d’un accident affectant d’autres parties du véhicule"
+      - "Les bris des glaces seuls"
+      - "Les dommages résultant d’actes de vandalisme"
+      - "Les dommages causés par les évènements climatiques"
+      - {code: ex.DEFAUT_ENTRETIEN, text: "Les dommages subis par les organes du véhicule lorsque ces dommages résultent exclusivement et directement d’un défaut d’entretien ou d’usure"}
+      - "Les dommages indirects tels que privation de jouissance, dépréciation du véhicule, manque à gagner, frais de gardiennage ou de location d’un véhicule de remplacement"
+    part_notes:
+      wheels: "Les dommages causés aux pneumatiques, sauf si ces dommages sont la consé- quence directe d’un accident affectant d’autres parties du véhicule"
+
+  COLLISION_EXTENDED:
+    title: Dommages Collision Etendue
+    ref: p. 18
+    plain: "les dommages accidentels subis par le véhicule assuré … lorsque ces dommages résultent d’une collision avec"
+    covers:
+      - "Un véhicule terrestre à moteur, non lié à une voie ferrée, appartenant à un tiers identifié"
+      - "Un piéton ou un cycliste identifié"
+    conditions:
+      - {codes: [cond.CONSTAT_SIGNE, cond.PV_POLICE], text: "La collision avec un véhicule terrestre à moteur appartenant à un tiers identifié, doit faire l’objet d’un constat amiable dûment signé par les parties ou d’un procès-verbal des autorités locales"}
+    parts_note: "Un véhicule terrestre à moteur, non lié à une voie ferrée, appartenant à un tiers identifié"
+
+  COLLISION:
+    title: Dommages Collision
+    ref: p. 18
+    plain: "les dommages accidentels subis par le véhicule assuré … lorsque ces dommages résultent d’une collision avec"
+    covers:
+      - "Un véhicule terrestre à moteur, non lié à une voie ferrée, appartenant à un tiers identifié"
+      - "Un piéton ou un cycliste identifié"
+    conditions:
+      - {codes: [cond.CONSTAT_SIGNE, cond.PV_POLICE], text: "La collision avec un véhicule terrestre à moteur appartenant à un tiers identifié, doit faire l’objet d’un constat amiable dûment signé par les parties ou d’un procès-verbal des autorités locales"}
+      - "Le heurt d’un piéton ou d’un cycliste identifié, doit être constaté par un procès-verbal des autorités locales"
+    parts_note: "Un véhicule terrestre à moteur, non lié à une voie ferrée, appartenant à un tiers identifié"
+
+  FIRE:
+    title: Incendie
+    ref: p. 19
+    plain: "les dommages subis par le véhicule assuré … lorsque ces dommages résultent de façon directe"
+    covers:
+      - "D’un incendie"
+      - "D’une explosion"
+      - "De la chute de la foudre"
+      - "Les frais engagés pour la reconstitution de la carte grise, du permis de conduire et de la carte d’identité nationale, à hauteur de 500 Dhs par an"
+    not_covered:
+      - "Les courts circuits et incendie limités aux appareils électriques et électroniques et provenant de leur seul fonctionnement"
+      - "Les brûlures aux sièges, aux garnitures et revêtements occasionnées par des accidents de fumeurs"
+      - "Les explosions des pneumatiques et les dommages au véhicule en résultant"
+      - "Les dommages résultant d’actes de vandalisme"
+    part_notes:
+      wheels: "Les explosions des pneumatiques et les dommages au véhicule en résultant"
+
+  THEFT:
+    title: Vol
+    ref: p. 19 et 20
+    plain: "De la disparition ou de la détérioration du véhicule assuré à la suite d’un vol ou d’une tentative de vol"
+    covers:
+      - "De la disparition ou de la détérioration du véhicule assuré à la suite d’un vol ou d’une tentative de vol"
+      - "Le remboursement des frais engagés, légitimement et avec accord de l’Assureur, pour la récupération du véhicule volé"
+    not_covered:
+      - "Les vols isolés des roues, sauf si l’assuré a souscrit à la garantie « Vol des roues »"
+      - "Les vols isolés des rétroviseurs, sauf si l’assuré a souscrit à la garantie « Vol isolé des rétroviseurs »"
+      - "Le vol du véhicule assuré par la personne à qui il a été prêté"
+      - {code: ex.VOL_PAR_PROCHE, text: "Les vols commis par les membres de la famille de l’assuré habitant sous son toit ou avec leur complicité"}
+
+  MIRROR_THEFT:
+    title: Vol isolé des rétroviseurs
+    ref: p. 20
+    plain: "L’Assureur s’engage, à indemniser le vol isolé des rétroviseurs dans la limite du plafond indiqué dans les Conditions Particulières"
+    parts: [mirrors]
+
+  WHEEL_THEFT:
+    title: Vol des roues
+    ref: p. 20
+    plain: "L’Assureur s’engage à indemniser le vol des roues et des roues de secours dans la limite du plafond indiqué dans les Conditions Particulières"
+
+  GLASS:
+    title: Bris des glaces
+    ref: p. 21
+    plain: "L’Assureur garantit dans la limite indiquée aux Conditions Particulières, les dommages subis par"
+    covers:
+      - "Le pare-brise"
+      - "La lunette arrière"
+      - "Les glaces latérales"
+      - "Le toit fixe, ouvrant ou translucide"
+      - {code: cov.MAIN_OEUVRE, text: "Les frais de main d’œuvre engagés pour la réparation ou le remplacement des biens assurés"}
+      - {code: cov.JOINTS_KITS, text: "Les coûts des joints d’étanchéité et des kits de collage"}
+    not_covered:
+      - "L’ensemble des feux avant et arrières"
+      - "Les rétroviseurs, sauf si l’assuré a souscrit à la garantie « Bris des glaces des rétrovi- seurs »"
+      - {code: ex.RAYURE_SANS_BRIS, text: "Les rayures et ébréchures n’ayant pas en- trainé un bris des glaces"}
+      - "Les bris des glaces résultant du vol ou de tentative de vol"
+
+  MIRROR_GLASS:
+    title: Bris des glaces des rétroviseurs
+    ref: p. 21
+    plain: "L’Assureur s’engage à couvrir le bris du miroir des rétroviseurs et ce, dans la limite du plafond indiqué dans les Conditions Particulières"
+    parts: [mirrors]
+
+  FLOOD:
+    title: Inondation
+    ref: p. 21
+    plain: "les dommages subis par le véhicule assuré … ayant eu pour cause l’un des évènements suivants et non qualifiés d’évènements catastrophiques"
+    covers:
+      - "Intensité anormale de l’eau provoquée par le ruissellement, l’engorgement et le refoulement des égouts"
+
+  NATURAL_EVENTS:
+    title: Evènements climatiques
+    ref: p. 22
+    plain: "les dommages subis par le véhicule assuré … ayant eu pour cause l’un des évènements suivants et non qualifiés d’évènements catastrophiques"
+
+  DEPRECIATION_BUYBACK:
+    title: Rachat de vétusté
+    ref: p. 25
+    plain: "le versement du montant de la vétusté devant rester à la charge de l’assuré"
+    covers:
+      - {code: cov.VETUSTE_REMBOURSEE, text: "l’Assureur s’engage à indemniser le montant de la vétusté appliquée par l’Assureur adverse dans l’indemnisation de l’assuré, en tenant compte du taux de responsabilité de l’assuré"}
+
+deadlines:
+  - {code: DECLARATION_SINISTRE, title: Déclarer un sinistre, value: cinq (5) jours, ref: p. 39, text: "déclarer à l’Assureur dès qu’il en a eu connaissance et au plus tard dans les cinq (5) jours de sa survenance, tout sinistre de nature à entraîner la garantie de ce dernier"}
+  - {code: DECLARATION_VOL, title: Déclarer un vol, value: quarante huit (48) heures, ref: p. 39, text: "Déclarer à son assureur, le vol du véhicule assuré au plus tard dans les quarante huit (48) heures (week-end et jours fériés non compris)"}
+  - {title: Véhicule volé retrouvé, value: huit jours, ref: p. 39, text: "Aviser l’Assureur dans les huit jours en cas de récupération du véhicule"}
+  - {title: Événement catastrophique, value: vingt (20) jours, ref: p. 46, text: "au plus tard dans les vingt (20) jours de ladite survenance sauf lorsque ce délai est prolongé par l’autorité gouvernementale chargée des finances"}
+  - {code: PRESCRIPTION, title: Agir en justice, value: deux ans, ref: p. 44, text: "Toutes actions dérivant du contrat d’assurance sont prescrites pour deux ans à compter de l’événement qui y donne naissance"}
+
+claim_steps:
+  ref: p. 39
+  items:
+    - {code: step.DECLARER, text: "La déclaration du sinistre doit être faite par écrit ou verbalement et contre récépissé"}
+    - {code: step.INFOS, text: "Indiquer à l’Assureur les numéros de la police et de l’attestation d’assurance, la date, jour et heure, la nature et les circonstances du sinistre"}
+    - {code: step.EXPERT, text: "Faire connaître à l’Assureur les lieux où ces dommages pourront être constatés"}
+    - {code: step.EXPERT, text: "S’abstenir de procéder ou faire procéder à des réparations lorsque le montant global des dommages est supérieur à 500 dh par sinistre, avant visite par l’Assureur"}
+    - {code: step.PLAINTE, text: "Aviser immédiatement les autorités compétentes (police ou gendarmerie royale)"}
+    - {code: step.CERTIFICAT_MEDICAL, text: "Transmettre à l’Assureur dans le plus bref délai, le certificat du médecin appelé à donner les premiers soins, décrivant les lésions ou blessures"}
+
+fault:
+  not_at_fault:
+    - {code: RECOURS, ref: p. 14, text: "Obtenir la réparation pécuniaire des dommages subis par l’assuré ainsi que des dommages non indemnisés par une autre assurance"}
+    - {code: VETUSTE_PAID, ref: p. 25, text: "l’Assureur s’engage à indemniser le montant de la vétusté appliquée par l’Assureur adverse dans l’indemnisation de l’assuré, en tenant compte du taux de responsabilité de l’assuré"}
+  needs:
+    - {code: cond.TIERS_IDENTIFIE, ref: p. 14, text: "un accident causé au véhicule, engageant la responsabilité d’un tiers identifié"}
+    - {codes: [cond.CONSTAT_SIGNE, cond.PV_POLICE], ref: p. 18, text: "un constat amiable dûment signé par les parties ou d’un procès-verbal des autorités locales"}
+
+compensation:
+  - {title: Expertise, ref: p. 41, text: "les dommages matériels causés au véhicule assuré sont évalués de gré à gré sur la base d’une expertise amiable"}
+  - {title: Contestation, ref: p. 41, text: "En cas de contestation du montant de l’indem- nité, les parties peuvent recourir à une expertise contradictoire"}
+  - {title: Sinistre total, ref: p. 41, text: "l’indemnité est égale au montant de la valeur vénale dudit véhicule au jour du sinistre … déduction faite de la valeur d’épave"}
+  - {title: Bris des glaces, ref: p. 42, text: "Pour la garantie « Bris des glaces », l’indemnité est égale à la valeur des glaces brisées, au jour du sinistre mais sans pouvoir dépasser le montant de la garantie"}
+
+contract_life:
+  - {title: Changement de prime, ref: p. 39, text: "l’Assureur et l’Assisteur doivent en aviser le souscripteur par lettre recommandée soixante (60) jours au moins avant l’échéance"}
+  - {title: Prime impayée, ref: p. 38, text: "celle-ci peut suspendre la garantie vingt (20) jours après la mise en demeure de l’assuré"}
+  - {title: Résiliation pour impayé, ref: p. 38, text: "L’Assureur et l’Assisteur ont le droit de résilier le contrat dix (10) jours après l’expiration du délai de vingt (20) jours mentionné ci-dessus"}
+
+common_exclusions:
+  ref: p. 33 et 34
+  items:
+    - {code: ex.COURSE_COMPETITION, text: "Les dommages survenus au cours de rallyes, épreuves, courses ou compétitions (ou leurs essais)"}
+    - {code: ex.MATIERES_DANGEREUSES, text: "Les dommages survenus lorsque le véhicule assuré transporte des matières Inflammables, explosives, corrosives ou comburantes"}
+    - {code: ex.FAUTE_INTENTIONNELLE, text: "Les dommages causés intentionnellement par l’assuré"}
+    - {code: ex.GUERRE_EMEUTE, text: "Les dommages occasionnés par des faits de guerre étrangère ou civile, des engins de guerre, des attentats et actes de terrorisme et de sabotage, des émeutes ou des mouvements populaires"}

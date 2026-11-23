@@ -1,0 +1,29 @@
+{
+  "document_kind": "CP",
+  "insurer_name": "AtlantaSanad Assurance",
+  "product_name": "Contrat d'assurance Multirisques AUTO+",
+  "policy_number": null,
+  "period_start_iso": "2026-01-01",
+  "period_end_iso": "2026-12-31",
+  "vehicle": {"make": "AUDI", "registration": null, "first_registration_iso": "2021-10-01", "energy": "Diesel",
+              "fiscal_power": 8, "seats": 5, "usage": "Tourisme", "new_value_raw": "487 000,00", "market_value_raw": "487 000,00"},
+  "lines": [
+    {"section": "VEHICULE", "label": "Responsabilité Civile", "insured_value_raw": "50 000 000,00", "deductible_raw": null, "row_text": "Responsabilité Civile 50 000 000,00"},
+    {"section": "VEHICULE", "label": "Défense et Recours", "insured_value_raw": "15 000,00", "deductible_raw": null, "row_text": "Défense et Recours 15 000,00"},
+    {"section": "VEHICULE", "label": "Vol", "insured_value_raw": "487 000,00", "deductible_raw": "5 % /Dom.", "row_text": "Vol 487 000,00 5 % /Dom."},
+    {"section": "VEHICULE", "label": "Incendie", "insured_value_raw": "487 000,00", "deductible_raw": null, "row_text": "Incendie 487 000,00"},
+    {"section": "VEHICULE", "label": "Bris de Glaces (Ann. Ass.)", "insured_value_raw": "20 000,00", "deductible_raw": "0 /Dom", "row_text": "Bris de Glaces (Ann. Ass.) 20 000,00 0 /Dom"},
+    {"section": "VEHICULE", "label": "DTA (y compris vétusté)", "insured_value_raw": "487 000,00", "deductible_raw": "5 % /Dom. min 1500", "row_text": "DTA (y compris vétusté) 487 000,00 5 % /Dom. min 1500"},
+    {"section": "VEHICULE", "label": "Ev. catastrophiques RC *", "insured_value_raw": "200 000,00", "deductible_raw": "10 % /Dom. min 3000", "row_text": "Ev. catastrophiques RC * 200 000,00 10 % /Dom. min 3000"},
+    {"section": "VEHICULE", "label": "Ev. catastrophiques DOM *", "insured_value_raw": "200 000,00", "deductible_raw": "10 % /Dom. min 3000", "row_text": "Ev. catastrophiques DOM * 200 000,00 10 % /Dom. min 3000"},
+    {"section": "COMPLEMENTAIRE", "label": "Bris miroir rétros & optiq", "insured_value_raw": "3 000,00", "deductible_raw": null, "row_text": "Bris miroir rétros & optiq 3 000,00"},
+    {"section": "COMPLEMENTAIRE", "label": "Rachat de vétustés", "insured_value_raw": "487 000,00", "deductible_raw": null, "row_text": "Rachat de vétustés 487 000,00"},
+    {"section": "COMPLEMENTAIRE", "label": "Vol des rétroviseurs & op", "insured_value_raw": "5 000,00", "deductible_raw": "5 % min 200", "row_text": "Vol des rétroviseurs & op 5 000,00 5 % min 200"},
+    {"section": "PERSONNES", "label": "Passagers", "insured_value_raw": "150 000,00", "deductible_raw": null, "row_text": "Passagers 150 000,00 ; 200 000,00 ; 30 000,00"},
+    {"section": "PERSONNES", "label": "Conducteur", "insured_value_raw": "200 000,00", "deductible_raw": null, "row_text": "Conducteur 200 000,00 ; 200 000,00 ; 20 000,00"},
+    {"section": "AVANTAGES", "label": "Assistance", "insured_value_raw": null, "deductible_raw": null, "row_text": "Assistance Formule 6 - Assassi +"}
+  ],
+  "guarantee_table_fully_visible": true,
+  "assistance_formula": "Formule 6 - Assassi +",
+  "legibility_notes": "Photo de téléphone, légère inclinaison ; nom, CIN et adresse masqués par l'expéditeur."
+}

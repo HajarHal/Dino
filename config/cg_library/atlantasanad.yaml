@@ -1,0 +1,244 @@
+# Conditions Générales AtlantaSanad « Multirisque Automobile AUTO+ » (MR-AUTO AS03/2021) : pdf/atlantasanad.pdf.
+# Chaque texte est un EXTRAIT MOT POUR MOT du PDF (« … » relie deux morceaux) ; tests/test_coverage.py le vérifie.
+# title / value des tableaux : intitulés d'affichage. value doit figurer dans son extrait.
+
+source:
+  pdf: atlantasanad.pdf
+  document: Conditions Générales Multirisque Automobile
+  version: MR-AUTO AS03/2021
+  product: Multirisque Automobile AUTO+
+
+guarantees:
+  RC:
+    title: Responsabilité Civile
+    ref: Titre II, chap. 1 et annexe I, art. 2
+    plain: "garantit la Responsabilité Civile de l’Assuré à raison des dommages corporels ou matériels, à la personne ou aux biens des Tiers"
+    covers:
+      - "résultant des accidents, incendies ou explosions causés par le véhicule assuré"
+    conditions:
+      - {code: note.REGIE_PAR_ARRETE, text: "est régie par les Conditions Générales-Type fixées par l’arrêté du ministre des Finances et de la privatisation n° 1053-06"}
+
+  ALL_ACCIDENTS:
+    title: Dommages Tous Accidents
+    ref: Art. 6
+    plain: "cette garantie, souscrite en Valeur à Neuf, indemnise les dommages subis par le véhicule assuré"
+    covers:
+      - "A un choc avec un corps fixe ou mobile"
+      - "A la collision avec un autre véhicule"
+      - "Au renversement du véhicule"
+      - "Aux dommages occasionnés par la chute d’objets ou de substances sur le véhicule en stationnement"
+    not_covered:
+      - "Les dommages consécutifs à un Vol ou un Incendie"
+      - "Les dommages de Bris des Glaces seuls non consécutifs à un accident affectant d’autres parties du véhicule assuré"
+      - "Les dommages subis par les pneumatiques"
+      - "Les dommages consécutifs à des actes de vandalisme individuels ou collectifs"
+      - {code: ex.RAYURE_SANS_BRIS, text: "Les dommages consécutifs à des rayures, ébréchures et toutes altérations du vernis et/ou de la peinture n’ayant pas causé de dommages à la tôle"}
+      - {code: ex.DEFAUT_ENTRETIEN, text: "Les dommages subis par les organes du véhicule lorsque ces dommages résultent exclusivement et directement d’un défaut d’entretien ou d’usure"}
+    conditions:
+      - "Cette garantie n’interviendra que pour les sinistres dont le coût est supérieur au montant de la franchise précisée aux Conditions Particulières"
+      - "Cette garantie ainsi que ses extensions sont accordées en capital assuré épuisable"
+    part_notes:
+      wheels: "Les dommages subis par les pneumatiques"
+
+  COLLISION:
+    title: Dommages Collision
+    ref: Art. 7
+    plain: "l’Assureur garantit les dommages accidentels subis par le véhicule assuré, lorsque ces dommages résultent d’une collision avec un véhicule terrestre à moteur"
+    covers:
+      - "appartenant à un Tiers identifié lorsque l’Assuré est totalement ou partiellement responsable ou du heurt d’un piéton identifié"
+    not_covered:
+      - "Les dommages subis par les pneumatiques"
+      - "Les dommages consécutifs à un vol"
+      - "Les dommages consécutifs à la mise en fourrière du véhicule depuis son enlèvement jusqu’à sa restitution"
+    conditions:
+      - {codes: [cond.CONSTAT_SIGNE, cond.PV_POLICE], text: "La garantie Dommages Collision ne s’applique que sur présentation d’un constat amiable validé et signé par les parties, ou d’un procès-verbal de police ou de gendarmerie"}
+      - "La garantie Dommages Collision est une garantie à capitaux limités dans les Conditions Particulières"
+    parts_note: "appartenant à un Tiers identifié … ou du heurt d’un piéton identifié"
+
+  THEFT:
+    title: Vol
+    ref: Art. 8
+    plain: "La disparition du véhicule assuré"
+    covers:
+      - "La disparition du véhicule assuré"
+      - "Les détériorations subies par le véhicule s’il a été retrouvé"
+      - {code: cov.TENTATIVE_VOL, text: "Les dommages consécutifs à une tentative de vol"}
+    not_covered:
+      - {code: ex.CLES_SUR_VEHICULE, text: "Le vol du véhicule assuré survenu alors que les clés du véhicule ont été laissées dans ce dernier"}
+      - "Le vol séparé de tous appareillages ou pièces sauf si l’extension de garantie est souscrite"
+      - "Le vol du véhicule assuré par la personne à qui il a été prêté ou loué"
+      - "Le vol du véhicule lorsqu’au moment du sinistre, le moteur est en marche avec ou sans les clés sauf en cas d’agression"
+      - "Le vol de la remorque"
+    conditions:
+      - {code: cond.PLAINTE, text: "Le vol et la tentative de vol doivent faire l’objet d’une plainte déposée aux autorités de police ou de gendarmerie"}
+      - "la garantie n’est acquise que si le véhicule assuré ait été déplacé du lieu où il aurait été laissé en stationnement"
+
+  MIRROR_THEFT:
+    title: Vol isolé des rétroviseurs et des optiques
+    ref: Art. 8 (extension)
+    plain: "à indemniser le vol isolé des rétroviseurs extérieurs et des optiques dans la limite du plafond indiqué aux Conditions Particulières"
+
+  WHEEL_THEFT:
+    title: Vol isolé des roues
+    ref: Art. 8 (extension)
+    plain: "à indemniser le vol des roues du véhicule assuré y compris la roue de secours"
+    conditions:
+      - "On entend par « roue », l’ensemble pneumatique et jante"
+
+  FIRE:
+    title: Incendie
+    ref: Art. 9
+    plain: "l’Assureur garantit les dommages subis par le véhicule assuré, lorsque ces dommages résultent d’un incendie, d’une explosion, d’une conflagration, d’un embrasement, d’une combustion ou de la chute de la foudre"
+    not_covered:
+      - "Les dommages résultant des brûlures occasionnées par les fumeurs"
+      - "court­ circuit et incendie limités aux appareils électriques et provenant de leur seul fonctionnement sans prorogation du feu aux autres organes"
+
+  GLASS:
+    title: Bris de Glaces
+    ref: Art. 10 et 40
+    plain: "l’Assureur garantit les dommages, causés ou non par un accident, subis par les glaces latérales, le pare-brise, la lunette arrière et le toit vitré fixe ou ouvrant du véhicule assuré"
+    covers:
+      - {code: cov.MAIN_OEUVRE, text: "Les frais de main d’œuvre engagés pour la réparation ou le remplacement des biens assurés"}
+      - {code: cov.JOINTS_KITS, text: "Les coûts des joints d’étanchéité, des kits de collage et détecteurs de pluie"}
+      - {code: cov.BRIS_SUITE_VOL, text: "Les bris résultant du vol ou de tentative de vol du véhicule assuré et ses accessoires"}
+    not_covered:
+      - {code: ex.RAYURE_SANS_BRIS, text: "Les rayures et ébréchures n’ayant pas entrainé un Bris de Glaces"}
+      - {code: ex.PERTE_TOTALE_CONSECUTIVE, text: "Les dommages consécutifs à une perte totale du véhicule à dires d’expert"}
+    conditions:
+      - {code: note.SANS_REGLE_PROPORTIONNELLE, text: "avec abrogation de la règle proportionnelle de capitaux"}
+    cases: [glass, theft]
+
+  MIRROR_GLASS:
+    title: Bris des glaces des rétroviseurs extérieurs et des optiques
+    ref: Art. 10 (extension)
+    plain: "Par extension expressément stipulée aux Conditions Particulières, peut être garanti, moyennant surprime … le bris des glaces des rétroviseurs extérieurs et des optiques"
+
+  DEFENSE_RECOURS:
+    title: Défense et Recours
+    ref: Art. 11 et 41
+    plain: "l’Assureur s’engage à procéder à ses frais, à toutes interventions amiables et à intenter, à ses frais, toutes actions judiciaires"
+    covers:
+      - {code: cov.DEFENSE_PENALE, text: "Assurer la défense de l’Assuré en cas de poursuites pénales engagées au Maroc et fondées sur la circulation ou l’utilisation du véhicule assuré"}
+      - {code: cov.RECOURS_TIERS, text: "Obtenir la réparation pécuniaire des dommages non indemnisés par un Tiers responsable ou son Assureur, subis par le véhicule assuré et par les objets qu’il transporte"}
+    not_covered:
+      - {code: ex.AMENDES, text: "Le paiement des amendes et leurs décimes"}
+      - {code: ex.DELIT_FUITE, text: "Délit de fuite"}
+      - {code: ex.PERMIS_INVALIDE, text: "Défaut ou invalidité du permis"}
+      - {code: ex.ALCOOL, text: "Etat d’ivresse ou de consommation de stupéfiants"}
+    conditions:
+      - "L’Assureur s’interdit de transiger avec les Tiers responsables sauf autorisation de l’Assuré"
+
+  FLOOD:
+    title: Inondation
+    ref: Art. 12
+    plain: "la garantie Dommages Tous Accidents (DTA) peut être étendue à la garantie Inondation"
+    covers:
+      - "Les eaux de ruissellement"
+      - "L’engorgement et le refoulement des égouts"
+      - "Le débordement des sources et des cours d’eau"
+    not_covered:
+      - "Les dommages causés suite à la non-fermeture des portes, vitres, ou toit ouvrant du véhicule assuré"
+      - "Les dommages provenant de la traversée volontaire de cours d’eau d’un débit anormal"
+
+  FINANCIAL_LOSS:
+    title: Perte Financière
+    ref: Art. 13
+    plain: "l’Assureur s’engage à rembourser à l’Assuré en cas de perte totale suite à un sinistre couvert au titre des garanties Dommages Tous Accidents (DTA), Vol ou Incendie"
+
+  DEPRECIATION_BUYBACK:
+    title: Rachat de la Vétusté
+    ref: Art. 14
+    plain: "l’Assureur indemnise le montant de la vétusté restant à la charge de l’Assuré déterminée au titre de ces garanties"
+    covers:
+      - {code: cov.VETUSTE_REMBOURSEE, text: "l’Assureur s’engage à indemniser le montant de la vétusté appliquée par l’Assureur adverse dans l’indemnisation de l’Assuré"}
+
+  DRIVER_PROTECTION:
+    title: Protection du Conducteur
+    ref: Art. 19 et 42
+    plain: "la garantie Protection du Conducteur permet au conducteur d’être indemnisé pour ses frais médicaux, pharmaceutiques et d’hospitalisation ainsi que le versement d’un capital en cas de décès ou d’invalidité"
+    conditions:
+      - "La garantie commence lorsque le conducteur prend place dans le véhicule assuré et prend fin dès qu’il en est descendu"
+
+  PASSENGER_PROTECTION:
+    title: Protection des Passagers
+    ref: Art. 20 et 42
+    plain: "l’Assureur garantit le conducteur et les passagers transportés à titre gratuit, contre tous les accidents entraînant soit le décès, soit une infirmité permanente et définitive"
+
+  CAT_EVENTS_DAMAGE:
+    title: Garantie contre les conséquences des évènements catastrophiques
+    ref: Art. 21 à 24
+    plain: "La garantie contre les conséquences des évènements catastrophiques couvre les dommages occasionnés directement par un évènement catastrophique aux biens assurés au titre de ce contrat"
+    conditions:
+      - "Cette garantie ne peut être mise en œuvre qu’après publication au « Bulletin officiel » de l’arrêté du chef du gouvernement déclarant la survenance de l’évènement catastrophique"
+
+deadlines:
+  - {code: DECLARATION_SINISTRE, title: Déclarer un sinistre, value: cinq (5) jours, ref: Art. 36, text: "déclarer à l’Assureur ou à l’intermédiaire d’assurance mandaté à cet effet, dans les cinq (5) jours de sa survenance, tout sinistre de nature à entraîner la garantie du présent contrat"}
+  - {code: DECLARATION_VOL, title: Déclarer un vol, value: quarante-huit (48) heures, ref: Art. 36, text: "En ce qui concerne la garantie Vol, le délai de déclaration est fixé à quarante-huit (48) heures"}
+  - {title: Accident à l'étranger, value: vingt (20) jours, ref: Art. 36, text: "sauf en ce qui concerne le délai de déclaration qui est porté de cinq (5) à vingt (20) jours"}
+  - {title: Événement catastrophique, value: vingt (20) jours, ref: Art. 23, text: "au plus tard dans les vingt (20) jours de ladite survenance sauf lorsque ce délai est prolongé par l’autorité gouvernementale chargée des finances"}
+  - {code: PRESCRIPTION, title: Agir en justice, value: deux (2) ans, ref: Art. 29, text: "Toutes actions dérivant du présent contrat sont prescrites par deux (2) ans à compter de l’évènement qui y donne naissance"}
+  - {code: INDEMNISATION, title: Paiement après expertise, value: cinq (5) jours, ref: Art. 39, text: "Ce dernier établit la quittance et le chèque de l’indemnité à remettre à l’Assuré dans un délai maximum de cinq (5) jours"}
+  - {code: RESILIATION_PREAVIS, title: Préavis de résiliation, value: trente (30) jours, ref: Art. 26, text: "L’Assureur et l’Assuré ont la faculté de se retirer à l’expiration d’une (1) année à compter de la date d’effet du contrat moyennant préavis de trente (30) jours"}
+
+claim_steps:
+  ref: Art. 36
+  items:
+    - {code: step.DECLARER, text: "La déclaration de sinistre à l’Assureur ou à l’intermédiaire d’assurance mandaté à cet effet doit être faite par écrit ou verbalement et contre récépissé"}
+    - {code: step.INFOS, text: "Indiquer le numéro de police, la date, jour et heure, la nature et les circonstances du sinistre"}
+    - {code: step.TRANSMETTRE_COURRIERS, text: "Transmettre à l’Assureur, dans le plus bref délai, tous avis, lettres, convocations, assignations, actes extrajudiciaires et pièces de procédure"}
+    - {code: step.PLAINTE, text: "En cas de Vol ou de Tentative de Vol du véhicule assuré, déposer immédiatement une plainte auprès des autorités de police"}
+    - {code: step.CERTIFICAT_MEDICAL, text: "Au titre des garanties Protection du Conducteur et Protection des Passagers, le Souscripteur doit transmettre à l’Assureur le certificat médical initial"}
+
+fault:
+  at_fault:
+    - {code: PREMIUM_UP, ref: "Annexe I, art. 19", text: "ce coefficient, qui ne peut excéder 2,50, s’obtient en ajoutant à un (1) pour chacun de ces sinistres"}
+    - {code: PREMIUM_UP, ref: "Annexe I, art. 19", text: "0,20 pour les autres usages si le sinistre est matériel"}
+    - {code: PREMIUM_UP, ref: "Annexe I, art. 19", text: "0,30 pour les autres usages si le sinistre est corporel, ou matériel et corporel à la fois"}
+  not_at_fault:
+    - {code: RECOURS, ref: Art. 11, text: "Obtenir la réparation pécuniaire des dommages non indemnisés par un Tiers responsable ou son Assureur, subis par le véhicule assuré et par les objets qu’il transporte"}
+    - {code: VETUSTE_PAID, ref: Art. 14, text: "l’Assureur s’engage à indemniser le montant de la vétusté appliquée par l’Assureur adverse dans l’indemnisation de l’Assuré"}
+    - {code: PREMIUM_REFUND, ref: "Annexe I, art. 19", text: "Dans le cas où l’Assuré apporte la preuve que sa responsabilité est entièrement et définitivement dégagée, l’Assureur est tenu de restituer la portion de prime"}
+    - {code: PREMIUM_DOWN, ref: "Annexe I, art. 19", text: "0,90 si l’Assuré n’a causé aucun sinistre engageant ou susceptible d’engager totalement ou partiellement sa responsabilité durant une période d’assurance de vingt-quatre (24) mois consécutifs"}
+  needs:
+    - {code: cond.TIERS_IDENTIFIE, ref: Art. 11, text: "un accident causé audit véhicule engageant la responsabilité d’un Tiers identifié"}
+    - {codes: [cond.CONSTAT_SIGNE, cond.PV_POLICE], ref: Art. 7, text: "un constat amiable validé et signé par les parties, ou d’un procès-verbal de police ou de gendarmerie"}
+
+compensation:
+  - {title: Expertise, ref: Art. 39, text: "L’évaluation des dommages est faite par l’expert de l’Assureur"}
+  - {title: Contestation, ref: Art. 39, text: "un deuxième expert est désigné d’un commun accord entre les parties … Les frais de la deuxième expertise seront supportés à parts égales par les deux parties"}
+  - {title: Dommages partiels, ref: Art. 39, text: "l’indemnité est égale au coût de réparation ou de remplacement des pièces"}
+  - {title: Sinistre total, ref: Art. 39, text: "le montant de l’indemnité est égal à la Valeur Vénale du véhicule au jour du sinistre ; déduction faite de la franchise prévue aux Conditions Particulières"}
+  - {title: Paiement, ref: Art. 39, text: "Ce dernier établit la quittance et le chèque de l’indemnité à remettre à l’Assuré dans un délai maximum de cinq (5) jours"}
+  - {title: Vol, ref: Art. 39, text: "En ce qui concerne la garantie Vol, le règlement ne peut être exigé par l’Assuré qu’après un délai de trente (30) jours à dater de la déclaration de sinistre"}
+  - {title: Valeur sous-déclarée, ref: Art. 38, text: "est inférieure à la valeur réelle du véhicule … l’Assureur appliquera la règle proportionnelle"}
+  - {title: Véhicule à crédit, ref: Art. 39, text: "le règlement des indemnités dues par l’Assureur à l’Assuré en cas de sinistre total ne pourra être effectué sans l’autorisation écrite de l’organisme de crédit"}
+
+contract_life:
+  - {title: Prise d'effet, ref: Art. 26, text: "l’assurance ne produit ses effets qu’à compter de la date indiquée aux Conditions Particulières"}
+  - {title: Durée, ref: Art. 26, text: "Le contrat est valable pour la durée indiquée en caractères très apparents aux Conditions Particulières"}
+  - {title: Résiliation, ref: Art. 26, text: "L’Assureur et l’Assuré ont la faculté de se retirer à l’expiration d’une (1) année à compter de la date d’effet du contrat moyennant préavis de trente (30) jours"}
+  - {title: Changement de prime, ref: Art. 35, text: "l’Assureur doit aviser le Souscripteur par lettre recommandée soixante (60) jours au moins avant l’échéance en cas de modification de prime"}
+  - {title: Pays couverts, ref: Art. 4, text: "l’assurance produit ses effets au Maroc"}
+
+common_exclusions:
+  ref: Art. 25
+  items:
+    - {code: ex.COURSE_COMPETITION, text: "Les dommages survenus au cours de rallyes, épreuves, courses ou compétitions (ou leur essais)"}
+    - {code: ex.OBJETS_TRANSPORTES, text: "Les dommages subis par les marchandises et objets transportés par le véhicule assuré"}
+    - {code: ex.FAUTE_INTENTIONNELLE, text: "Les dommages causés intentionnellement par l’Assuré ou le propriétaire du véhicule assuré"}
+    - {code: ex.MATIERES_DANGEREUSES, text: "Les dommages causés au véhicule assuré lorsqu’il transporte des matières inflammables, explosives, corrosives ou comburantes"}
+
+# Bonus-malus (Conditions Générales-Type RC, annexe I) : chaque valeur doit figurer dans un des extraits (test).
+bonus_malus:
+  material_fault_increase: 0.20
+  bodily_fault_increase: 0.30
+  max_coefficient: 2.50
+  no_claim_coefficient: 0.90
+  no_claim_months: 24
+  needs_review: true
+  ref: "Annexe I, art. 19"
+  texts:
+    - "0,90 si l’Assuré n’a causé aucun sinistre engageant ou susceptible d’engager totalement ou partiellement sa responsabilité durant une période d’assurance de vingt-quatre (24) mois consécutifs"
+    - "ce coefficient, qui ne peut excéder 2,50, s’obtient en ajoutant à un (1) pour chacun de ces sinistres"
+    - "0,20 pour les autres usages si le sinistre est matériel"
+    - "0,30 pour les autres usages si le sinistre est corporel, ou matériel et corporel à la fois"

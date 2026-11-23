@@ -1,0 +1,243 @@
+# Taxonomie canonique : garanties auto et produits.
+# Modifier ce fichier suffit pour ajouter une garantie ou un alias de libellé de CP.
+# Les alias sont comparés après normalisation (minuscules, sans accents ni ponctuation).
+# Les noms proviennent des CG AXA « Solution Auto », Sanlam « Assur'Auto Plus » et des CP scannées.
+
+# keywords : dernier recours si le libellé n'est ni un alias ni proche d'un alias. Chaque élément est un groupe
+# de mots qui doivent tous figurer dans le libellé ; le groupe le plus long gagne ; égalité entre deux garanties = non reconnu.
+guarantees:
+  RC:
+    label_fr: Responsabilité civile
+    category: NON_PHYSICAL
+    aliases: [responsabilite civile, responsabilite civile automobile, rc]
+    keywords: [responsabilite civile]
+  DEFENSE_RECOURS:
+    label_fr: Défense et recours
+    category: NON_PHYSICAL
+    aliases: [defense et recours, defense recours, dr, protection juridique, garantie protection juridique, protection juridique de l assure]
+    keywords: [defense, recours, juridique]
+  PERSONAL_INJURY:
+    label_fr: Protection du conducteur et des passagers
+    category: NON_PHYSICAL
+    aliases: [protection du conducteur et des passagers, protection familiale conducteur et passagers,
+      protection familiale conducteur passagers, pfcp, garanties des personnes,
+      dommages corporels du conducteur et des passagers, dommages corporels, passagers et conducteur,
+      conducteur et personnes transportees a titre gratuit, conducteur et personnes transportees]
+    keywords: [conducteur passagers, conducteur transportees, conducteur occupants, personnes conducteur passagers]
+  DRIVER_PROTECTION:
+    label_fr: Protection du conducteur
+    category: NON_PHYSICAL
+    aliases: [protection du conducteur, individuelle accidents conducteur habituel, iac, conducteur, personnes conducteur]
+    keywords: [conducteur, individuelle, securite conducteur]
+  PASSENGER_PROTECTION:
+    label_fr: Protection des passagers
+    category: NON_PHYSICAL
+    aliases: [protection des passagers, passagers, personnes passagers, personnes transportees]
+    keywords: [passagers, passager, transportees, occupants, pta, incapacite passagers, invalidite passagers, ipp passagers, deces passagers, frais medicaux passagers]
+  DEATH_ALL_CAUSES:
+    label_fr: Décès toutes causes
+    category: NON_PHYSICAL
+    aliases: [deces toutes causes]
+    keywords: [deces toutes causes]
+  DEATH_BENEFIT:
+    label_fr: Capital décès (accident)
+    category: NON_PHYSICAL
+    aliases: [deces, capital deces, deces accidentel]
+    keywords: [deces, deces conducteur]
+  DISABILITY_BENEFIT:
+    label_fr: Capital invalidité
+    category: NON_PHYSICAL
+    aliases: [invalidite, capital invalidite, invalidite permanente, incapacite permanente]
+    keywords: [incapacite, invalidite, ipp, ipt, infirmite, incapacite conducteur, invalidite conducteur, ipp conducteur, ipt conducteur]
+  MEDICAL_COSTS:
+    label_fr: Frais médicaux et pharmaceutiques
+    category: NON_PHYSICAL
+    aliases: [frais medicaux, fmp, frais medicaux et pharmaceutiques, frais de soins]
+    keywords: [frais medicaux, frais pharmaceutiques, soins, frais medicaux conducteur, soins conducteur]
+  HOSPITAL_COSTS:
+    label_fr: Frais d'hospitalisation
+    category: NON_PHYSICAL
+    aliases: [frais d hospitalisation, frais hospitalisation, frais hospitalis, hospitalisation]
+    keywords: [hospitalisation, hospitalis, hospitalier, hospitaliers]
+  FUNERAL_COSTS:
+    label_fr: Frais funéraires
+    category: NON_PHYSICAL
+    aliases: [frais funeraires, frais d obseques]
+    keywords: [funeraires, funeraire, obseques]
+  REPAIR_SURGERY:
+    label_fr: Frais de chirurgie réparatrice
+    category: NON_PHYSICAL
+    aliases: [frais chirurgie reparatrice, frais de chirurgie reparatrice, chirurgie reparatrice]
+    keywords: [chirurgie]
+  ASSISTANCE:
+    label_fr: Assistance
+    category: NON_PHYSICAL
+    aliases: [assistance, garanties d assistance]
+    keywords: [assistance, depannage, remorquage]
+  CAT_EVENTS_LIABILITY:
+    label_fr: Événements catastrophiques (responsabilité civile)
+    category: NON_PHYSICAL
+    aliases: [ev catastrophiques rc, evenements catastrophiques rc,
+      contre les consequences d evenements climatiques catastrophes naturelles adossee a la garantie rc,
+      contre les consequences d evenements climatiques adossee a la garantie rc]
+    keywords: [catastrophiques rc, catastrophiques responsabilite]
+  GOODS_TRANSPORTED:
+    label_fr: Marchandises transportées
+    category: NON_PHYSICAL
+    aliases: [marchandises transportees]
+    keywords: [marchandises]
+  BUSINESS_INTERRUPTION:
+    label_fr: Perte d'exploitation
+    category: NON_PHYSICAL
+    aliases: [perte d exploitation]
+    keywords: [perte exploitation, perte d exploitation]
+  FINANCIAL_LOSS:
+    label_fr: Perte financière
+    category: NON_PHYSICAL
+    aliases: [perte financiere, pf]
+    keywords: [perte financiere]
+  SUPPLEMENTARY_INDEMNITY:
+    label_fr: Indemnité complémentaire
+    category: NON_PHYSICAL
+    aliases: [indemnite complementaire]
+  IMMOBILIZATION_COSTS:
+    label_fr: Frais d'immobilisation
+    category: NON_PHYSICAL
+    aliases: [frais d immobilisation, fi]
+    keywords: [immobilisation]
+  ALL_RISKS:
+    label_fr: Dommages tous risques
+    category: PHYSICAL
+    aliases: [dommages tous risques, tous risques]
+    keywords: [tous risques]
+  ALL_ACCIDENTS:
+    label_fr: Dommages tous accidents
+    category: PHYSICAL
+    aliases: [dommages tous accidents, dta, dta y compris vetuste, dommages au vehicule, dommages au vehicule assure]
+    keywords: [tous accidents]
+  ALL_ACCIDENTS_LIMITED:
+    label_fr: Dommages au véhicule limitée (Tierce Eco)
+    category: PHYSICAL
+    aliases: [dommages au vehicule limitee, tierce eco]
+  TIERCE:
+    label_fr: Garantie Tierce (dommages au véhicule)
+    category: PHYSICAL
+    aliases: [tierce, garantie tierce, tierce complete]
+    keywords: [tierce]
+  COLLISION:
+    label_fr: Dommages collision
+    category: PHYSICAL
+    aliases: [dommages collision, dommages collisions, dc, collision]
+    keywords: [collision, collisions]
+  COLLISION_EXTENDED:
+    label_fr: Dommages collision étendue
+    category: PHYSICAL
+    aliases: [dommages collision etendue, collision etendue]
+    keywords: [collision etendue, collisions etendue]
+  FIRE:
+    label_fr: Incendie
+    category: PHYSICAL
+    aliases: [incendie, inc]
+    keywords: [incendie, explosion, explosions]
+  THEFT:
+    label_fr: Vol
+    category: PHYSICAL
+    aliases: [vol, vol du vehicule]
+    keywords: [vol]
+  MIRROR_THEFT:
+    label_fr: Vol des rétroviseurs
+    category: PHYSICAL
+    aliases: [vol des retroviseurs, vol des retroviseurs op, vol des retroviseurs et op, vol des retroviseurs et optiques]
+    keywords: [vol retroviseurs, vol retros, vol retroviseur]
+  WHEEL_THEFT:
+    label_fr: Vol des roues
+    category: PHYSICAL
+    aliases: [vol des roues]
+    keywords: [vol roues, vol roue, vol pneus]
+  GLASS:
+    label_fr: Bris de glaces
+    category: PHYSICAL
+    aliases: [bris de glaces, bris des glaces, bris de glaces ann ass, bdg]
+    keywords: [bris, glaces, glace, pare brise]
+  MIRROR_GLASS:
+    label_fr: Bris des rétroviseurs et optiques
+    category: PHYSICAL
+    aliases: [bris des glaces des retroviseurs, bris miroir retros et optiq, bris miroir retros optiq, bris des retroviseurs]
+    keywords: [bris retroviseurs, bris retros, bris miroir, bris optiques, glaces retroviseurs]
+  PANORAMIC_ROOF:
+    label_fr: Toit panoramique
+    category: PHYSICAL
+    aliases: [toit panoramique, tp]
+    keywords: [toit panoramique]
+  CAT_EVENTS_DAMAGE:
+    label_fr: Événements catastrophiques (dommages)
+    category: PHYSICAL
+    aliases: [evenements catastrophiques, ev catastrophiques dom, evenements catastrophiques dom, evcat,
+      contre les consequences d evenements climatiques catastrophes naturelles adossee a la garantie dommages,
+      contre les consequences d evenements climatiques adossee a la garantie dommages]
+    keywords: [catastrophiques, catastrophique, evcat]
+  NATURAL_EVENTS:
+    label_fr: Événements climatiques et naturels
+    category: PHYSICAL
+    aliases: [evenements climatiques, evenements climatiques et naturels, ecn, complementaire evenements catastrophiques naturels]
+    keywords: [climatiques, tempete, grele]
+  FLOOD:
+    label_fr: Inondation
+    category: PHYSICAL
+    aliases: [inondation]
+    keywords: [inondation, inondations]
+  VANDALISM:
+    label_fr: Actes de vandalisme
+    category: PHYSICAL
+    aliases: [actes de vandalisme, vandalisme]
+    keywords: [vandalisme]
+  MECHANICAL_BREAKDOWN:
+    label_fr: Panne mécanique
+    category: PHYSICAL
+    aliases: [panne mecanique, pm]
+    keywords: [panne]
+  TOTAL_LOSS:
+    label_fr: Perte totale
+    category: PHYSICAL
+    aliases: [perte totale, pt]
+    keywords: [perte totale]
+  DEPRECIATION_BUYBACK:
+    label_fr: Rachat de vétusté
+    category: PHYSICAL
+    aliases: [rachat de vetuste, rachat de la vetuste, rachat vetuste, rv]
+    keywords: [vetuste, vetustes]
+  DEDUCTIBLE_BUYBACK:
+    label_fr: Rachat de franchise
+    category: PHYSICAL
+    aliases: [rachat de franchise]
+    keywords: [rachat franchise, rachat de franchise]
+  EXTERIOR_ACCESSORIES:
+    label_fr: Accessoires extérieurs
+    category: PHYSICAL
+    aliases: [accessoires exterieurs, ae]
+    keywords: [accessoires]
+  PROFESSIONAL_FITTINGS:
+    label_fr: Aménagements professionnels
+    category: PHYSICAL
+    aliases: [amenagements professionnels, ap]
+    keywords: [amenagements]
+  INCREASED_VALUE:
+    label_fr: Valeur majorée
+    category: PHYSICAL
+    aliases: [valeur majoree, vm]
+    keywords: [valeur majoree]
+
+# Les assureurs sont déclarés dans config/cg_library/insurers.yaml (source unique).
+products:
+  axa_solution_auto:
+    insurer: axa_maroc
+    label: Solution Auto
+    aliases: [solution auto]
+  sanlam_assurauto_plus:
+    insurer: sanlam_maroc
+    label: Assur'Auto Plus
+    aliases: [assur auto plus, assurauto plus]
+  atlantasanad_multirisques_auto:
+    insurer: atlantasanad
+    label: Multirisques AUTO+
+    aliases: [multirisques auto]

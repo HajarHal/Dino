@@ -1,0 +1,96 @@
+# Conditions Générales MCMA « AMANE AUTO » : pdf/mcma.pdf.
+# Chaque texte est un EXTRAIT MOT POUR MOT du PDF (« … » relie deux morceaux) ; tests/test_coverage.py le vérifie.
+
+source:
+  pdf: mcma.pdf
+  document: Conditions Générales AMANE AUTO
+  product: AMANE AUTO
+
+guarantees:
+  RC:
+    title: Responsabilité Civile à l’égard des tiers
+    ref: Art. 1
+    plain: "la Mutuelle garantit la Responsabilité Civile incombant à l’assuré en raison des dommages corporels ou matériels causés aux tiers par le véhicule désigné aux conditions particulières"
+
+  DEFENSE_RECOURS:
+    title: Protection juridique de l’assuré
+    ref: Art. 2
+    plain: "A pourvoir à la défense des intérêts de l’assuré en cas de poursuites fondées sur la circulation ou à l’utilisation du véhicule assuré"
+    covers:
+      - {code: cov.DEFENSE_PENALE, text: "A pourvoir à la défense des intérêts de l’assuré en cas de poursuites fondées sur la circulation ou à l’utilisation du véhicule assuré"}
+      - {code: cov.RECOURS_TIERS, text: "la réparation pécuniaire de ses dommages, lorsque ceux-ci résultent d’un accident de circulation survenu au véhicule assuré et aux objets qu’il transporte, causé par un tiers identifié dont la responsabilité est engagée"}
+
+  TIERCE:
+    title: Tierce
+    ref: Art. 3.3
+    plain: "l’assureur garantit les dommages subis par le véhicule assuré, résultant de son choc avec un corps fixe ou mobile (y compris les personnes et les animaux) ainsi que son renversement sans collision préalable"
+    not_covered:
+      - "cette garantie ne couvre pas les dommages subis uniquement par les pneumatiques ou les antennes sauf lorsque ceux-ci sont endommagés en même temps que d’autres parties du véhicule"
+    conditions:
+      - "la garantie « Tierce » n’est pas cumulable avec la garantie « Dommages Collisions »"
+    part_notes:
+      wheels: "cette garantie ne couvre pas les dommages subis uniquement par les pneumatiques"
+
+  COLLISION:
+    title: Dommages Collisions
+    ref: Art. 3.4
+    plain: "l’assureur garantit les dommages subis par le véhicule assuré, résultant d’une collision avec tous véhicules y compris hippomobiles, cycles avec ou sans moteur, appartenant à des personnes identifiées"
+    conditions:
+      - "En aucun cas cette garantie ne peut être souscrite en même temps que la garantie TIERCE"
+    parts_note: "appartenant à des personnes identifiées autres que le souscripteur du présent contrat"
+
+  FIRE:
+    title: Incendie
+    ref: Art. 3.5
+    plain: "Les dommages subis par le véhicule assuré ainsi que par les accessoires et pièces de rechange livrés en série par le constructeur lorsque ces dommages résultent d’un incendie"
+    covers:
+      - "Les dommages aux appareils et faisceaux électriques provoqués par l’incendie d’autres parties du véhicule"
+      - "Les frais de recharge d’extincteur ayant servi à combattre ou éviter l’incendie du véhicule assuré"
+
+  THEFT:
+    title: Vol du véhicule
+    ref: Art. 3.6
+    plain: "Les dommages consécutifs à la disparition totale du véhicule assuré"
+    covers:
+      - "Les dommages consécutifs à la disparition totale du véhicule assuré"
+    conditions:
+      - "Tentative de vol : le commencement d’exécution d’un vol du véhicule assuré interrompu pour cause indépendante de son auteur, déclaré aux autorités de police ou de gendarmerie"
+
+  GLASS:
+    title: Bris de glaces
+    ref: Art. 3.7
+    plain: "l’assureur garantit les dommages résultant d’un bris, subis par le pare-brise, les glaces latérales avant et arrière, la lunette arrière et le toit fixe ou ouvrant transparent, quel que soit son matériau"
+    not_covered:
+      - "Le bris des phares"
+      - "Le bris des rétroviseurs, des feux arrière et de signalisation"
+      - "Les dommages causés aux autres parties du véhicule par le bris de glaces"
+    conditions:
+      - "ces frais ne peuvent être supérieurs à la valeur des glaces assurées du véhicule stipulée aux conditions particulières"
+
+  PERSONAL_INJURY:
+    title: Conducteur et personnes transportées à titre gratuit
+    ref: Art. 4
+    plain: "l’assureur garantit le paiement des indemnités prévues aux conditions particulières lorsque le conducteur et les personnes transportées gratuitement qui se trouvent à bord du véhicule assuré, ont été victimes d’un accident de la circulation"
+
+deadlines:
+  - {code: DECLARATION_VOL, title: Déclarer un vol, value: 2 jours ouvrés, ref: Art. 5.2, text: "dans les 2 jours ouvrés pour le vol et les tentatives de vol"}
+  - {code: DECLARATION_SINISTRE, title: Déclarer un sinistre, value: 5 jours ouvrés, ref: Art. 5.2, text: "dans les 5 jours ouvrés pour les autres garanties"}
+  - {code: PRESCRIPTION, title: Agir en justice, value: deux ans, ref: Art. 10.1, text: "Toutes actions dérivant du présent contrat sont prescrites par deux ans, à compter de l’événement qui y donne naissance"}
+
+claim_steps:
+  ref: Art. 5
+  items:
+    - {code: step.EXPERT, text: "L’assuré ne doit pas procéder ou faire procéder à des réparations avant que le véhicule endommagé ne soit visité par l’expert désigné par l’assureur"}
+    - {code: step.INFOS, text: "le n° de police ou de l’attestation d’assurance"}
+    - {code: step.INFOS, text: "la date, la cause, la nature, les circonstances et les conséquences du sinistre"}
+
+fault:
+  not_at_fault:
+    - {code: RECOURS, ref: Art. 2.3, text: "la réparation pécuniaire de ses dommages, lorsque ceux-ci résultent d’un accident de circulation survenu au véhicule assuré et aux objets qu’il transporte, causé par un tiers identifié dont la responsabilité est engagée"}
+
+compensation:
+  - {title: Paiement, ref: Art. 6.3, text: "Ce règlement doit avoir lieu dans les trente jours suivant la date de l’accord amiable, ou celle à compter de laquelle la décision est devenue définitive"}
+  - {title: Vol, ref: Art. 6.3, text: "En ce qui concerne la disparition totale du véhicule suite à un vol, le règlement ne peut être exigé par l’assuré qu’après un délai de trente jours à dater de la déclaration du sinistre"}
+
+# Pays couverts (code terr.* de copy/fr.json) : extrait vérifié dans le PDF.
+territory: {code: MAROC_CARTE_VERTE, ref: Partie II, text: "L’assurance produit ses effets au Maroc et dans les pays adhérents à la con- vention"}

@@ -1,0 +1,51 @@
+# Compagnies d'assurance automobile au Maroc proposées au démarrage.
+#
+# cg: fichier config/cg_library/<cg>.yaml (extraits du PDF config/cg_library/pdf/). Sans « cg » : aucune CG intégrée,
+#     l'application n'affiche que les informations de la CP.
+# aliases: libellés reconnus sur une CP (comparés sans accents ni majuscules).
+
+
+insurers:
+  wafa_assurance:
+    label: Wafa Assurance
+    aliases: [wafa assurance, wafa]
+    cg: wafa_assurance
+  rma:
+    label: RMA
+    aliases: [rma, rma watanya]
+    cg: rma
+  axa_maroc:
+    label: AXA Assurance Maroc
+    aliases: [axa assurance maroc, axa maroc, axa]
+    cg: axa_maroc
+  sanlam_maroc:
+    label: Sanlam Maroc
+    aliases: [sanlam maroc, sanlam, saham assurance, saham]
+    cg: sanlam_maroc
+  atlantasanad:
+    label: AtlantaSanad Assurance
+    aliases: [atlantasanad, atlanta sanad, atlantasanad assurance, atlanta, sanad]
+    cg: atlantasanad
+  allianz_maroc:
+    label: Allianz Maroc
+    aliases: [allianz maroc, allianz, zurich assurances maroc]
+  mcma:
+    label: MCMA
+    full_name: Mutuelle Centrale Marocaine d'Assurances
+    aliases: [mcma, mutuelle centrale marocaine d assurances]
+    cg: mcma
+  mamda:
+    label: MAMDA
+    full_name: Mutuelle Agricole Marocaine d'Assurances
+    aliases: [mamda, mutuelle agricole marocaine d assurances]
+  cat:
+    label: CAT
+    full_name: Compagnie d'Assurance Transport
+    aliases: [cat, compagnie d assurance transport]
+  matu:
+    label: MATU
+    full_name: Mutuelle d'Assurances des Transporteurs Unis
+    aliases: [matu, mutuelle d assurances des transporteurs unis]
+  other:
+    label: Autre assureur
+    aliases: []

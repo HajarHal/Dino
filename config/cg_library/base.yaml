@@ -1,0 +1,58 @@
+# Structure commune à tous les assureurs : à quel cas (« Vol », « Bris de glace »…) et à quelles pièces de la
+# voiture se rapporte chaque garantie. AUCUN texte ici : tout ce que lit l'assuré vient des Conditions Générales
+# de son assureur (<id>.yaml, extraits vérifiés dans le PDF) ou de sa CP.
+
+guarantees:
+  RC: {cases: [police, passengers]}
+  DEFENSE_RECOURS: {cases: [defense]}
+  ALL_ACCIDENTS: {cases: [police], parts: [front_bumper, bodywork, headlights, mirrors, wheels, engine_mechanics,
+    rear_bumper]}
+  ALL_RISKS: {cases: [police], parts: [front_bumper, bodywork, headlights, mirrors, wheels, engine_mechanics,
+    rear_bumper]}
+  TIERCE: {cases: [police], parts: [front_bumper, bodywork, headlights, mirrors, wheels, engine_mechanics,
+    rear_bumper]}
+  ALL_ACCIDENTS_LIMITED: {cases: [police], parts: [front_bumper, bodywork, headlights, mirrors, engine_mechanics,
+    rear_bumper]}
+  COLLISION: {cases: [police], needs_third_party: true, parts: [front_bumper, bodywork, headlights,
+    mirrors, engine_mechanics, rear_bumper]}
+  COLLISION_EXTENDED: {cases: [police], needs_third_party: true, parts: [front_bumper, bodywork, headlights,
+    mirrors, engine_mechanics, rear_bumper]}
+  FIRE: {cases: [fire], parts: [windshield, side_windows, rear_window, headlights, mirrors,
+    front_bumper, bodywork, wheels, engine_mechanics, rear_bumper]}
+  THEFT: {cases: [theft], parts: [car]}
+  MIRROR_THEFT: {cases: [theft], parts: [mirrors, headlights]}
+  WHEEL_THEFT: {cases: [theft], parts: [wheels]}
+  GLASS: {cases: [glass], parts: [windshield, side_windows, rear_window]}
+  MIRROR_GLASS: {cases: [glass], parts: [mirrors, headlights]}
+  PANORAMIC_ROOF: {cases: [glass], parts: [windshield]}
+  FLOOD: {cases: [nature], parts: [bodywork, engine_mechanics, front_bumper, wheels, headlights]}
+  NATURAL_EVENTS: {cases: [nature], parts: [windshield, side_windows, rear_window, bodywork, front_bumper,
+    engine_mechanics, headlights]}
+  CAT_EVENTS_DAMAGE: {cases: [nature], parts: [windshield, side_windows, rear_window, bodywork, front_bumper,
+    engine_mechanics, headlights, mirrors, wheels]}
+  CAT_EVENTS_LIABILITY: {cases: [nature]}
+  VANDALISM: {cases: [police], parts: [bodywork, windshield, side_windows, rear_window, mirrors,
+    headlights, wheels]}
+  DRIVER_PROTECTION: {cases: [driver]}
+  PASSENGER_PROTECTION: {cases: [passengers]}
+  PERSONAL_INJURY: {cases: [driver, passengers]}
+  DEATH_BENEFIT: {cases: [driver]}
+  DISABILITY_BENEFIT: {cases: [driver]}
+  MEDICAL_COSTS: {cases: [driver]}
+  DEATH_ALL_CAUSES: {cases: [driver]}
+  HOSPITAL_COSTS: {cases: [driver]}
+  FUNERAL_COSTS: {cases: [driver]}
+  REPAIR_SURGERY: {cases: [driver]}
+  ASSISTANCE: {cases: [assistance]}
+  DEPRECIATION_BUYBACK: {cases: [police]}
+  DEDUCTIBLE_BUYBACK: {cases: [police]}
+  FINANCIAL_LOSS: {cases: [police]}
+  INCREASED_VALUE: {cases: [police]}
+  TOTAL_LOSS: {cases: [police]}
+  MECHANICAL_BREAKDOWN: {cases: [police], parts: [engine_mechanics]}
+  EXTERIOR_ACCESSORIES: {cases: [police]}
+  PROFESSIONAL_FITTINGS: {cases: [police]}
+  IMMOBILIZATION_COSTS: {cases: [police]}
+  SUPPLEMENTARY_INDEMNITY: {cases: [police]}
+  GOODS_TRANSPORTED: {cases: [police]}
+  BUSINESS_INTERRUPTION: {cases: [police]}

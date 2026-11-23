@@ -1,0 +1,130 @@
+# Conditions Générales RMA « Multirisque Automobile HIFAD » : pdf/rma.pdf.
+# Chaque texte est un EXTRAIT MOT POUR MOT du PDF (« … » relie deux morceaux) ; tests/test_coverage.py le vérifie.
+# ref : partie et paragraphe du document.
+
+source:
+  pdf: rma.pdf
+  document: Conditions Générales Multirisque Automobile HIFAD
+  product: HIFAD
+
+guarantees:
+  RC:
+    title: Responsabilité Civile Automobile
+    ref: Partie I
+    plain: "La garantie Responsabilité Civile Automobile visée à l’article 120 de la loi n°17-99 est régie par les Conditions Générales types fixées par arrêté du Ministre des finances et de la privatisation"
+
+  DEFENSE_RECOURS:
+    title: Défense et Recours
+    ref: Partie IV, 1
+    plain: "La garantie Défense et Recours vous est accordée si elle est mentionnée comme telle aux Conditions Particulières"
+    covers:
+      - {code: cov.DEFENSE_PENALE, text: "Pourvoir à la défense de vos intérêts en cas de poursuites fondées sur la circulation ou l’utilisation du véhicule assuré"}
+      - "Instruire les dossiers sinistres et prendre en charge le coût des expertises mécaniques diligentées par nos soins"
+
+  TIERCE:
+    title: Tierce
+    ref: Partie IV, 2.1
+    plain: "Nous garantissons les dommages subis par le véhicule assuré ainsi que par les accessoires et pièces de rechange dont le catalogue du Constructeur prévoit la livraison en même temps que celle du véhicule assuré"
+    covers:
+      - "Collision avec un autre véhicule"
+      - "Choc avec un corps fixe ou mobile ainsi que les personnes et les animaux"
+      - "Renversement du véhicule avec ou sans collision préalable"
+    conditions:
+      - "elle peut être accordée tant que l’âge du véhicule assuré ne dépasse pas 5 ans et peut être renouvelée jusqu’à l’âge de 10 ans"
+    part_notes:
+      wheels: "Nous garantissons également les dommages subis par les pneumatiques et/ou les jantes uniquement lorsqu’ils sont endommagés en même temps que d’autres parties du véhicule"
+
+  COLLISION:
+    title: Dommages Collision
+    ref: Partie IV, 2.4
+    plain: "Nous garantissons les dommages subis par le véhicule assuré … en cas de collision engageant ou non votre responsabilité totale ou partielle"
+    covers:
+      - "un véhicule (y compris hippomobile, cycles avec ou sans moteur) appartenant à un tiers identifié, ayant reconnu la matérialité de l’accident"
+      - "un piéton identifié"
+      - "des animaux sur autoroutes"
+    parts_note: "appartenant à un tiers identifié, ayant reconnu la matérialité de l’accident"
+
+  FIRE:
+    title: Incendie, Explosions et Dommages électriques
+    ref: Partie IV, 2.5
+    plain: "en cas d’incendie, conflagration, embrasement, explosion, simple combustion ou de chute de la foudre"
+    covers:
+      - "Nous garantissons également les dommages aux appareils et faisceaux électriques provoqués par l’incendie ou l’explosion d’autres parties du véhicule"
+
+  THEFT:
+    title: Vol
+    ref: Partie IV, 2.6
+    plain: "Nous garantissons à hauteur de la limite fixée aux Conditions Particulières les dommages consécutifs à la disparition totale du véhicule assuré ainsi que les détériorations liées directement à une tentative de vol"
+    covers:
+      - "Nous garantissons également à hauteur de 3% de la valeur vénale du véhicule au jour du sinistre, avec un maximum de 5 000 dirhams, les frais engagés légitimement pour la récupération du véhicule volé"
+      - {code: cov.BRIS_SUITE_VOL, text: "A hauteur de 1 000 dirhams par sinistre, nous assurons le bris des glaces résultant d’un vol ou d’une tentative de vol"}
+    not_covered:
+      - "le vol isolé des rétroviseurs sauf en cas de souscription à l’extension de garantie ‘’vol isolé des rétroviseurs’’"
+      - "Le vol, arrachage ou démontage isolés des roues, enjoliveurs, essuie-glaces, antennes, sigles, batteries et éléments de carrosserie"
+      - {code: ex.CLES_SUR_VEHICULE, text: "Les vols commis lorsque le vol aura été facilité par l’abandon des clés du véhicule sur ou dans le véhicule"}
+    conditions:
+      - "La garantie Vol s’exerce dans la limite de la valeur indiquée aux Conditions Particulières"
+
+  GLASS:
+    title: Bris des glaces
+    ref: Partie IV, 2.7
+    plain: "Nous garantissons les dommages résultant d’un bris subis par"
+    covers:
+      - "Le pare-brise"
+      - "Les glaces latérales avant et arrière"
+      - "La lunette arrière"
+      - "Le toit fixe ou ouvrant transparent quel que soit son matériau"
+      - {code: cov.JOINTS_KITS, text: "Les coûts des joints d’étanchéité, des kits de collage et détecteurs de pluie"}
+      - "Les bris résultant de dégradations volontaires par un acte de vandalisme"
+      - {code: cov.BRIS_SUITE_VOL, text: "Les bris résultant du vol ou d’une tentative de vol du véhicule assuré et de ses accessoires"}
+    not_covered:
+      - "Le bris des ampoules de phares, si seules celles-ci sont endommagées"
+      - "Le bris des phares longue portée ainsi que des phares antibrouillard"
+      - "Le bris des feux arrière et de signalisation"
+      - "Les dommages causés aux autres parties du véhicule par le bris des glaces"
+    cases: [glass, theft]
+
+  FLOOD:
+    title: Inondation
+    ref: Partie IV, 2.8
+    plain: "Nous garantissons les dommages matériels directs subis par le véhicule assuré … lorsque ces dommages résultent de l’intensité anormale de l’eau"
+    covers:
+      - "Le ruissellement, l’engorgement et le refoulement des égouts"
+
+  DEPRECIATION_BUYBACK:
+    title: Rachat de vétusté
+    ref: Partie IV, 2.9
+    plain: "La garantie Rachat de vétusté est appliquée en cas de sinistre responsabilité civile non responsable ou partiellement responsable couvert"
+    covers:
+      - {code: cov.VETUSTE_REMBOURSEE, text: "la Compagnie s’engage à rembourser le montant de la vétusté appliquée par le ou les experts dans l’estimation des dommages, en tenant compte du taux de responsabilité de l’Assuré"}
+
+  FINANCIAL_LOSS:
+    title: Perte financière
+    ref: Partie IV, 2.10
+    plain: "Le Capital restant dû à l’Organisme de crédit le jour du sinistre, déduction faite du montant de l’indemnité due au titre de la garantie de base concernée et de la valeur de l’épave"
+
+  PERSONAL_INJURY:
+    title: Personnes transportées en automobile (P.T.A)
+    ref: Partie IV, 3
+    plain: "a pour objet de protéger les personnes assurées lorsqu’elles sont victimes d’un accident corporel impliquant le véhicule assuré, désigné aux Conditions Particulières"
+
+deadlines:
+  - {code: DECLARATION_VOL, title: Déclarer un vol, value: deux (2) jours ouvrés, ref: Partie VII, 1.1, text: "Dans les deux (2) jours ouvrés de la survenance du sinistre, pour le vol et les tentatives de vol"}
+  - {code: DECLARATION_SINISTRE, title: Déclarer un sinistre, value: cinq (5) jours ouvrés, ref: Partie VII, 1.1, text: "Dans les cinq (5) jours ouvrés de la survenance du sinistre, pour les autres dommages"}
+  - {code: PRESCRIPTION, title: Agir en justice, value: deux (2) ans, ref: Partie VI, 8, text: "Toutes actions dérivant du présent contrat sont prescrites par deux (2) ans"}
+
+claim_steps:
+  ref: Partie VII, 1
+  items:
+    - {code: step.EXPERT, text: "Vous ne devez pas procéder ou faire procéder à des réparations avant que le véhicule e… endommagé ne soit visité"}
+
+fault:
+  not_at_fault:
+    - {code: VETUSTE_PAID, ref: "Partie IV, 2.9", text: "la Compagnie s’engage à rembourser le montant de la vétusté appliquée par le ou les experts dans l’estimation des dommages, en tenant compte du taux de responsabilité de l’Assuré"}
+    - {ref: "Partie IV, 2.4", text: "en cas de collision engageant ou non votre responsabilité totale ou partielle"}
+
+compensation:
+  - {title: Expertise, ref: Partie VII, 2.1, text: "Les dommages sont évalués de gré à gré par les parties ou, à défaut d’accord, par expertise"}
+  - {title: Contestation, ref: Partie VII, 2.1, text: "En cas de désaccord, les parties recourent à une expertise contradictoire. Chacune des parties choisit un expert"}
+  - {title: Valeur à neuf, ref: Partie VII, 2.2, text: "Le montant total de l’indemnité ainsi déterminé ne peut dépasser la valeur vénale du véhicule au jour du sinistre"}
+  - {title: Véhicule irréparable, ref: Partie VII, 2.2, text: "le véhicule est techniquement ou économiquement irréparable pour cause de réforme, le montant des dommages est égal à la valeur vénale du véhicule"}

@@ -1,0 +1,167 @@
+# Conditions Générales Wafa Assurance, Assurance Automobile : pdf/wafa_assurance.pdf.
+# Chaque texte est un EXTRAIT MOT POUR MOT du PDF (« … » relie deux morceaux) ; tests/test_coverage.py le vérifie.
+
+source:
+  pdf: wafa_assurance.pdf
+  document: Conditions Générales Assurance Automobile
+
+guarantees:
+  RC:
+    title: Responsabilité Civile
+    ref: "A) et annexe (Conditions Générales-Type)"
+    plain: "Cette garantie est régie par les CONDITIONS GENERALES – TYPE DES CONTRATS RELATIFS A L’Assurance « RESPONSABILITE CIVILE AUTOMOBILE »"
+
+  GLASS:
+    title: Bris des glaces
+    ref: Art. 7
+    plain: "les frais de réparation et/ou de remplacement engagés à la suite d’un bris des éléments en verre, glace ou verre organique suivants"
+    covers:
+      - "pare-brise, vitre arrière, glaces latérales, toit (ouvrant ou non), du véhicule assuré"
+      - "L’assureur étend la garantie bris de glace, dans la limite de 3000 DH, aux dommages subis par les phares avant et optiques arrière livrés en série par le constructeur ainsi que des glaces des rétroviseurs latéraux"
+    not_covered:
+      - {code: ex.PERTE_TOTALE_CONSECUTIVE, text: "La garantie n’est pas acquise en cas de perte totale du véhicule"}
+      - "Les dommages causés aux glaces du véhicule lors d’un vol ou d’une tentative de vol du véhicule"
+      - "Le bris des ampoules des phares, si seules celles-ci sont endommagés"
+    parts: [windshield, side_windows, rear_window, headlights, mirrors]
+    part_notes:
+      headlights: "dans la limite de 3000 DH, aux dommages subis par les phares avant et optiques arrière"
+      mirrors: "dans la limite de 3000 DH … des glaces des rétroviseurs latéraux"
+
+  FIRE:
+    title: Incendie
+    ref: Art. 8
+    plain: "le véhicule assuré ainsi que les accessoires et pièces de rechange livrés en série par le constructeur contre les dommages résultant d’un incendie, d’une combustion spontanée, de l’action de la foudre ou d’explosion"
+    covers:
+      - "La garantie est également étendue aux dommages subis par les appareils électriques du véhicule assuré, âgé de moins de 5 ans à la date du sinistre"
+    not_covered:
+      - "Les dommages résultant des brûlures occasionnées par les fumeurs"
+      - "Les explosions des pneumatiques et les dommages au véhicule en résultant"
+    part_notes:
+      wheels: "Les explosions des pneumatiques et les dommages au véhicule en résultant"
+
+  THEFT:
+    title: Vol ou tentative de vol du véhicule
+    ref: Art. 9 et 10
+    plain: "Nous indemnisons des dommages subis par le véhicule assuré"
+    covers:
+      - "Du vol du véhicule"
+      - "Du vol ou tentative de vol commis avec effraction, usage de fausses clés, violence corporelle ou tentative de meurtre"
+      - "Au vol des rétroviseurs latéraux résultant du vol ou de tentative de vol, dans la limite de 3000 DH"
+    not_covered:
+      - "L’escroquerie ou l’abus de confiance, tels que définis par le Code Pénal"
+      - "Les dommages consécutifs à un acte de vandalisme"
+      - "Le vol de pneus de secours et pneumatiques seuls"
+      - "Le vol des pièces, dérobées séparément, dont l’absence n’empêche pas le véhicule de se mouvoir"
+
+  COLLISION:
+    title: Dommages Collision
+    ref: Art. 11
+    plain: "Nous garantissons le véhicule assuré contre les dommages résultant directement de la collision du véhicule assuré avec un ou plusieurs autres véhicules terrestres à moteur dûment identifiés"
+    covers:
+      - "et ce, quelque soit le degré de responsabilité de l’assuré"
+    not_covered:
+      - {code: ex.ALCOOL, text: "Les dommages subis par le véhicule assuré lorsque le conducteur conduit sous l’emprise d’un état alcoolique"}
+      - "Les dommages subis par les pneumatiques sauf si ces dommages sont la conséquence d’un accident affectant d’autres parties du véhicule"
+    conditions:
+      - {codes: [cond.CONSTAT_SIGNE, cond.PV_POLICE], text: "La garantie dommage collision ne s’applique que si la collision entre les véhicules impliqués a fait l’objet d’un CONSTAT amiable validé et signé par les parties, ou d’un Procès Verbal de police ou de gendarmerie"}
+    parts_note: "avec un ou plusieurs autres véhicules terrestres à moteur dûment identifiés"
+
+  ALL_ACCIDENTS:
+    title: Dommages Tous Accidents
+    ref: Art. 12
+    plain: "Nous garantissons le véhicule assuré contre les dommages résultant"
+    covers:
+      - "de la collision du véhicule assuré avec un ou plusieurs autres véhicules"
+      - "du choc entre le véhicule assuré et un corps fixe ou mobile"
+      - "du renversement sans collision préalable du véhicule assuré"
+    not_covered:
+      - {code: ex.ALCOOL, text: "Les dommages subis par le véhicule assuré lorsque le conducteur conduit sous l’emprise d’un état alcoolique"}
+      - {code: ex.DEFAUT_ENTRETIEN, text: "Les dommages qui seraient la conséquence directe et exclusive d’un défaut d’entretien ou de l’usure du véhicule"}
+      - "Les dommages subis par les pneumatiques sauf si ces dommages sont la conséquence d’un accident affectant d’autres parties du véhicule"
+      - "Les dommages consécutifs à un vol, vandalisme, incendie, événements climatiques, chute de la foudre, court-circuit, inondations ou au gel"
+    conditions:
+      - "Les garanties « Dommages Collisions » et « Dommages Tous accidents » ne sont pas cumulables"
+    part_notes:
+      wheels: "Les dommages subis par les pneumatiques sauf si ces dommages sont la conséquence d’un accident affectant d’autres parties du véhicule"
+
+  DEPRECIATION_BUYBACK:
+    title: Rachat de vétusté
+    ref: Art. 13
+    plain: "nous indemnisons le montant de la vétusté devant rester à la charge de l’assuré au titre de ces garanties"
+    covers:
+      - {code: cov.VETUSTE_REMBOURSEE, text: "nous indemnisons le montant de la vétusté appliquée par la compagnie adverse dans l’indemnisation de l’assuré, en tenant compte du taux de responsabilité de l’assuré"}
+    not_covered:
+      - "la garantie Rachat de Vétusté n’est pas acquise lorsque le véhicule sinistré est irréparable à dire d’experts"
+
+  DEFENSE_RECOURS:
+    title: Défense et Recours
+    ref: Art. 17 et 18
+    plain: "Le présent contrat garantit la défense des intérêts des personnes assurées dés lors qu’elles sont poursuivies par les tribunaux répressifs à la suite d’un événement en relation avec le véhicule assuré"
+    covers:
+      - {code: cov.RECOURS_TIERS, text: "Le présent contrat permet d’obtenir la réparation pécuniaire des dommages subis par le véhicule ainsi que les dommages non indemnisés par une autre assurance"}
+    conditions:
+      - {code: cond.TIERS_IDENTIFIE, text: "dans la mesure où ces divers dommages résultent d’un accident causé audit véhicule, engageant la responsabilité d’un tiers identifié"}
+
+  DRIVER_PROTECTION:
+    title: Protection du Conducteur
+    ref: Art. 19 et 20 bis
+    plain: "La garantie Protection du Conducteur a pour objet de garantir à l’assuré, l’indemnisation des dommages corporels subis lors d’un accident"
+    conditions:
+      - "Lorsque l’assuré est responsable d’un accident de la circulation, provoqué par le véhicule assuré, les dommages corporels qui lui sont causés ne sont pas indemnisables au titre de la garantie Responsabilité Civile"
+
+  PASSENGER_PROTECTION:
+    title: Protection des Passagers
+    ref: Art. 20 et 20 bis
+    plain: "L’assureur garantit l’indemnisation des dommages causés au conducteur et aux personnes transportées à titre gratuit, à l'intérieur du véhicule assuré, à la suite d’un accident automobile"
+
+deadlines:
+  - {code: DECLARATION_SINISTRE, title: Déclarer un sinistre, value: cinq (5) jours, ref: Art. 32, text: "déclarer à l'assureur dès qu'il en a eu connaissance et au plus tard dans les cinq (5) jours de sa survenance, tout sinistre de nature à entraîner la garantie de ce dernier"}
+  - {code: DECLARATION_VOL, title: Déclarer un vol, value: 48 heures, ref: Art. 32, text: "Pour la garantie « Vol du véhicule », l’assuré doit faire sa déclaration dès qu’il en eu connaissance et au plus tard dans les 48 heures de sa survenance"}
+  - {code: PRESCRIPTION, title: Agir en justice, value: deux ans, ref: "Art. 35", text: "Toutes actions dérivant du présent contrat sont prescrites par deux ans à compter de l'événement qui y donne naissance"}
+
+claim_steps:
+  ref: Art. 32
+  items:
+    - {code: step.DECLARER, text: "La déclaration du sinistre doit être faite par écrit ou verbalement et contre récépissé"}
+    - {code: step.INFOS, text: "indiquer à l'assureur les numéros de la police et de l'attestation d'assurance, la date, jour et heure, la nature et les circonstances du sinistre"}
+    - {code: step.TRANSMETTRE_COURRIERS, text: "transmettre à l'assureur, dans le plus bref délai, tous avis, lettres, convocations, assignations, actes extrajudiciaires et pièces de procédure"}
+
+fault:
+  at_fault:
+    - {code: ME_PAID, ref: Art. 19, text: "Lorsque l’assuré est responsable d’un accident de la circulation, provoqué par le véhicule assuré, les dommages corporels qui lui sont causés ne sont pas indemnisables au titre de la garantie Responsabilité Civile"}
+    - {code: PREMIUM_UP, ref: "Annexe, art. 19", text: "ce coefficient, qui ne peut excéder 2,5 , s’obtient en ajoutant à un (1) pour chacun de ces sinistres"}
+    - {code: PREMIUM_UP, ref: "Annexe, art. 19", text: "0,20 pour les autres usages si le sinistre est matériel"}
+    - {code: PREMIUM_UP, ref: "Annexe, art. 19", text: "0,30 pour les autres usages si le sinistre est corporel, ou matériel et corporel à la fois"}
+  not_at_fault:
+    - {code: RECOURS, ref: Art. 17, text: "Le présent contrat permet d’obtenir la réparation pécuniaire des dommages subis par le véhicule ainsi que les dommages non indemnisés par une autre assurance"}
+    - {code: VETUSTE_PAID, ref: Art. 13, text: "nous indemnisons le montant de la vétusté appliquée par la compagnie adverse dans l’indemnisation de l’assuré, en tenant compte du taux de responsabilité de l’assuré"}
+  needs:
+    - {code: cond.TIERS_IDENTIFIE, ref: Art. 17, text: "un accident causé audit véhicule, engageant la responsabilité d’un tiers identifié"}
+    - {codes: [cond.CONSTAT_SIGNE, cond.PV_POLICE], ref: Art. 11, text: "CONSTAT amiable validé et signé par les parties, ou d’un Procès Verbal de police ou de gendarmerie"}
+
+compensation:
+  - {title: Montants, ref: Art. 21, text: "Les montants de garanties et franchises sont fixés aux conditions particulières"}
+  - {title: Sinistre total, ref: Art. 21, text: "le montant de l’indemnité est égal à la valeur vénale du véhicule avant sinistre à dire d’expert, déduction faite de la valeur résiduelle du véhicule après sinistre, sans pouvoir toutefois dépasser le montant assuré"}
+  - {title: Première année, ref: Art. 21, text: "Lorsque l’évènement survient durant la première année de mise en circulation du véhicule, la valeur servant de base à l’indemnisation sera la valeur à neuf réelle du véhicule selon facture d’achat"}
+  - {title: Véhicule réparable, ref: Art. 21, text: "Dans tous les autres cas où le véhicule assuré est réparable, l’indemnité sera égale au coût de la réparation ou de remplacement des pièces endommagées"}
+  - {title: Expertise, ref: Art. 21, text: "Les dommages sont évalués de gré à gré par les parties et, en cas de désaccord, par expertise"}
+
+common_exclusions:
+  ref: Art. 3
+  items:
+    - {code: ex.COURSE_COMPETITION, text: "Les dommages survenus au cours de rallyes, épreuves, courses ou compétitions (ou leurs essais)"}
+    - {code: ex.MATIERES_DANGEREUSES, text: "Les dommages causés au véhicule assuré lorsqu'il transporte des matières inflammables, explosives, corrosives ou comburantes"}
+    - {code: ex.OBJETS_TRANSPORTES, text: "Les dommages subis par les marchandises et objets transportés par le véhicule assuré"}
+    - {code: ex.FAUTE_INTENTIONNELLE, text: "Les dommages causés intentionnellement par l’assuré"}
+
+# Bonus-malus (Conditions Générales-Type RC en annexe) : chaque valeur doit figurer dans un des extraits (test).
+bonus_malus:
+  material_fault_increase: 0.20
+  bodily_fault_increase: 0.30
+  max_coefficient: 2.5
+  needs_review: true
+  ref: "Annexe, art. 19"
+  texts:
+    - "ce coefficient, qui ne peut excéder 2,5 , s’obtient en ajoutant à un (1) pour chacun de ces sinistres"
+    - "0,20 pour les autres usages si le sinistre est matériel"
+    - "0,30 pour les autres usages si le sinistre est corporel, ou matériel et corporel à la fois"
