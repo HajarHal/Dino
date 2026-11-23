@@ -1,3 +1,13 @@
+---
+title: Dino
+emoji: 🦕
+colorFrom: purple
+colorTo: pink
+sdk: docker
+app_port: 7860
+pinned: false
+---
+
 # Dino · Ma couverture auto
 
 « Découvrez ce qui est couvert sur votre véhicule et comprenez votre assurance simplement. »
