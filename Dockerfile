@@ -14,6 +14,7 @@ COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 COPY --chown=user . .
 COPY --from=frontend --chown=user /app/frontend/dist ./frontend/dist
+RUN mkdir -p /app/data && chown -R user /app/data
 USER user
 ENV ICA_DATA_DIR=/app/data PORT=7860
 EXPOSE 7860
